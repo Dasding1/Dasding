@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "68bdb0177a6320a6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "3aa1ea3782e80e19",
             "type": "leaf",
             "state": {
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,8 +166,8 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
-    "index.md",
     "Test.md",
+    "index.md",
     "assets/attachments/Pasted image 20240410194706.png",
     "_daily/2024-04-10.md",
     "assets/imgs/buddhist_swastika.jpeg",
