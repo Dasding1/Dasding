@@ -17,7 +17,7 @@
   "autoBackupAfterFileChange": true,
   "treeStructure": false,
   "refreshSourceControl": true,
-  "basePath": "git@github.com:Dasding1/Dasding.git",
+  "basePath": "C:\\Users\\Ewerton\\Documents\\CloneRepo\\Dasding",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
   "username": "",
