@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Test.md",
                 "mode": "source",
                 "source": true
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Test.md"
               }
             }
           },
@@ -175,6 +175,8 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
+    "index.md",
+    "Test.md",
     "assets/attachments/Pasted image 20240410194706.png",
     "_daily/2024-04-10.md",
     "assets/imgs/buddhist_swastika.jpeg",
