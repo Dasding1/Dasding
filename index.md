@@ -5,6 +5,10 @@ title: Home
 
 ![[Pasted image 20240410222151.png]]
 
-{:.center}{:.glow}<p>
+<div class="center">
+<div class="glow">
+<p>
 Pairing the darkness of thought with the clarity of expression
-</p>{/:.center}{/:.glow} 
+</p>
+</div>
+</div>
