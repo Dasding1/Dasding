@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2024-04-10.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0a0cd5908b5f01e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_daily/2024-04-10.md",
+                "file": "_daily/2024-04 dsadna.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2024-04-10.md",
+                "file": "_daily/2024-04 dsadna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2024-04-10.md",
+                "file": "_daily/2024-04 dsadna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2024-04-10.md"
+                "file": "_daily/2024-04 dsadna.md"
               }
             }
           },
@@ -177,11 +164,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a0cd5908b5f01e2",
+  "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
+    "_daily/2024-04-10.md",
+    "_daily/2024-04 dsadna.md",
     "_daily/Amazing Note.md",
     "_daily/Untitled.md",
-    "_daily/2024-04-10.md",
     "_daily/2022-05-11.md",
     "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
     "Test.md",
