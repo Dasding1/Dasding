@@ -55,8 +55,9 @@ margin: auto;
 }
 
 article {
-    background-color: $background;    
-    box-shadow: 1px 1px 0px $color-box-shadow;
+    background-color: #00000077;
+    box-shadow: 1px 1px 0px none;
+    margin-bottom: 0.5em;
 }
 
 
