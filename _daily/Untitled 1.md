@@ -1,9 +1,0 @@
----
-published: true
-subtitle: 
-date: 2024-04-10
-tags: 
----
-
-# 2024-04-10
-dsadjah
