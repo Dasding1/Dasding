@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_site/readme.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_site/readme.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_site/readme.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_site/readme.md"
+                "file": "index.md"
               }
             }
           },
@@ -166,6 +166,8 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
+    "_daily/2024-04-12.md",
+    "_site/readme.md",
     "_site/assets/imgs/card.png",
     "_site/assets/imgs/bg-yotsuba.gif",
     "index.md",
@@ -200,12 +202,10 @@
     "Test.md",
     "assets/attachments/Pasted image 20240410194706.png",
     "assets/imgs/buddhist_swastika.jpeg",
-    "assets/imgs/Dasding.png",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
     "_articles/table test.md",
     "_daily/2022-10-25.md",
-    "_articles/Exocore Installation Instructions.md",
-    "_articles/Writing with Exocore Syntax.md"
+    "_articles/Exocore Installation Instructions.md"
   ]
 }
