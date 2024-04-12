@@ -15,11 +15,14 @@ profile_pic: assets/imgs/Dasding.png
 
 
 # The header that will be displayed on your homepage:
-welcome_header: DASDING
+welcome_header:
 
 
 # The subtitle to the above header on your homepage:
-welcome_subtitle: <img src="assets/imgs/buddhist_swastika.jpeg"
+welcome_subtitle: 
+<h1>DASDING</h1>
+<br>
+<img src="assets/imgs/buddhist_swastika.jpeg"
 
 
 # Include the Viral Public License at the bottom of your posts (Accepts true/false). Read more about the VPL at https://viralpubliclicense.org.
