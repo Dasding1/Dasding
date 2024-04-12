@@ -3,7 +3,7 @@
 ##############################
 
 title: Dasding
-description: A navigable, organised hypertext personal knowledge base
+description: To be cringe, and post it anyway
 url: https://dasding.netlify.app/
 repository: Dasding1/Dasding
 
@@ -71,7 +71,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/imgs/card.png
+      image: /assets/imgs/card2.png
   - scope:
       path: ""
       type: "articles"
