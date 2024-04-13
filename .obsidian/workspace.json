@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_journal/2024-04 Telos.md",
+                "file": "_daily/2024-04-13.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_journal/2024-04 Telos.md",
+                "file": "_daily/2024-04-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_journal/2024-04 Telos.md",
+                "file": "_daily/2024-04-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_journal/2024-04 Telos.md"
+                "file": "_daily/2024-04-13.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
-    "_daily/2024-04-12 Addendum (Telos).md",
     "_journal/2024-04 Telos.md",
+    "_daily/2024-04-13.md",
+    "_daily/2024-04-12 Addendum (Telos).md",
     "_daily/2022-05-11.md",
     "index.md",
     "assets/attachments/4732 1.png",
