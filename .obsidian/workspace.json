@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "2024-04 Telos.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "2024-04 Telos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "2024-04 Telos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "2024-04 Telos.md"
               }
             }
           },
@@ -166,12 +166,14 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
+    "assets/attachments/4732.png",
+    "index.md",
+    "2024-04 Telos.md",
     "assets/attachments/Hands.png",
     "_daily/2024-04-12.md",
     "_site/readme.md",
     "_site/assets/imgs/card.png",
     "_site/assets/imgs/bg-yotsuba.gif",
-    "index.md",
     "readme.md",
     "assets/imgs/card.png",
     "assets/imgs/card (2).png",
@@ -202,10 +204,8 @@
     "styles.css.scss",
     "Test.md",
     "assets/attachments/Pasted image 20240410194706.png",
-    "assets/imgs/buddhist_swastika.jpeg",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
-    "_articles/table test.md",
-    "_daily/2022-10-25.md"
+    "_articles/table test.md"
   ]
 }
