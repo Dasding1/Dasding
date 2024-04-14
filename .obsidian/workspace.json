@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04 HxH 19992011.md",
+                "file": "_journal/2024-04 HxH 19992011.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04 HxH 19992011.md",
+                "file": "_journal/2024-04 HxH 19992011.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04 HxH 19992011.md",
+                "file": "_journal/2024-04 HxH 19992011.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04 HxH 19992011.md"
+                "file": "_journal/2024-04 HxH 19992011.md"
               }
             }
           },
@@ -164,11 +164,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3aa1ea3782e80e19",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
     "assets/attachments/4738.jpg",
     "ring.md",
-    "2024-04 HxH 19992011.md",
+    "_journal/2024-04 HxH 19992011.md",
     "_daily/2024-04-13.md",
     "_journal/2024-04 Telos.md",
     "_daily/2024-04-12 Addendum (Telos).md",
