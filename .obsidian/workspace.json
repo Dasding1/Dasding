@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2024-04-14.md",
+                "file": "_daily/2024-04-15.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2024-04-14.md",
+                "file": "_daily/2024-04-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2024-04-14.md",
+                "file": "_daily/2024-04-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2024-04-14.md"
+                "file": "_daily/2024-04-15.md"
               }
             }
           },
@@ -166,10 +166,13 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
+    "_daily/2022-05-11.md",
+    "_daily/Mortgage.md",
+    "_daily/2024-04-15.md",
+    "assets/attachments/4289.jpg",
+    "_daily/2024-04-14.md",
     "assets/attachments/4712.png",
     "_daily/2024-04-13.md",
-    "_daily/2022-05-11.md",
-    "_daily/2024-04-14.md",
     "_journal/2024-04 HxH 19992011.md",
     "assets/attachments/4738.jpg",
     "ring.md",
@@ -185,8 +188,6 @@
     "readme.md",
     "assets/imgs/card.png",
     "assets/imgs/card (2).png",
-    "assets/imgs/Card2.png",
-    "assets/imgs/Dasding - Copia.png",
     "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "assets/favicon/site.webmanifest",
     "assets/favicon/Dasding.ico",
@@ -197,7 +198,6 @@
     "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
     "_journal/Notes on Remilia's New Internet.md",
     "_journal/Jade post.md",
-    "_daily/Mortgage.md",
     "_daily/Promissory.md",
     "_articles/Configure Exocore for Personal Use.md",
     "_daily/Psychopomp.md",
@@ -205,7 +205,6 @@
     "_daily/Amazing Note.md",
     "_daily/2024-04-10.md",
     "_daily/2024-04 dsadna.md",
-    "styles.css.scss",
-    "Test.md"
+    "styles.css.scss"
   ]
 }
