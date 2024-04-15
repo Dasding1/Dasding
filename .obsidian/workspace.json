@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_journal/2024-04 HxH 19992011.md",
+                "file": "_daily/2024-04-14.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_journal/2024-04 HxH 19992011.md",
+                "file": "_daily/2024-04-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_journal/2024-04 HxH 19992011.md",
+                "file": "_daily/2024-04-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_journal/2024-04 HxH 19992011.md"
+                "file": "_daily/2024-04-14.md"
               }
             }
           },
@@ -164,15 +164,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e509f202f4abd033",
+  "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
+    "assets/attachments/4712.png",
+    "_daily/2024-04-13.md",
+    "_daily/2022-05-11.md",
+    "_daily/2024-04-14.md",
+    "_journal/2024-04 HxH 19992011.md",
     "assets/attachments/4738.jpg",
     "ring.md",
-    "_journal/2024-04 HxH 19992011.md",
-    "_daily/2024-04-13.md",
     "_journal/2024-04 Telos.md",
     "_daily/2024-04-12 Addendum (Telos).md",
-    "_daily/2022-05-11.md",
     "index.md",
     "assets/attachments/4732 1.png",
     "assets/attachments/4732.png",
@@ -190,7 +192,6 @@
     "assets/favicon/Dasding.ico",
     "assets/favicon/favicon.ico",
     "assets/favicon/apple-touch-icon.png.crdownload",
-    "assets/favicon/Dasding.png",
     "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
     "_journal/The Exocore Workflow.md",
     "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
@@ -205,7 +206,6 @@
     "_daily/2024-04-10.md",
     "_daily/2024-04 dsadna.md",
     "styles.css.scss",
-    "Test.md",
-    "_daily/2022-10-29.md"
+    "Test.md"
   ]
 }
