@@ -15,4 +15,4 @@ Even the figure of the *edgelord*, in this sense, is a part of that power which 
 
 Why do you think there have been so many violent attacks since this top-down policing of social media was put in place?
 
-I understand that it's a thankless job, and that people will never stop theorizing about my intentions with it, if by any chance I *actually* hate Jews, women, and niggers, or if I am not an *atomwaffen* member, but what can I do? Arjun had to kill his family, I had to kill my reputation—he and I are just fulfilling the duty that God has entrusted to us as best we can.
+I understand that it's a thankless job, and that people will never stop theorizing about my intentions with it, if by any chance I *actually* hate Jews, women, and niggers, or if I am not an *atomwaffen* member, but what can I do? Arjun had to kill his family, I had to kill my reputation—and in the end we're just fulfilling the duty that God has entrusted to us as best we can.
