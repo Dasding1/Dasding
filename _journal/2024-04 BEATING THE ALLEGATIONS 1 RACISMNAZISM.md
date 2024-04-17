@@ -2,7 +2,7 @@
 published: true
 subtitle: 
 date: 2024-04-17
-tags: 
+tags: ALLEGATIONS
 ---
 
 #  2024-04: BEATING THE ALLEGATIONS #1 RACISM/NAZISM
