@@ -5,7 +5,7 @@ date: 2024-04-17
 tags: 
 ---
 
-#  2024-04: BEATING THE ALLEGATIONS #1 RACISM
+#  2024-04: BEATING THE ALLEGATIONS #1 RACISM/NAZISM
 ![[3308.jpg]]
 There will always be something that shocks people; if it wasn't Nazism, it would be something much worse. The point is to keep the boundaries of what is acceptable at an appropriate distance from the average joe. Whenever I "defend" Nazism, I'm fully aware that I'm doing so to solidify the barrier that separates civilization from barbarism.
 
