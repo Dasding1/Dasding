@@ -7,7 +7,8 @@ tags:
 
 #  2024-04: BEATING THE ALLEGATIONS #1 RACISM/NAZISM
 ![[3308.jpg]]
-There will always be something that shocks people; if it wasn't Nazism, it would be something much worse[^1]. The point is to keep the boundaries of what is acceptable at an appropriate distance from the average joe. Whenever I "defend" Nazism, I'm fully aware that I'm doing so to solidify the barrier that separates civilization from barbarism.
+There will always be something that shocks people; if it wasn't Nazism, it would be something much worse.[^1] The point is to keep the boundaries of what is acceptable at an appropriate distance from the average joe. Whenever I "defend" Nazism, I'm fully aware that I'm doing so to solidify the barrier that separates civilization from barbarism.
+
 [^1]: Like communism.
 
 Even the figure of the *edgelord*, in this sense, is a part of that power which eternally wills evil and eternally works good, since he too is unconsciously helping to maintain this obscure frontier. It's even true to say that the more extreme a given society's edgelords are, the worse it is.
