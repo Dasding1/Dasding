@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_wiki/Nietzsche.md",
+                "file": "_daily/2024-04-21.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_wiki/Nietzsche.md",
+                "file": "_daily/2024-04-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_wiki/Nietzsche.md",
+                "file": "_daily/2024-04-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_wiki/Nietzsche.md"
+                "file": "_daily/2024-04-21.md"
               }
             }
           },
@@ -166,9 +166,9 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
+    "_wiki/Nietzsche.md",
     "assets/attachments/4814.webp",
     "_articles/null.md",
-    "_wiki/Nietzsche.md",
     "_articles/SPACE, ANGELS AND STARS.md",
     "_daily/2024-04-21.md",
     "assets/attachments/1947.jpg",
@@ -198,7 +198,6 @@
     "assets/attachments/4738.jpg",
     "_daily/2024-04-12 Addendum (Telos).md",
     "index.md",
-    "assets/attachments/4732 1.png",
     "_site/readme.md",
     "readme.md",
     "_scrapbook/Predictive Processing and the Free Energy Principle.md",
