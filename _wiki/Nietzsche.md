@@ -71,3 +71,7 @@ Book IV - Aphorism # 303*
 
 <center>☆</center>
 
+**Making them wait**
+
+A sure way to provoke people and to put evil thoughts into their heads is to make them wait a long time. This gives rise to immorality.
+
