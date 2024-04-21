@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2024-04-21.md",
+                "file": "_articles/SPACE, ANGELS AND STARS.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2024-04-21.md",
+                "file": "_articles/SPACE, ANGELS AND STARS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2024-04-21.md",
+                "file": "_articles/SPACE, ANGELS AND STARS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2024-04-21.md"
+                "file": "_articles/SPACE, ANGELS AND STARS.md"
               }
             }
           },
@@ -166,9 +166,9 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
+    "_daily/2024-04-21.md",
     "assets/attachments/1947.jpg",
     "_daily/2024-04-20.md",
-    "_daily/2024-04-21.md",
     "_articles/SPACE, ANGELS AND STARS.md",
     "_daily/2022-05-11.md",
     "_daily/2024-04-19.md",
@@ -196,7 +196,6 @@
     "_daily/2024-04-12 Addendum (Telos).md",
     "index.md",
     "assets/attachments/4732 1.png",
-    "assets/attachments/4732.png",
     "_site/readme.md",
     "readme.md",
     "_scrapbook/Predictive Processing and the Free Energy Principle.md",
