@@ -91,7 +91,8 @@ Book IV - Aphorism # 324*
 
 **Finally.** 
 
-There are many kinds of hemlock, and fate usually finds an opportunity to set a cup of this poison to the lips of the free spirit--to "punish" him, as everyone then says. What do the women around him do then? They will cry and lament and perhaps disturb the thinker's twilight peace, as they did in the prison of Athens. "O Crito, have someone take these women away!" said Socrates at last.[^1]
+There are many kinds of hemlock, and fate usually finds an opportunity to set a cup of this poison to the lips of the free spirit--to "punish" him, as everyone then says. What do the women around him do then? They will cry and lament and perhaps disturb the thinker's twilight peace, as they did in the prison of Athens. "O Crito, have someone take these women away!" said Socrates at last[^1].
+
 [^1]: 1. Cf. The Phaedo, 116.
 
 *Human, All Too Human  
