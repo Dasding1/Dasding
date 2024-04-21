@@ -6,7 +6,7 @@ tags:
 ---
 
 # Nietzsche
-![[4814.webp]]
+![[4815. NIETZSCHE_Garden.png]]
 
 **Awakening from a dream**
 
