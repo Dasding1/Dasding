@@ -119,3 +119,21 @@ From an old Florentine novella, and in addition from life: *buona femmina e mala
 Part IV - Aphorism # 147*
 
 <center>☆</center>
+
+**Our teachers.** 
+
+In our youth we take our teachers and guides from the time in which we happen to live and the circle in which we happen to move: we are thoughtlessly confident that the times we live in are bound to have teachers better suited to us than to anyone else and that we are bound to find them without much trouble. For this childishness we have in later years to pay a heavy price: we have to expiate our teachers in ourself. We then perhaps go in search of our true guides throughout the whole world, the world of the past included but perhaps it is too late. And in the worst case we discover that they were living when we were young and that we missed them.
+
+*Daybreak  
+Book V - Aphorism # 495*
+
+<center>☆</center>
+
+**The Dying Socrates.** 
+
+I admire the courage and wisdom of Socrates in all that he did, said - and did not say. This mocking and amorous demon and rat-catcher of Athens, who made the most insolent youths tremble and sob, was not only the wisest babbler that has ever lived, but was just as great in his silence. I would that he had also been silent in the last moment of his life, - perhaps he might then have belonged to a still higher order of intellects. Whether it was death, or the poison, or piety, or wickedness - something or other loosened his tongue at that moment, and he said : "O Crito, I owe a cock to Asclepios." For him who has ears, this ludicrous and terrible "last word" implies: "O Crito, life is a long sickness!" Is it possible! A man like him, who had lived cheerfully and to all appearance as a soldier, - was a pessimist! He had merely put on a good demeanour towards life, and had all along concealed his ultimate judgment, his profoundest sentiment! Socrates, Socrates had suffered from life! And he also took his revenge for it - with that veiled, fearful, pious, and blasphemous phrase! Had even a Socrates to revenge himself? Was there a grain too little of magnanimity in his superabundant virtue? Ah, my friends! We must surpass even the Greeks!
+
+*The Gay Science  
+Book IV - Aphorism # 340*
+
+<center>☆</center>
