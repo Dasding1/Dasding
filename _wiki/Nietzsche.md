@@ -113,7 +113,7 @@ Section Four: From the Soul of Artists and Writers - Aphorism # 206*
 
 **147**
 
-From an old Florentine novella, and in addition from life: *buona femmina e mala femmina vuol bastone* (the good and the bad woman wants a stick). Sacchetti, Nov. 86.
+From an old Florentine novella, and in addition from life: *buona femmina e mala femmina vuol bastone* (the good and the bad woman wants a dick). Sacchetti, Nov. 86.
 
 *Beyond Good and Evil  
 Part IV - Aphorism # 147*
