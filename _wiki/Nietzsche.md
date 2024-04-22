@@ -82,7 +82,7 @@ SECTION SIX, Aphorism # 310*
 
 **In Media Vita** 
 
-No! Life has not deceived me! On the contrary, from year to year I find it richer, more desirable and more mysterious - from the day on which the great liberator broke my fetters, the thought that life may be an experiment of the thinker - and not a duty, not a fatality, not a deceit! - And knowledge itself may be for others something different; for example, a bed of ease, or the path to a bed of ease, or an entertainment, or a course of idling, - for me it is a world of dangers and victories, in which even the heroic sentiments have their arena and dancing-floor. "Life as a means to knowledge" - with this principle in one's heart, one can not only be brave, but can even live joyfully and laugh joyfully! And who could know how to laugh well and live well, who did not first understand the full significance of war and victory?
+No! Life has not deceived me! On the contrary, from year to year I find it richer, more desirable and more mysterious - from the day on which the great liberator broke my fetters, the thought that life may be an experiment of the thinker - and not a duty, not a fatality, not a deceit! — And knowledge itself may be for others something different; for example, a bed of ease, or the path to a bed of ease, or an entertainment, or a course of idling, — for me it is a world of dangers and victories, in which even the heroic sentiments have their arena and dancing-floor. "Life as a means to knowledge" - with this principle in one's heart, one can not only be brave, but can even live joyfully and laugh joyfully! And who could know how to laugh well and live well, who did not first understand the full significance of war and victory?
 
 *The Gay Science  
 Book IV - Aphorism # 324*
@@ -91,7 +91,7 @@ Book IV - Aphorism # 324*
 
 **Finally.** 
 
-There are many kinds of hemlock, and fate usually finds an opportunity to set a cup of this poison to the lips of the free spirit--to "punish" him, as everyone then says. What do the women around him do then? They will cry and lament and perhaps disturb the thinker's twilight peace, as they did in the prison of Athens. "O Crito, have someone take these women away!" said Socrates at last[^1].
+There are many kinds of hemlock, and fate usually finds an opportunity to set a cup of this poison to the lips of the free spirit — to "punish" him, as everyone then says. What do the women around him do then? They will cry and lament and perhaps disturb the thinker's twilight peace, as they did in the prison of Athens. "O Crito, have someone take these women away!" said Socrates at last[^1].
 
 [^1]: Cf. The Phaedo, 116.
 
@@ -149,10 +149,19 @@ Part IV - Aphorism # 101*
 
 **Executions.** 
 
-How is it that every execution offends us more than a murder? It is the coldness of the judges, the painful preparations, the understanding that a man is here being used as a means to deter others. For guilt is not being punished, even if there were guilt; guilt lies in the educators, the parents, the environment, in us, not in the murderer--I am talking about the motivating circumstances.
+How is it that every execution offends us more than a murder? It is the coldness of the judges, the painful preparations, the understanding that a man is here being used as a means to deter others. For guilt is not being punished, even if there were guilt; guilt lies in the educators, the parents, the environment, in us, not in the murderer—I am talking about the motivating circumstances.
 
 *Human, All Too Human  
 Section Two: On the History of Moral Feelings - Aphorism # 70*
+
+<center>☆</center>
+
+**_Fallacy, Fallacy_** 
+
+He cannot rule himself; therefore that woman concludes that it will be easy to rule him, and throws out her lines to catch him; — the poor creature, who in a short time will be his slave.
+
+*The Gay Science  
+Book III - Aphorism # 227*
 
 <center>☆</center>
 
