@@ -165,3 +165,38 @@ Book III - Aphorism # 227*
 
 <center>☆</center>
 
+**114**
+
+The immense expectation concerning sexual love and the shame in this expectation ruin all perspective in women from the beginning.
+
+*Beyond Good and Evil  
+Part IV - Aphorism # 114*
+
+<center>☆</center>
+
+**In Solitude** 
+
+When one lives alone one does not speak too loudly, and one does not write too loudly either, for one fears the hollow reverberation — the criticism of the nymph Echo — and all voices sound differently in solitude!
+
+*Beyond Good and Evil  
+Part IV - Aphorism # 114*
+
+<center>☆</center>
+
+**157**
+
+The thought of suicide is a strong consolation: with it people get through many an evil night.
+
+*Beyond Good and Evil  
+Part IV - Aphorism # 157*
+
+<center>☆</center>
+
+**_The purifying eye_** 
+
+'Genius' is most readily to be ascribed to those men in whom, as with Plato, Spinoza and Goethe, the spirit seems to be only *loosely attached* to the character and temperament, as a winged being who can easily detach itself from these and then raise itself high above them. On the other hand, it is precisely those who could *never get free* from their temperament and knew how to endow it with the most spiritual, expansive, universal, indeed sometimes cosmic expression (Schopenhauer, for example) who have been given to speaking most freely of their 'genius'. These geniuses were unable to fly above and beyond themselves, but they believed that wherever they flew they would discover and rediscover *themselves* that is *their* 'greatness', and it *can* be greatness! The others, who better deserve the name, possess the *pure, purifying eye* which seems not to have grown out of their temperament and character but, free from these and usually in mild opposition to them, looks down on the world as on a god and loves this god. But even they have not acquired this eye at a single stroke: seeing needs practice and preschooling, and he who is fortunate enough will also find at the proper time a teacher of pure seeing.
+
+*Daybreak  
+Book V - Aphorism # 497*
+
+<center>☆</center>
