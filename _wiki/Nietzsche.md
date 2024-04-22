@@ -137,3 +137,22 @@ I admire the courage and wisdom of Socrates in all that he did, said - and did n
 Book IV - Aphorism # 340*
 
 <center>☆</center>
+
+**101**
+
+Today a man with knowledge might easily feel like god transformed into an animal.
+
+*Beyond Good and Evil  
+Part IV - Aphorism # 101*
+
+<center>☆</center>
+
+**Executions.** 
+
+How is it that every execution offends us more than a murder? It is the coldness of the judges, the painful preparations, the understanding that a man is here being used as a means to deter others. For guilt is not being punished, even if there were guilt; guilt lies in the educators, the parents, the environment, in us, not in the murderer--I am talking about the motivating circumstances.
+
+*Human, All Too Human  
+Section Two: On the History of Moral Feelings - Aphorism # 70*
+
+<center>☆</center>
+
