@@ -99,3 +99,17 @@ There are many kinds of hemlock, and fate usually finds an opportunity to set a 
 Section Seven: Woman and Child - Aphorism # 437*
 
 <center>☆</center>
+
+**Books that teach us to dance.** 
+
+There are writers who, by portraying the impossible as possible, and by speaking of morality and genius as if both were merely a mood or a whim, elicit a feeling of high-spirited freedom, as if man were rising up on tiptoe and simply had to dance out of inner pleasure[^2].
+
+[^2]: Nietzsche was thinking of Christoph Martin Wieland (1733-1813)
+
+*Human, All Too Human  
+Section Four: From the Soul of Artists and Writers - Aphorism # 206*
+
+<center>☆</center>
+
+
+
