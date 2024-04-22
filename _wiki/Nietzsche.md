@@ -93,7 +93,7 @@ Book IV - Aphorism # 324*
 
 There are many kinds of hemlock, and fate usually finds an opportunity to set a cup of this poison to the lips of the free spirit--to "punish" him, as everyone then says. What do the women around him do then? They will cry and lament and perhaps disturb the thinker's twilight peace, as they did in the prison of Athens. "O Crito, have someone take these women away!" said Socrates at last[^1].
 
-[^1]: 1. Cf. The Phaedo, 116.
+[^1]: Cf. The Phaedo, 116.
 
 *Human, All Too Human  
 Section Seven: Woman and Child - Aphorism # 437*
@@ -104,12 +104,18 @@ Section Seven: Woman and Child - Aphorism # 437*
 
 There are writers who, by portraying the impossible as possible, and by speaking of morality and genius as if both were merely a mood or a whim, elicit a feeling of high-spirited freedom, as if man were rising up on tiptoe and simply had to dance out of inner pleasure[^2].
 
-[^2]: Nietzsche was thinking of Christoph Martin Wieland (1733-1813)
+[^2]: Nietzsche was thinking of Christoph Martin Wieland (1733-1813).
 
 *Human, All Too Human  
 Section Four: From the Soul of Artists and Writers - Aphorism # 206*
 
 <center>☆</center>
 
+**147**
 
+From an old Florentine novella, and in addition from life: *buona femmina e mala femmina vuol bastone* (the good and the bad woman wants a stick). Sacchetti, Nov. 86.
 
+*Beyond Good and Evil  
+Part IV - Aphorism # 147*
+
+<center>☆</center>
