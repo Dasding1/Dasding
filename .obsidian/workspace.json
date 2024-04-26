@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2024-04-25.md",
+                "file": "_articles/UNKOWN ARTIST.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2024-04-25.md",
+                "file": "_articles/UNKOWN ARTIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2024-04-25.md",
+                "file": "_articles/UNKOWN ARTIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2024-04-25.md"
+                "file": "_articles/UNKOWN ARTIST.md"
               }
             }
           },
@@ -166,16 +166,17 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
+    "_daily/2024-04-25.md",
+    "_daily/2024-04-26.md",
     "assets/attachments/477.jpg",
     "_daily/2024-04-22.md",
-    "_daily/2024-04-25.md",
     "_daily/2024-04-23.md",
     "_wiki/Nietzsche.md",
     "assets/attachments/4815. NIETZSCHE_Garden.png",
     "_daily/2024-04-21.md",
     "assets/attachments/4814.webp",
     "_articles/null.md",
-    "_articles/SPACE, ANGELS AND STARS.md",
+    "_articles/UNKOWN ARTIST.md",
     "assets/attachments/1947.jpg",
     "_daily/2024-04-20.md",
     "_daily/2022-05-11.md",
@@ -199,7 +200,6 @@
     "assets/attachments/4778.png",
     "_daily/Mortgage.md",
     "assets/attachments/4289.jpg",
-    "assets/attachments/4712.png",
     "_daily/2024-04-12 Addendum (Telos).md",
     "index.md",
     "assets/favicon/site.webmanifest",
