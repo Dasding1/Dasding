@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/UNKOWN ARTIST.md",
+                "file": "_daily/2024-04-27.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/UNKOWN ARTIST.md",
+                "file": "_daily/2024-04-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/UNKOWN ARTIST.md",
+                "file": "_daily/2024-04-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/UNKOWN ARTIST.md"
+                "file": "_daily/2024-04-27.md"
               }
             }
           },
@@ -166,6 +166,8 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
+    "_articles/UNKOWN ARTIST.md",
+    "_daily/2024-04-27.md",
     "_daily/2024-04-25.md",
     "_daily/2024-04-26.md",
     "assets/attachments/477.jpg",
@@ -176,7 +178,6 @@
     "_daily/2024-04-21.md",
     "assets/attachments/4814.webp",
     "_articles/null.md",
-    "_articles/UNKOWN ARTIST.md",
     "assets/attachments/1947.jpg",
     "_daily/2024-04-20.md",
     "_daily/2022-05-11.md",
@@ -201,7 +202,6 @@
     "_daily/Mortgage.md",
     "assets/attachments/4289.jpg",
     "_daily/2024-04-12 Addendum (Telos).md",
-    "index.md",
     "assets/favicon/site.webmanifest",
     "assets/favicon/Dasding.ico",
     "assets/favicon/favicon.ico",
