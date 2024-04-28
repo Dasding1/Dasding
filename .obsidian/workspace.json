@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_journal/2024-04 Degenerative eye.md",
+                "file": "_daily/2024-04-28.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_journal/2024-04 Degenerative eye.md",
+                "file": "_wiki/Nietzsche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_journal/2024-04 Degenerative eye.md",
+                "file": "_wiki/Nietzsche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_journal/2024-04 Degenerative eye.md"
+                "file": "_wiki/Nietzsche.md"
               }
             }
           },
@@ -166,9 +166,10 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
+    "_daily/2024-04-28.md",
+    "_journal/2024-04 Degenerative eye.md",
     "assets/attachments/4345.jpg",
     "_journal/2024-04 BEATING THE ALLEGATIONS 1 RACISMNAZISM.md",
-    "_journal/2024-04 Degenerative eye.md",
     "_daily/2024-04-27 (re)learning photoshop.md",
     "assets/attachments/remiversedemigods.png",
     "_articles/UNKOWN ARTIST.md",
@@ -201,7 +202,6 @@
     "_daily/2024-04-13.md",
     "ring.md",
     "assets/attachments/4781.png",
-    "assets/attachments/4778.png",
     "assets/favicon/site.webmanifest",
     "assets/favicon/Dasding.ico",
     "assets/favicon/favicon.ico",
