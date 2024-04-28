@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_wiki/Nietzsche.md",
+                "file": "_daily/2024-04-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_wiki/Nietzsche.md",
+                "file": "_daily/2024-04-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_wiki/Nietzsche.md"
+                "file": "_daily/2024-04-28.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
+    "_wiki/Nietzsche.md",
     "_daily/2024-04-28.md",
     "_journal/2024-04 Degenerative eye.md",
     "assets/attachments/4345.jpg",
@@ -178,7 +179,6 @@
     "assets/attachments/477.jpg",
     "_daily/2024-04-22.md",
     "_daily/2024-04-23.md",
-    "_wiki/Nietzsche.md",
     "assets/attachments/4815. NIETZSCHE_Garden.png",
     "_daily/2024-04-21.md",
     "assets/attachments/4814.webp",
