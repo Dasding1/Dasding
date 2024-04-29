@@ -27,7 +27,7 @@ Questions arise: what does this God look like? From where does He speak? Where i
 
 Every adjective serves the explicit purpose of showcasing Abraham's readiness and obedience. Take for example the passage when God says to “take Isaac, thine only son, whom thou lovest”. This description only tells us something about Isaac in relation to his father, still we don't know anything about Isaac himself: if he's tall, intelligent, cheerful, nothing; but only that he is *the beloved* son of Abraham. In other words, this characterization only serves to underline the magnitude of the sacrifice Abraham would have to make. 
 
-The entire world fades away, leaving only the distance between our characters and the mission they must accomplish as the focal point of the story.
+After that, the entire world fades away, leaving only the distance between our characters and the mission they must accomplish as the focal point of the story.
 
 Abraham's journey from point A to point B is depicted with scant details about the landscape, the characters, or even his son or Abraham himself. This way the narrative form mirrors Abraham's monotheistic stance, as he appears focused solely on his path ahead, never looking left or right, unwaveringly committed to the mission bestowed upon him. This obliteration of individual will in favor of the divine mission also sets the tone for the dialogues: unlike the Greek style, where the characters completely externalize their feelings through speeches, Abraham talks only to hide his feelings. Everything is implied, painfully kept inside his heart.
 
