@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/(Draft) About styles ~ Homer and the Old Testament.md",
+                "file": "_daily/2024-04-29.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/(Draft) About styles ~ Homer and the Old Testament.md",
+                "file": "_daily/2024-04-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/(Draft) About styles ~ Homer and the Old Testament.md",
+                "file": "_daily/2024-04-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/(Draft) About styles ~ Homer and the Old Testament.md"
+                "file": "_daily/2024-04-29.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
-    "_daily/2024-04-28.md",
     "_articles/(Draft) About styles ~ Homer and the Old Testament.md",
+    "_daily/2024-04-29.md",
+    "_daily/2024-04-28.md",
     "_daily/2024-04-28 The Deer's Cry.md",
     "assets/attachments/Arvo_Pärt.jpg",
     "assets/attachments/The Deer's Cry.mp3",
@@ -202,7 +203,6 @@
     "_daily/BEATING THE ALLEGATIONS 1 - RACISM.md",
     "_daily/2024-04-17.md",
     "_daily/2024-04-15.md",
-    "_daily/2024-04-14.md",
     "assets/favicon/site.webmanifest",
     "assets/favicon/Dasding.ico",
     "assets/favicon/favicon.ico",
