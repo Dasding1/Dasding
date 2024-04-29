@@ -21,7 +21,7 @@ It's as if Homer regards the present as absolute. Unlike the more conventional s
 >  
 > ━Erich Auerbach.
 
-On the contrasting end, we find the Semitic style, particularly evident in the Old Testament. Consider the story of the binding of Isaac. It kicks off with God's sudden appearance and His call to Abraham, who obediently replies with a humble "Behold me".
+On the contrasting end, we find the Semitic style, particularly evident in the Old Testament. Consider the story of the binding of Isaac. It begins with God's sudden appearance and His call to Abraham, who obediently replies with a humble "Behold me".
 
 Questions arise: what does this God look like? From where does He speak? Where is Abraham situated, and what attire does he wear? What is the setting, the time of day? Homer might have delved into these details, but the Bible remains conspicuously silent on such matters.
 
