@@ -5,7 +5,7 @@ subtitle:
 date: 2024-04-28
 tags: 
 ---
-# (Draft) About Homer
+# (Draft) About styles ~ Homer and the Old Testament
 
 One characteristic trait of Homer's poems, and perhaps even of greek epics in general, is a preference for absolute clarity in the subjects they address. Every object and character is meticulously contextualized, even if it comes at the expense of the narrative's dramatic voltage.
 
