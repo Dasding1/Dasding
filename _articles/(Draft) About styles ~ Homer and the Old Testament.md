@@ -29,4 +29,4 @@ Every adjective serves the explicit purpose of showcasing Abraham's readiness an
 
 Unlike the Greek style, where the dialogues serve to fully externalize the feelings of the characters, the exact opposite occurs here: Abraham talks to hide his feelings. Everything is implied, painfully kept inside the characters' hearts.
 
-So, while in the Homeric epic everything is excessively illuminated with adjectives and epithets, the biblical epic is a dark, silent and lonely night.
+While in the Homeric epic everything is excessively illuminated with adjectives and epithets, the biblical epic is a dark, silent and lonely night.
