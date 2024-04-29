@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2024-04-28.md",
+                "file": "_articles/(Draft) About styles ~ Homer and the Old Testament.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2024-04-28.md",
+                "file": "_articles/(Draft) About styles ~ Homer and the Old Testament.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2024-04-28.md",
+                "file": "_articles/(Draft) About styles ~ Homer and the Old Testament.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2024-04-28.md"
+                "file": "_articles/(Draft) About styles ~ Homer and the Old Testament.md"
               }
             }
           },
@@ -166,8 +166,8 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
-    "_articles/(Draft) About styles ~ Homer and the Old Testament.md",
     "_daily/2024-04-28.md",
+    "_articles/(Draft) About styles ~ Homer and the Old Testament.md",
     "_daily/2024-04-28 The Deer's Cry.md",
     "assets/attachments/Arvo_Pärt.jpg",
     "assets/attachments/The Deer's Cry.mp3",
