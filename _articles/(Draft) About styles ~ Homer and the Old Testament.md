@@ -16,13 +16,10 @@ And yet this style works!
 Probably because of the compelling power of description within each of these moments. All digressions are self-sustaining. They are worth their own short story.
 
 It's as if Homer regards the present as absolute. Unlike the more conventional style, which selectively reveals elements of the past relevant to the main narrative, Homer meticulously details every aspect of these memories for several pages, until they usurp the primary narrative.
+![[4942 1.png]]
 
 > Homeric style knows only a foreground, only a uniformly illuminated, uniformly objective present.
->  
 > ━Erich Auerbach.
-
-{:.right}
-![[4942 1.png]]
 
 On the contrasting end we find the Semitic style, particularly evident in the Old Testament. Consider the story of the binding of Isaac. It begins with God's sudden appearance and His call to Abraham, who obediently replies with a humble "Behold me".
 
