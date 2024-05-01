@@ -17,7 +17,7 @@ Probably because of the compelling power of description within each of these mom
 
 It's as if Homer regards the present as absolute. Unlike the more conventional style, which selectively reveals elements of the past relevant to the main narrative, Homer meticulously details every aspect of these memories for several pages, until they usurp the primary narrative.
 
-Um bom exemplo desse "presente absoluto" homérico acontece nas ocasiões em que Achilles usa Patroclus como sentinela e mensageiro.  Tão logo a história muda de foco para esse último, Aquiles some completamente, não deixando praticamente nenhum rastro "indireto" da sua presença, mesmo sendo ele a causa inicial das ações de Patroclus.
+A good example of this Homeric “absolute present” occurs on the occasions when Achilles uses Patroclus as a sentinel and messenger.  As soon as the story shifts focus to the latter, Achilles disappears completely, leaving virtually no “indirect” trace of his presence, even though he is the initial cause of Patroclus' actions.
 ![[4942 1.png]]
 > Homeric style knows only a foreground, only a uniformly illuminated, uniformly objective present.
 > 
