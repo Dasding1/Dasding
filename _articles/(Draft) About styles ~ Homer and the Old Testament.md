@@ -47,7 +47,7 @@ This legendary approach is characterized by directness and simplicity; the narra
 
 Initially, distinguishing between these two styles is quite straightforward, but the Old Testament tends to transition between them in subtle ways. Consider, for instance, the story of King David: while the narrator discusses the political turmoil of his era, the narrative seamlessly adopts a historical style, replete with conflicts, ambiguities, and unreliable information. Yet, it swiftly transitions to a seemingly undefined setting, which, from the sparse descriptions, could be any location, and begins recounting a battle between a monstrous, almost mythical giant and a significantly weaker boy[^1] . The complexities of the world momentarily seem to fade, and the narrative progresses from start to finish with the precision of an arrow, as if the entire world had conspired to ensure that the events between David and Goliath unfolded exactly as depicted.
 
-[^1]: One of the best examples of this mixture of legendary narrative and history is the story of Regulus.
+[^1]: Regulus's tale stands out as a prime example of the seamless blend between legendary storytelling and historical narrative.
 
 Finally, closing the Semitic stylistic trifecta are the prophecies—or the prophetic “style”. As mentioned earlier, the Old Testament requires a complete transformation from the reader. Following this, the expectation is to interpret all of existence using the Old Testament as a reference and fundamental basis. With such universal aspirations, there arises the necessity for interpretations that will similarly adapt the narrative of the Pentateuch for societies vastly distant in both time and space from the Israelites. 
 
