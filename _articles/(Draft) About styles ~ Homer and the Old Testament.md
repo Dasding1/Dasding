@@ -17,7 +17,7 @@ Probably because of the compelling power of description within each of these mom
 
 It's as if Homer regards the present tense as absolute. Unlike the more conventional style, which selectively reveals elements of the past relevant to the main narrative, Homer meticulously details every aspect of these memories for several pages, until they usurp the primary narrative.
 
-A good example of this Homeric “absolute present tense” occurs on the occasions when Achilles uses Patroclus as a sentinel and messenger.  As soon as the story shifts focus to the latter, Achilles disappears completely, leaving virtually no “indirect” trace of his presence, even though he is the initial cause of Patroclus' actions. 
+A good example of this Homeric “absolute present tense” occurs on the occasions when Achilles uses Patroclus as sentinel and messenger.  As soon as the story shifts focus to the latter, Achilles disappears completely, leaving virtually no “indirect” trace of his presence, even though he is the initial cause of Patroclus' actions. 
 
 In a way, Homeric literature deeply aestheticizes every detail of the narrative, so that even the most idyllic and mundane events are covered with a sumptuous description worthy of a battle between Olympian gods. It's not far from the truth to say that a carefully audiovisual adaptation of the Homeric poems, paying due attention to its basic structure, would result in something between the visual grandeur and grandiloquence of *Vampire Hunter D* (1999) and the comforting simplicity of *K-On* (2009). 
 ![[4942 1.png]]
