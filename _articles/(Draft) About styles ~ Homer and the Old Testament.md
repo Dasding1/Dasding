@@ -39,7 +39,7 @@ Despite their seemingly straightforward characterizations, biblical figures poss
 
 While in the Homeric epic the narrative is excessively illuminated with epithets, the semitic epic is sacredly minimalist.
 
-## The legendary, historical and prophetic styles.
+### The legendary, historical and prophetic styles.
 
 Another distinctive aspect of the Semitic style is its implicit assertion to serve as the interpretive cornerstone of the entire cosmos. While Homeric poems often invite escapism, showing less concern for the factual basis of the events narrated, the Old Testament not only demands that the reader believe in the truth of each specific event but also in a comprehensive and unified worldview. It doesn't just seek truth regarding the facts but the very structure of reality.  
 
