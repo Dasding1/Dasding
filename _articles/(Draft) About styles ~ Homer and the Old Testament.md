@@ -17,7 +17,9 @@ Probably because of the compelling power of description within each of these mom
 
 It's as if Homer regards the present tense as absolute. Unlike the more conventional style, which selectively reveals elements of the past relevant to the main narrative, Homer meticulously details every aspect of these memories for several pages, until they usurp the primary narrative.
 
-A good example of this Homeric “absolute present tense” occurs on the occasions when Achilles uses Patroclus as a sentinel and messenger.  As soon as the story shifts focus to the latter, Achilles disappears completely, leaving virtually no “indirect” trace of his presence, even though he is the initial cause of Patroclus' actions.
+A good example of this Homeric “absolute present tense” occurs on the occasions when Achilles uses Patroclus as a sentinel and messenger.  As soon as the story shifts focus to the latter, Achilles disappears completely, leaving virtually no “indirect” trace of his presence, even though he is the initial cause of Patroclus' actions. 
+
+De certa forma, a literatura homérica realiza uma profunda estetização de todos os detalhes da narrativa, de modo que até os eventos mais idílicos e corriqueiros são revestidos com uma suntuosidade descritiva digna de uma batalha entre deuses olimpianos. Não está longe da verdade dizer que uma adaptação audiovisual cautelosamente fiel à estrutura original dos poemas Homéricos resultaria em algo entre a imponência visual e a grandiloquência de *Vampire Hunter D* (1999) e a simplicidade reconfortante de *K-On* (2009). 
 ![[4942 1.png]]
 > Homeric style knows only a foreground, only a uniformly illuminated, uniformly objective present.
 > 
