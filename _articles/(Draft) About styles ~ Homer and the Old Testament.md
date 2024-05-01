@@ -55,6 +55,6 @@ Undoubtedly, this is the most expansive style, tracing back from the biblical na
 
 Numerous attempts, among many others, aimed to adapt Semitic stories to vastly different contexts. This rejuvenation is crucial to prevent a situation akin to Hamlet's disconnect with Hecuba[^2] , where the cultural style and emotional resonance of a people become so remote that relating to them feels artificial and strained.
 
-[^2]: _What’s Hecuba to him, or he to Hecuba,_ _That he should weep for her?_
+[^2]: _"What’s Hecuba to him, or he to Hecuba,_ _That he should weep for her?"_
 
 Failing to adapt the Semitic stories to different contexts over time, while preserving their core meaning, could slowly bring about the decline of the Abrahamic religions from catalepsy.
