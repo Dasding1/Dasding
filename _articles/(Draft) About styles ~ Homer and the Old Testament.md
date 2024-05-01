@@ -15,9 +15,9 @@ And yet this style works!
 
 Probably because of the compelling power of description within each of these moments. All digressions are self-sustaining. They are worth their own short story.
 
-It's as if Homer regards the present as absolute. Unlike the more conventional style, which selectively reveals elements of the past relevant to the main narrative, Homer meticulously details every aspect of these memories for several pages, until they usurp the primary narrative.
+It's as if Homer regards the present tense as absolute. Unlike the more conventional style, which selectively reveals elements of the past relevant to the main narrative, Homer meticulously details every aspect of these memories for several pages, until they usurp the primary narrative.
 
-A good example of this Homeric “absolute present” occurs on the occasions when Achilles uses Patroclus as a sentinel and messenger.  As soon as the story shifts focus to the latter, Achilles disappears completely, leaving virtually no “indirect” trace of his presence, even though he is the initial cause of Patroclus' actions.
+A good example of this Homeric “absolute present tense” occurs on the occasions when Achilles uses Patroclus as a sentinel and messenger.  As soon as the story shifts focus to the latter, Achilles disappears completely, leaving virtually no “indirect” trace of his presence, even though he is the initial cause of Patroclus' actions.
 ![[4942 1.png]]
 > Homeric style knows only a foreground, only a uniformly illuminated, uniformly objective present.
 > 
