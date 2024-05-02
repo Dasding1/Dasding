@@ -53,7 +53,7 @@ Finally, closing the Semitic stylistic trifecta are the prophecies—or the prop
 
 Undoubtedly, this is the most expansive style, tracing back from the biblical narrative, through the interpretations of the prophets who revealed divine insights into past events, extending to the legendary tales of the Matter of Britain, and onward to the synthesized myths of George MacDonald and J.R.R. Tolkien.
 
-Numerous attempts, among many others, aimed to adapt Semitic stories to vastly different contexts. This rejuvenation is crucial to prevent a situation akin to Hamlet's disconnect with Hecuba[^2] , where the cultural style and emotional resonance of a people become so remote that relating to them feels artificial and strained.
+Numerous attempts aimed to adapt Semitic stories to vastly different contexts. This rejuvenation is crucial to prevent a situation akin to Hamlet's disconnect with Hecuba[^2] , where the cultural style and emotional resonance of a people become so remote that relating to them feels artificial and strained.
 
 [^2]: _"What’s Hecuba to him, or he to Hecuba,_ _That he should weep for her?"_
 
