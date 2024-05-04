@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_journal/2024-05 Models.md",
+                "file": "_daily/2024-05-04.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_journal/2024-05 Models.md",
+                "file": "_daily/2024-05-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_journal/2024-05 Models.md",
+                "file": "_daily/2024-05-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_journal/2024-05 Models.md"
+                "file": "_daily/2024-05-04.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
-    "_daily/2024-05-02.md",
     "_journal/2024-05 Models.md",
+    "_daily/2024-05-04.md",
+    "_daily/2024-05-02.md",
     "assets/attachments/4921.jpg",
     "assets/attachments/5030.jpg",
     "assets/attachments/4966. Eight Views of the Xiao and Xiang River Valleys, attributed to Kanō Tan'yū, ca. 1650.jpg",
