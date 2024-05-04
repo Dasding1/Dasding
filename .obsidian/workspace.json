@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2024-05-02.md",
+                "file": "_daily/2024-05-03.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2024-05-02.md",
+                "file": "_daily/2024-05-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2024-05-02.md",
+                "file": "_daily/2024-05-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2024-05-02.md"
+                "file": "_daily/2024-05-03.md"
               }
             }
           },
@@ -166,9 +166,10 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
+    "_daily/2024-05-02.md",
+    "_daily/2024-05-03.md",
     "assets/attachments/4966. Eight Views of the Xiao and Xiang River Valleys, attributed to Kanō Tan'yū, ca. 1650.jpg",
     "_articles/(Draft) About styles ~ Homer and the Old Testament.md",
-    "_daily/2024-05-02.md",
     "_daily/2024-04-12 Addendum (Telos).md",
     "_daily/2024-05-01.md",
     "assets/attachments/4913.jpg",
@@ -197,7 +198,6 @@
     "_daily/2024-04-23.md",
     "assets/attachments/4815. NIETZSCHE_Garden.png",
     "_daily/2024-04-21.md",
-    "assets/attachments/4814.webp",
     "_articles/null.md",
     "_daily/2024-04-20.md",
     "_daily/2024-04-19.md",
