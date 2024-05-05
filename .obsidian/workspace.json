@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/OTAKU'S GEIST GENESIS.md",
+                "file": "_daily/2024-05-05.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/OTAKU'S GEIST GENESIS.md",
+                "file": "_daily/2024-05-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/OTAKU'S GEIST GENESIS.md",
+                "file": "_daily/2024-05-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/OTAKU'S GEIST GENESIS.md"
+                "file": "_daily/2024-05-05.md"
               }
             }
           },
@@ -166,9 +166,10 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
+    "_articles/OTAKU'S GEIST GENESIS.md",
+    "_daily/2024-05-05.md",
     "assets/attachments/4897.jpg",
     "_articles/UNKOWN ARTIST.md",
-    "_articles/OTAKU'S GEIST GENESIS.md",
     "_journal/2024-05 Models.md",
     "_daily/2024-05-04.md",
     "_daily/2024-05-02.md",
@@ -195,7 +196,6 @@
     "_wiki/Nietzsche.md",
     "assets/attachments/4345.jpg",
     "_daily/2024-04-27 (re)learning photoshop.md",
-    "assets/attachments/remiversedemigods.png",
     "_daily/2024-04-25.md",
     "_daily/2024-04-26.md",
     "_daily/2024-04-22.md",
