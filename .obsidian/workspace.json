@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_journal/2024-05-07.md",
+                "file": "_daily/2024-05-09.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_journal/2024-05-07.md",
+                "file": "_daily/2024-05-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_journal/2024-05-07.md",
+                "file": "_daily/2024-05-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_journal/2024-05-07.md"
+                "file": "_daily/2024-05-09.md"
               }
             }
           },
@@ -166,10 +166,11 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
+    "_journal/2024-05-07.md",
+    "_daily/2024-05-09.md",
     "assets/attachments/4923. The Potala Palace, Tibet.jpg",
     "assets/attachments/4923. The Potala Palace, Tibet..jpg",
     "_daily/2024-05-06.md",
-    "_journal/2024-05-07.md",
     "_daily/2022-05-11.md",
     "_journal/2024-05 Aristocratic satire.md",
     "_journal/2024-05.md",
@@ -193,7 +194,6 @@
     "_articles/(Draft) About styles ~ Homer and the Old Testament.md",
     "_daily/2024-04-12 Addendum (Telos).md",
     "_daily/2024-05-01.md",
-    "assets/attachments/4913.jpg",
     "_journal/2024-04 Degenerative eye.md",
     "_daily/2024-04-29.md",
     "_daily/2024-04-30.md",
