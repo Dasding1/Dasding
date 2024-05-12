@@ -27,6 +27,6 @@ Anyway, I'm talking about all this because a few nights ago I had a feverish dre
 </p>
 
 <p align="justify">
-I could see fifty years passing in minutes through a delirious, ultra-accelerated timelapse. People of all ethnicities whispered the same strange dialect in my ear—a kind of degraded English—, while humanity as a whole was slowly being dragged to a sort of post-geographic non-place. Then, I saw a sharp structure, dizzyingly tall and translucent. As a tower placed in a realm beyond realms, continuously flickering in and out of existence; I could see the structure rippling in God's eye fluid, as if consciously taking care not to wake Him up (again).
+I could see fifty years passing in minutes through a delirious, ultra-accelerated timelapse. People of all ethnicities whispered the same strange dialect in my ear—a kind of degraded English—, while humanity as a whole was slowly being dragged to a sort of post-geographic non-place. Then, I saw a sharp structure, dizzyingly tall but translucent like the day-moon. As a tower placed in a realm beyond realms, continuously flickering in and out of existence; I could see the structure rippling in God's eye fluid, as if consciously taking care not to wake Him up (again).
 
 </p>
