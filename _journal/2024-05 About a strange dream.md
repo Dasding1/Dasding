@@ -10,7 +10,7 @@ tags:
 
 <p align="justify">
 
-The internet has created this funny situation in which the ascetic's cave is millimeters away from the prostitute's lair, and yet they remain perfectly immiscible. Vehicles were already impactful, but the web surely marks the ultimate victory of time over space. Virtually, all distances are condensed in a process that perpetually edges toward zero.
+The internet has created this funny situation in which the ascetic's cave is millimeters away from the prostitute's lair, and yet they remain perfectly immiscible. I mean, vehicles were already impactful, but the web surely marks the ultimate victory of time over space. Virtually, all distances are condensed in a process that perpetually edges toward zero.
 
 </p>
 
