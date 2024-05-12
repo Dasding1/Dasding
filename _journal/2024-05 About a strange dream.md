@@ -30,4 +30,4 @@ Anyway, I'm talking about all this because a few nights ago I had a feverish dre
 I could see fifty years passing in minutes through a delirious, ultra-accelerated timelapse. People of all ethnicities whispered the same strange dialect in my ear—a kind of degraded English—, while humanity as a whole was slowly being dragged to a sort of post-geographic non-place. Then, I saw a sharp structure, dizzyingly tall but translucent like a day-moon. The tower was placed in a realm beyond realms, continuously flickering in and out of existence. I could see it rippling in God's eye fluid, as if consciously taking care not to wake Him up (again).
 </p>
 
-So the dream ended and I woke up.
+Then the dream ended and I woke up.
