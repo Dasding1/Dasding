@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_journal/2024-05 About a strange dream.md",
+                "file": "_daily/2024-05-11.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_journal/2024-05 About a strange dream.md",
+                "file": "_daily/2024-05-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_journal/2024-05 About a strange dream.md",
+                "file": "_daily/2024-05-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_journal/2024-05 About a strange dream.md"
+                "file": "_daily/2024-05-11.md"
               }
             }
           },
@@ -166,6 +166,9 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
+    "_daily/2022-05-11.md",
+    "_daily/2024-05-11.md",
+    "_journal/2024-05 About a strange dream.md",
     "_journal/2024-05.md",
     "_journal/2024-05 Models.md",
     "_journal/2024-05-07.md",
@@ -178,7 +181,6 @@
     "_journal/Notes on Remilia's New Internet.md",
     "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
     "_journal/2024-04 Degenerative eye.md",
-    "_journal/2024-05 About a strange dream.md",
     "assets/attachments/5187.jpg",
     "_journal/2024-04 BEATING THE ALLEGATIONS 1 RACISMNAZISM.md",
     "_daily/2024-05-11.md",
@@ -188,7 +190,6 @@
     "assets/attachments/5182.png",
     "assets/attachments/5169.mp4",
     "_daily/2024-04-28 The Deer's Cry.md",
-    "_daily/2022-05-11.md",
     "_daily/2024-04-27 (re)learning photoshop.md",
     "assets/attachments/4923. The Potala Palace, Tibet.jpg",
     "assets/attachments/4923. The Potala Palace, Tibet..jpg",
@@ -202,7 +203,6 @@
     "assets/attachments/4899.jpg",
     "_articles/OTAKU'S GEIST GENESIS.md",
     "assets/attachments/4897.jpg",
-    "_articles/UNKOWN ARTIST.md",
     "assets/attachments/The Deer's Cry.mp3",
     "assets/favicon/site.webmanifest",
     "assets/favicon/Dasding.ico",
