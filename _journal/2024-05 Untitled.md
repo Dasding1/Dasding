@@ -13,7 +13,7 @@ I'm don of the halls, but light stepped, red carpet
 <br>
 I'm that lurker behind stained glass, velvet curtain
 <br>
-I'am the nighttime stroll, among shadowy colonnades
+I'm the nighttime stroll, among shadowy colonnades
 <br>
 I'm an odd hour of the night, a wraith in red furs
 <br>
