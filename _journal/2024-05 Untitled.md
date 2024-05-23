@@ -21,6 +21,6 @@ I'm the longsword, lit by my candlebrum
 <br>
 I'm a hidden authority, God's black glove
 <br>
-I'm a golden quill, kidnapping spirits at dawn
+I'm a golden quill, kidnapping spirits at midnight
 <br>
 I'm trembling hands, sickpale.
