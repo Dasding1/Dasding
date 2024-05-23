@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2024-05-22.md",
+                "file": "_wiki/Nietzsche.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2024-05-22.md",
+                "file": "_wiki/Nietzsche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2024-05-22.md",
+                "file": "_wiki/Nietzsche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2024-05-22.md"
+                "file": "_wiki/Nietzsche.md"
               }
             }
           },
@@ -179,9 +179,9 @@
   },
   "active": "57a59de92f23546b",
   "lastOpenFiles": [
+    "_daily/2024-05-22.md",
     "assets/attachments/5049.jpg",
     "_daily/2024-05-16.md",
-    "_daily/2024-05-22.md",
     "_daily/2024-05-21.md",
     "_daily/2024-05-20.md",
     "_daily/2024-05-17.md",
@@ -215,7 +215,6 @@
     "assets/attachments/4923. The Potala Palace, Tibet.jpg",
     "assets/attachments/4923. The Potala Palace, Tibet..jpg",
     "assets/attachments/4905.jpg",
-    "assets/attachments/4901.jpg",
     "assets/attachments/The Deer's Cry.mp3",
     "assets/favicon/site.webmanifest",
     "assets/favicon/Dasding.ico",

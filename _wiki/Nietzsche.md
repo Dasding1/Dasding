@@ -200,3 +200,30 @@ Part IV - Aphorism # 157*
 Book V - Aphorism # 497*
 
 <center>☆</center>
+
+Two Orators. 
+
+Of these two orators the one arrives at a full understanding of his case only when he yields himself to emotion; it is only this that pumps sufficient blood and heat into his brain to compel his high intellectuality to reveal itself. The other attempts, indeed, now and then to do the same: to state his case sonorously, vehemently, and spiritedly with the aid of emotion, - but usually with bad success. He then very soon speaks obscurely and confusedly; he exaggerates, makes omissions, and excites suspicion of the justice of his case: indeed, he himself feels this suspicion, and the sudden changes into the coldest and most repulsive tones (which raise a doubt in the hearer as to his passionateness being genuine) are thereby explicable. With him emotion always drowns the spirit; perhaps because it is stronger than in the former. But he is at the height of his power when he resists the impetuous storm of his feeling, and as it were scorns it; it is then only that his spirit emerges fully from its concealment, a spirit logical, mocking and playful, but nevertheless awe-inspiring.
+
+*The Gay Science  
+Book II - Aphorism # 96*
+
+<center>☆</center>
+
+We beginners! 
+
+How much an actor sees and divines when he watches another act! He knows when a muscle employed in some gesture fails in its duty; he segregates those little, artificial things which have been practised one by one cold-bloodedly before the mirror and then refuse to integrate themselves into the whole; he feels it when the actor is surprised by his own inventiveness on the stage and then spoils it through being surprised. Again, how differently a painter observes a person moving before him! For he at once visualises many more things in addition, so as to make a complete picture of what is presently before his eyes and to realise its whole effectiveness; in his mind he illuminates the same object in several different ways; he divides the effect of the whole by adding to it an antithetical contrast. If only we possessed the eye of this actor and this painter for the domain of human souls!
+
+*Daybreak  
+Book V - Aphorism # 533*
+
+<center>☆</center>
+
+Hope as arrogance. 
+
+Our social order will slowly melt away, as all earlier orders have done when the suns of new ideas shone forth with new warmth over the people. One can desire this melting only in that one has hope; and one may reasonably have hope only if one credits his own heart and head, and that of his equals, with more strength than one credits to the representatives of the existing order. Usually, then, this hope will be arrogance, an overestimation.
+
+*Human, All Too Human  
+Section Eight: A Look At The State - Aphorism # 443*
+
+<center>☆</center>
