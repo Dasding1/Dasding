@@ -11,7 +11,7 @@ I'm a puny skinny artsty palace prince, crimson sheets
 <br>
 I'm don of the halls, but light stepped, red carpet
 <br>
-I'm that lurker behind stained glass, velvet curtain
+I'm the figure lurking behind stained glass, velvet curtain
 <br>
 I'm the nighttime stroll, among shadowy colonnades
 <br>
