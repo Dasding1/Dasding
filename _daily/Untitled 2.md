@@ -9,6 +9,5 @@ tags:
 ![[5261.gif]]
 <center>
 
-No form, no feelings, no perceptions, no consciousness, no eyes, no ears, no nose, no tongue, no body, no mind, no color, no sound, no smell, no taste, no touch. No light.
-
+No form, no feelings, no perceptions, no consciousness, no eyes, no ears, no nose, no tongue, no body, no mind, no color, no sound, no smell, no taste, no touch. 
 </center>
