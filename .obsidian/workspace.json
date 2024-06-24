@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2024-06-19.md",
+                "file": "_daily/2024-06-23.md",
                 "mode": "source",
                 "source": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2024-06-19.md",
+                "file": "_daily/2024-06-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2024-06-19.md",
+                "file": "_daily/2024-06-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2024-06-19.md"
+                "file": "_daily/2024-06-23.md"
               }
             }
           },
@@ -191,8 +191,9 @@
   },
   "active": "e790e5f1a6bfa752",
   "lastOpenFiles": [
-    "_daily/2024-06-18.md",
     "_daily/2024-06-19.md",
+    "_daily/2024-06-23.md",
+    "_daily/2024-06-18.md",
     "_daily/2024-06-11.md",
     "assets/attachments/221 nightcityneon.jpg",
     "assets/attachments/[221] nightcityneon.jpg",
@@ -221,7 +222,6 @@
     "_journal/Notes on Remilia's New Internet.md",
     "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
     "_journal/Untitled.md",
-    "_journal/2024-05-07.md",
     "assets/attachments/4467.webp",
     "assets/attachments/5049.jpg",
     "assets/attachments/5246.jpg",
