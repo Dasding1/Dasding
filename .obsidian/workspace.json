@@ -54,9 +54,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "a12f9d3622b44e30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_daily/2024-08-04.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2024-08-03.md",
+                "file": "_daily/2024-08-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2024-08-03.md",
+                "file": "_daily/2024-08-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2024-08-03.md"
+                "file": "_daily/2024-08-04.md"
               }
             }
           },
@@ -201,8 +213,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a4abdfd44e81b05",
+  "active": "a12f9d3622b44e30",
   "lastOpenFiles": [
+    "_daily/2024-08-04.md",
     "_daily/2024-07-17.md",
     "_daily/2024-08-03.md",
     "_daily/2024-07-09.md",
@@ -233,7 +246,6 @@
     "assets/attachments/5261.gif",
     "_daily/2022-05-11.md",
     "_journal/2024-05 Untitled.md",
-    "_journal/2024-05 Rap Battles.md",
     "assets/attachments/4467.webp",
     "assets/attachments/5049.jpg",
     "assets/attachments/5246.jpg",
