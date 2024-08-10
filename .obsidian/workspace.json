@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2024-08-04.md",
+                "file": "_daily/2024-08-10.md",
                 "mode": "source",
                 "source": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2024-08-04.md",
+                "file": "_daily/2024-08-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2024-08-04.md",
+                "file": "_daily/2024-08-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2024-08-04.md"
+                "file": "_daily/2024-08-10.md"
               }
             }
           },
@@ -216,6 +216,7 @@
   "active": "a12f9d3622b44e30",
   "lastOpenFiles": [
     "_daily/2024-08-04.md",
+    "_daily/2024-08-10.md",
     "_daily/2024-07-17.md",
     "_daily/2024-08-03.md",
     "_daily/2024-07-09.md",
@@ -245,7 +246,6 @@
     "_daily/2024-05-22.md",
     "assets/attachments/5261.gif",
     "_daily/2022-05-11.md",
-    "_journal/2024-05 Untitled.md",
     "assets/attachments/4467.webp",
     "assets/attachments/5049.jpg",
     "assets/attachments/5246.jpg",
