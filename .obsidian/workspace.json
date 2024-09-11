@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/Untitled 2.md",
+                "file": "_daily/2024-09-11.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/Untitled 2.md",
+                "file": "_daily/2024-09-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/Untitled 2.md",
+                "file": "_daily/2024-09-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/Untitled 2.md"
+                "file": "_daily/2024-09-11.md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "57a59de92f23546b",
   "lastOpenFiles": [
-    "_daily/Untitled 3.md",
     "_daily/Untitled 2.md",
+    "_daily/2024-09-11.md",
+    "_daily/Untitled 3.md",
     "_daily/Untitled 1.md",
     "_daily/Untitled.md",
     "_daily/2024-09-09.md",
@@ -206,7 +207,6 @@
     "_daily/2024-08-03.md",
     "_daily/2024-08-04.md",
     "_daily/2024-07-05.md",
-    "_daily/2024-06-11.md",
     "assets/attachments/221 nightcityneon.jpg",
     "assets/attachments/[221] nightcityneon.jpg",
     "assets/attachments/Idylls_of_the_King.jpg",
