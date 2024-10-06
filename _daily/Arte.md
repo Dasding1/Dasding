@@ -36,7 +36,7 @@ Quando foi a última vez que você parou para ver as nuvens?
 
 Criatividade é Marte na primavera.
 
-# Anônimato e Pós-Autoria
+## Anônimato e Pós-Autoria
 
 ![[Houghton_Typ_Inc_2121A_-_Durer_Apocalypse_33.png]]
 
