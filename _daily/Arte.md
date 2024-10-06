@@ -100,3 +100,5 @@ Master Raro: Revelations 10:8-11
 > 9 So I went to the angel and asked him to give me the little scroll. He said to me, “Take it and eat it. It will turn your stomach sour, but ‘in your mouth it will be as sweet as honey.’”
 > 10 I took the little scroll from the angel’s hand and ate it. It tasted as sweet as honey in my mouth, but when I had eaten it, my stomach turned sour.
 > 11 Then I was told, “You must prophesy again about many peoples, nations, languages and kings.”
+
+Imagine que você criou um fake chamado Lara. Ela é uma garota com foto da Sailoor Moon que adora filosofia (Hegel) e posta sobre esse assunto melhor que seus pares masculinos. Meses passam, sua conta falsa ganha notoriedade e as pessoas adoram receber seus textos. Todos leem com atenção, e conversam contigo não apenas sobre filosofia, mas sobre a vida como um todo. Você então fabrica toda uma história para Lara,  
