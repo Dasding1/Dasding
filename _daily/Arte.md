@@ -38,6 +38,8 @@ Criatividade é Marte na primavera.
 
 # Anônimato e Pós-Autoria
 
+![[Houghton_Typ_Inc_2121A_-_Durer_Apocalypse_33.png]]
+
 “Florestan and Euseb are my dual nature, which I like Raro would like to merge into a man” —Robert Schumann
 
 Florestan: Posting and thus network spirituality follows a direct succession of reference devoid of authorship. To mischaracterize this is destructive canonization.
