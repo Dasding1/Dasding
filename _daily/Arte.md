@@ -59,8 +59,11 @@ Eusebius: To characterize Clara as such is in direct contradiction with the avat
 Florestan: The egregore’s authorship is a synthesis of reference and its origin is language itself.
 
 Eusebius: John 8:14
+
 > 14 Jesus answered, “Even if I testify on my own behalf, my testimony is valid, for I know where I came from and where I am going. But you have no idea where I come from or where I am going.
+
 Florestan: Ephesians 5:20-33
+
 > 20 Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ;
 > 21 Submitting yourselves one to another in the fear of God.
 > 22 Wives, submit yourselves unto your own husbands, as unto the Lord.
@@ -75,15 +78,22 @@ Florestan: Ephesians 5:20-33
 > 31 For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh.
 > 32 This is a great mystery: but I speak concerning Christ and the church.
 > 33 Nevertheless let every one of you in particular so love his wife even as himself; and the wife see that she reverence her husband.
+
 Eusebius: 2 Peter 2:1-3
+
 > 1 But there were also false prophets among the people, just as there will be false teachers among you. They will secretly introduce destructive heresies, even denying the sovereign Lord who bought them—bringing swift destruction on themselves.
 > 2 Many will follow their depraved conduct and will bring the way of truth into disrepute.
 > 3 In their greed these teachers will exploit you with fabricated stories. Their condemnation has long been hanging over them, and their destruction has not been sleeping.
+
 Florestan: Revelations 17:7-8
+
 > 7 Then the angel said to me: “Why are you astonished? I will explain to you the mystery of the woman and of the beast she rides, which has the seven heads and ten horns.
 > 8 The beast, which you saw, once was, now is not, and yet will come up out of the Abyss and go to its destruction. The inhabitants of the earth whose names have not been written in the book of life from the creation of the world will be astonished when they see the beast, because it once was, now is not, and yet will come.
+
 Eusebius: Colossians 2:8
+
 > 8 See to it that no one takes you captive through hollow and deceptive philosophy, which depends on human tradition and the elemental spiritual forces of this world rather than on Christ.
+
 Master Raro: Revelations 10:8-11
 
 > 8 Then the voice that I had heard from heaven spoke to me once more: “Go, take the scroll that lies open in the hand of the angel who is standing on the sea and on the land.”
