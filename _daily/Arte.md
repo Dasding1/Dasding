@@ -5,7 +5,7 @@ date: 2024-10-06
 tags: 
 ---
 
-# 2024-10-06
+# Arte
 
 ## O Que é e Para que Serve "Arte"
 
