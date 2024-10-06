@@ -32,7 +32,7 @@ Criatividade é concentração e memória.
 
 É observar algo e reconhecer que aquele fenômeno ou objeto oferece muito mais do que as possibilidades que imediatamente chegaram aos seus olhos. É selecionar, peneirar, organizar, julgar. Todo grande artista - aqueles que elevaram os padrões da sua áreia - é um grande trabalhador. É indispensável ter um *ethos*  *karoshi* em relação à sua obra - afinal, lembre-se: a mediocridade também é causa de sofrimento.
 
-Quando foi a última vez que você parou para ver as nuvens?
+Quando foi a última vez que você parou para deitar e olhar as nuvens?
 
 Criatividade é Marte na primavera.
 
