@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2024-10-07.md",
+                "file": "_daily/Arte.md",
                 "mode": "source",
                 "source": true
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "medicine",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2024-10-07.md",
+                "file": "_daily/Arte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2024-10-07.md",
+                "file": "_daily/Arte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2024-10-07.md"
+                "file": "_daily/Arte.md"
               }
             }
           },
@@ -180,8 +179,8 @@
   },
   "active": "57a59de92f23546b",
   "lastOpenFiles": [
-    "_daily/Promissory.md",
     "_daily/2024-10-07.md",
+    "_daily/Promissory.md",
     "assets/attachments/Houghton_Typ_Inc_2121A_-_Durer_Apocalypse_33.png",
     "assets/attachments/Pasted image 20241006121752.png",
     "_daily/2024-10-05.md",
