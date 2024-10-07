@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "medicine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,7 +178,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57a59de92f23546b",
+  "active": "cf91471a0053b065",
   "lastOpenFiles": [
     "assets/attachments/Houghton_Typ_Inc_2121A_-_Durer_Apocalypse_33.png",
     "assets/attachments/Pasted image 20241006121752.png",
