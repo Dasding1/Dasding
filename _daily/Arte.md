@@ -19,7 +19,7 @@ A arte surge então como uma fuga. Uma fuga dessa miséria empírica que é noss
 
 Todo artista é um narrador, e seu único ofício é transmitir um fato, que se expressou a ele e que agora ele busca tornar imaginável àqueles que não o vivenciaram diretamente. 
 
-Desde Homero não se inventou outra coisa senão narrar. A escrita congela narrativas; a pintura desenha narrativas; a arquitetura constrói narrativas de pedra e ferro; a fotografia e o cinema embalsamam narrativas; até jarros e panelas, no mínimo, narram a utilidade que o artesão intencionou para eles. Mesmo as bichas francesas do século passado — e caipiras como o Martin Margiela, que ainda hoje continuam nesse modismo — e suas exposições sem conteúdo, "não-arte", nunca fizeram outra coisa além de narrar o _ethos_ suicida e homossexual — porque o homossexualismo é, no fundo, desejo de autodestruição rebaixado ao plano sexual — que tomou conta da Europa nos últimos cem anos.
+Desde Homero não se inventou outra coisa senão narrar. A escrita congela narrativas; a pintura desenha narrativas; a arquitetura constrói narrativas de pedra e ferro; a fotografia e o cinema embalsamam narrativas; até jarros e panelas, no mínimo, narram a utilidade que o artesão intencionou para eles. Mesmo as bichas francesas do século passado — e retardatários como Martin Margiela, que chegaram *too late to the party* — e suas exposições sem conteúdo, "não-arte", nunca fizeram outra coisa além de narrar o _ethos_ suicida e homossexual — porque o homossexualismo é, no fundo, desejo de autodestruição rebaixado ao plano sexual — que tomou conta da Europa nos últimos cem anos.
 
 
 ## O Que é "Criatividade"?
