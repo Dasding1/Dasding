@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2024-10-08.md",
+                "file": "_daily/Arte.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2024-10-08.md",
+                "file": "_daily/Arte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2024-10-08.md",
+                "file": "_daily/Arte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2024-10-08.md"
+                "file": "_daily/Arte.md"
               }
             }
           },
@@ -179,8 +179,8 @@
   },
   "active": "57a59de92f23546b",
   "lastOpenFiles": [
-    "_daily/Arte.md",
     "_daily/2024-10-08.md",
+    "_daily/Arte.md",
     "_daily/2024-10-07.md",
     "_daily/Promissory.md",
     "assets/attachments/Houghton_Typ_Inc_2121A_-_Durer_Apocalypse_33.png",
