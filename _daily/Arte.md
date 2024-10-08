@@ -33,7 +33,7 @@ Criatividade é concentração e memória.
 
 É observar algo e reconhecer que aquele fenômeno ou objeto oferece muito mais do que as possibilidades que imediatamente chegaram aos seus olhos. É selecionar, peneirar, organizar, julgar. Todo grande artista - aqueles que elevaram os padrões da sua área - foi também um grande trabalhador. 
 
-Criatividade é o ethos *karoshi* em relação à sua obra.
+Criatividade é um ethos *karoshi* em relação à sua obra.
 Criatividade é Marte na primavera.
 
 ## Anônimato e Pós-Autoria
