@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/Arte.md",
+                "file": "_daily/2024-10-05.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/Arte.md",
+                "file": "_daily/2024-10-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/Arte.md",
+                "file": "_daily/2024-10-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/Arte.md"
+                "file": "_daily/2024-10-05.md"
               }
             }
           },
@@ -179,10 +179,10 @@
   },
   "active": "57a59de92f23546b",
   "lastOpenFiles": [
-    "assets/attachments/5.png",
-    "_daily/2024-10-08.md",
     "_daily/Arte.md",
     "_daily/2024-10-07.md",
+    "_daily/2024-10-08.md",
+    "assets/attachments/5.png",
     "_daily/Promissory.md",
     "assets/attachments/Houghton_Typ_Inc_2121A_-_Durer_Apocalypse_33.png",
     "assets/attachments/Pasted image 20241006121752.png",
@@ -214,7 +214,6 @@
     "assets/attachments/221 nightcityneon.jpg",
     "assets/attachments/[221] nightcityneon.jpg",
     "assets/attachments/Idylls_of_the_King.jpg",
-    "assets/attachments/5276.png",
     "assets/attachments/5169.mp4",
     "assets/attachments/The Deer's Cry.mp3",
     "assets/favicon/site.webmanifest",
