@@ -31,10 +31,9 @@ Criatividade é uma obsessão teimosa.
 Criatividade é uma compulsão insistente. 
 Criatividade é concentração e memória.
 
-É observar algo e reconhecer que aquele fenômeno ou objeto oferece muito mais do que as possibilidades que imediatamente chegaram aos seus olhos. É selecionar, peneirar, organizar, julgar. Todo grande artista - aqueles que elevaram os padrões da sua área - foi também um grande trabalhador. É indispensável ter um *ethos*  *karoshi* em relação à sua obra.
+É observar algo e reconhecer que aquele fenômeno ou objeto oferece muito mais do que as possibilidades que imediatamente chegaram aos seus olhos. É selecionar, peneirar, organizar, julgar. Todo grande artista - aqueles que elevaram os padrões da sua área - foi também um grande trabalhador. 
 
-Quando foi a última vez que você deitou para olhar atenciosamente as nuvens?
-
+Criatividade é o ethos *karoshi* em relação à sua obra.
 Criatividade é Marte na primavera.
 
 ## Anônimato e Pós-Autoria
