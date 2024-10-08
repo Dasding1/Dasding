@@ -15,7 +15,7 @@ Você leu poemas, cochilou ao sol, sonhou embaixo de uma árvore, pegou terra co
 
 Mais que isso, cada ação no mundo te privará de certas vivências para abrir espaço a outras — ser pai exclui a vida de solteiro e vice-versa —, de modo que, se fôssemos nos basear apenas no que vivemos diretamente, o conjunto das coisas de que poderíamos falar com propriedade seria do tamanho de uma ervilha.
 
-A arte surge então como uma fuga. Uma fuga dessa miséria empírica que é nossa existência particular. Alguém viu, sentiu, atravessou certas experiências, fenômenos; guardou-os na memória, traduziu-os em alguma mídia, na medida de seu alcance expressivo, para que outros possam ver e sentir _como é_ estar lá. A arte é uma dupla tradução de uma experiência, interna ou externa, em  narração: do evento bruto, vivido, para a memória e imaginação, e dessas para a expressão artística, sempre limitada pela técnica e pelas ferramentas que se tem à mão.
+A arte surge então como uma fuga. Uma fuga dessa miséria empírica que é nossa existência particular. Alguém viu, sentiu, atravessou certas experiências, fenômenos; guardou-os na memória, traduziu-os em alguma mídia, na medida de seu alcance expressivo, para que outros pudessem ver e sentir _como é_ estar lá. A arte é uma dupla tradução de uma experiência, interna ou externa, em  narração: do evento bruto, vivido, para a memória e imaginação, e dessas para a expressão artística, sempre limitada pela técnica e pelas ferramentas que se tem à mão.
 
 Todo artista é um narrador, e seu único ofício é transmitir um fato, que se expressou a ele e que agora ele busca tornar imaginável àqueles que não o vivenciaram diretamente. 
 
