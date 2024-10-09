@@ -26,13 +26,13 @@ Desde Homero não se inventou outra coisa senão narrar. A escrita congela narra
 
 ![[Pasted image 20241006121752.png]]
 
-Criatividade é trabalho.
 Criatividade é uma obsessão teimosa.
 Criatividade é uma compulsão insistente. 
 Criatividade é concentração e memória.
 
 É observar algo e reconhecer que aquele fenômeno ou objeto oferece muito mais do que as possibilidades que imediatamente chegaram aos seus olhos, e se esforçar para tornar aquela perspectiva comunicável aos outros. É selecionar, peneirar, organizar, julgar. Todo grande artista - aqueles que elevaram os padrões da sua área - foi também um grande trabalhador. 
 
+Criatividade é trabalho.
 Criatividade é um ethos *karoshi*.
 Criatividade é Marte na primavera.
 
