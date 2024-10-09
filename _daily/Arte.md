@@ -17,7 +17,7 @@ Mais que isso, cada ação no mundo te privará de certas vivências para abrir 
 
 A arte surge então como uma fuga. Uma fuga dessa miséria empírica que é nossa existência particular. Alguém viu, sentiu, atravessou certas experiências, fenômenos; guardou-os na memória, traduziu-os em alguma mídia, na medida de seu alcance expressivo, para que outros pudessem ver e sentir _como é_ estar lá. Em certo sentido, toda obra de arte é uma dupla tradução de uma experiência, interna ou externa, em  narração: do evento bruto, vivido, para a memória e imaginação, e dessas para a expressão artística, sempre limitada pela técnica e pelas ferramentas que se tem à mão.
 
-Todo artista é um narrador, e seu único ofício é transmitir um fato, que se expressou a ele e que agora ele busca tornar imaginável àqueles que não o vivenciaram diretamente. 
+Todo artista é um narrador, e seu único ofício é transmitir um fato que se expressou a ele e que agora ele busca tornar imaginável àqueles que não o vivenciaram diretamente. 
 
 Desde Homero não se inventou outra coisa senão narrar. A escrita congela narrativas; a pintura desenha narrativas; a arquitetura constrói narrativas de pedra e ferro; a fotografia e o cinema embalsamam narrativas; até jarros e panelas, no mínimo, narram a utilidade que o artesão intencionou para eles. Mesmo as bichas francesas do século passado — e retardatários como Martin Margiela, que chegaram *too late to the party* — e suas exposições sem conteúdo, "não-arte", nunca fizeram outra coisa além de narrar o espírito homosuicida — porque o homossexualismo não passa de um desejo de autodestruição diluído em impulsos sexuais — que tomou conta da Europa nos últimos cem anos.
 
