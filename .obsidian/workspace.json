@@ -25,14 +25,12 @@
             "id": "57a59de92f23546b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "readme.md",
-                "mode": "source",
-                "source": true
+                "file": "assets/imgs/BGs/BGtile-18.png"
               },
-              "icon": "lucide-file",
-              "title": "readme"
+              "icon": "lucide-image",
+              "title": "BGtile-18"
             }
           }
         ],
@@ -119,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "assets/imgs/BGs/BGtile-18.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for readme"
+              "title": "Backlinks for BGtile-18"
             }
           },
           {
@@ -138,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "assets/imgs/BGs/BGtile-18.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from readme"
+              "title": "Outgoing links from BGtile-18"
             }
           },
           {
@@ -167,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md",
+                "file": "assets/imgs/BGs/BGtile-18.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of readme"
+              "title": "Outline of BGtile-18"
             }
           },
           {
@@ -207,8 +205,19 @@
   },
   "active": "57a59de92f23546b",
   "lastOpenFiles": [
-    "_articles/(Draft) About styles ~ Homer and the Old Testament.md",
+    "assets/imgs/BGs/BGtile-30.png",
+    "assets/imgs/BGs/BGtile-29.png",
+    "assets/imgs/BGs/BGtile-28.png",
+    "assets/imgs/BGs/BGtile-27.png",
+    "assets/imgs/BGs/BGtile-26.png",
+    "assets/imgs/BGs/BGtile-25.png",
+    "assets/imgs/BGs/BGtile-24.png",
+    "assets/imgs/BGs/BGtile-23.png",
+    "assets/imgs/BGs/BGtile-22.png",
+    "assets/imgs/BGs/BGtile-21.png",
+    "assets/imgs/BGs/BGtile-20.png",
     "readme.md",
+    "_articles/(Draft) About styles ~ Homer and the Old Testament.md",
     "ring.md",
     "_daily/2025-02-12.md",
     "_daily/2024-10-09.md",
@@ -216,13 +225,8 @@
     "_daily/2024-10-05.md",
     "_daily/2024-10-07.md",
     "_daily/2024-10-08.md",
-    "assets/attachments/5.png",
     "_daily/Promissory.md",
-    "assets/attachments/Houghton_Typ_Inc_2121A_-_Durer_Apocalypse_33.png",
-    "assets/attachments/Pasted image 20241006121752.png",
-    "assets/attachments/63 unflavoredwaxedfloss20-by-jonrafman - 1.jpg",
     "_daily/2024-09-11.md",
-    "assets/attachments/Pasted image 20240911190750.png",
     "_daily/Untitled 2.md",
     "_daily/Untitled 3.md",
     "_daily/Untitled 1.md",
@@ -233,16 +237,10 @@
     "_daily/2024-08-24.md",
     "_daily/2024-08-25.md",
     "_daily/2024-08-27.md",
-    "assets/attachments/Sakura2.png",
     "_daily/2024-05-27.md",
     "_daily/2024-06-26.md",
-    "assets/attachments/1506.jpg",
     "_daily/2024-08-10.md",
     "_daily/2024-06-18.md",
-    "_journal/2024-04 BEATING THE ALLEGATIONS 1 RACISMNAZISM.md",
-    "assets/attachments/221 nightcityneon.jpg",
-    "assets/attachments/[221] nightcityneon.jpg",
-    "assets/attachments/Idylls_of_the_King.jpg",
     "assets/attachments/5169.mp4",
     "assets/attachments/The Deer's Cry.mp3",
     "assets/favicon/site.webmanifest",
