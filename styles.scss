@@ -39,7 +39,7 @@ $bg-color: theme; /* <-- leave default theme BG color */
 
 //$bg-image: url(assets/imgs/BGs/bgtile-3.png);
 
-$bg-image: url(assets/imgs/BGs/bgtile-4.png);
+//$bg-image: url(assets/imgs/BGs/bgtile-4.png);
 
 //$bg-image: url(assets/imgs/BGs/bgtile-5.png);
 
@@ -50,7 +50,7 @@ $bg-image: url(assets/imgs/BGs/bgtile-4.png);
 
 body {
     
-    background-color: $bg-color;
+    background-color: $bg-color #000000;
     
     background-image: $bg-image;
 }
