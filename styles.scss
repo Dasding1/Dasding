@@ -28,7 +28,7 @@
 Uncomment one of the below lines to override the background color/image of your chosen theme. 'theme' will leave the default theme background. */
 
 
-$bg-color: white; /* <-- leave default theme BG color */
+$bg-color: theme; /* <-- leave default theme BG color */
 
 //$bg-image: url(assets/imgs/bg-yotsuba.gif); /* <-- leave default theme BG image */
 
@@ -54,7 +54,7 @@ $bg-color: white; /* <-- leave default theme BG color */
 
 body {
     
-    background-color: $bg-color: white;
+    background-color: $bg-color;
     
     background-image: $bg-image;
 }
