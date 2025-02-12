@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_journal/2024-05 Models.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2024-05 Models"
+              "title": "index"
             }
           }
         ],
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_journal/2024-05 Models.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-05 Models"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_journal/2024-05 Models.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-05 Models"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_journal/2024-05 Models.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-05 Models"
+              "title": "Outline of index"
             }
           },
           {
@@ -207,6 +207,7 @@
   },
   "active": "57a59de92f23546b",
   "lastOpenFiles": [
+    "_journal/2024-05 Models.md",
     "_journal/2024-05 Aristocratic satire.md",
     "_journal/2024-05 America.md",
     "_journal/2024-05 About a strange dream.md",
@@ -232,7 +233,6 @@
     "_daily/2024-09-09.md",
     "_daily/2024-09-11.md",
     "_daily/2024-10-05.md",
-    "_daily/2025-02-12.md",
     "assets/attachments/147 anime girl figure with drugs.jpg",
     "assets/attachments/147.jpg",
     "assets/imgs/BGs/BGtile-3.png",
