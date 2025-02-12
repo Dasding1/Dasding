@@ -16,7 +16,9 @@
                 "file": "_daily/Promissory.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Promissory"
             }
           },
           {
@@ -25,10 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2024-10-09.md",
+                "file": "_daily/2025-02-12.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2025-02-12"
             }
           }
         ],
@@ -51,8 +55,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +74,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -83,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2024-10-09.md",
+                "file": "_daily/2025-02-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-02-12"
             }
           },
           {
@@ -123,10 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2024-10-09.md",
+                "file": "_daily/2025-02-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-02-12"
             }
           },
           {
@@ -136,8 +153,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -146,8 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2024-10-09.md"
-              }
+                "file": "_daily/2025-02-12.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-02-12"
             }
           },
           {
@@ -155,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -179,8 +207,9 @@
   },
   "active": "57a59de92f23546b",
   "lastOpenFiles": [
-    "_daily/Arte.md",
     "_daily/2024-10-09.md",
+    "_daily/2025-02-12.md",
+    "_daily/Arte.md",
     "_daily/2024-10-05.md",
     "_daily/2024-10-07.md",
     "_daily/2024-10-08.md",
@@ -211,7 +240,6 @@
     "_daily/2024-06-19.md",
     "_daily/2024-06-23.md",
     "_daily/2024-06-25.md",
-    "_daily/2024-07-04.md",
     "assets/attachments/221 nightcityneon.jpg",
     "assets/attachments/[221] nightcityneon.jpg",
     "assets/attachments/Idylls_of_the_King.jpg",
