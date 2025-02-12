@@ -27,10 +27,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "assets/imgs/BGs/BGtile-18.png"
+                "file": "assets/imgs/BGs/BGtile-9.png"
               },
               "icon": "lucide-image",
-              "title": "BGtile-18"
+              "title": "BGtile-9"
             }
           }
         ],
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/imgs/BGs/BGtile-18.png",
+                "file": "assets/imgs/BGs/BGtile-9.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for BGtile-18"
+              "title": "Backlinks for BGtile-9"
             }
           },
           {
@@ -136,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/imgs/BGs/BGtile-18.png",
+                "file": "assets/imgs/BGs/BGtile-9.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from BGtile-18"
+              "title": "Outgoing links from BGtile-9"
             }
           },
           {
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/imgs/BGs/BGtile-18.png",
+                "file": "assets/imgs/BGs/BGtile-9.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of BGtile-18"
+              "title": "Outline of BGtile-9"
             }
           },
           {
@@ -205,17 +205,17 @@
   },
   "active": "57a59de92f23546b",
   "lastOpenFiles": [
-    "assets/imgs/BGs/BGtile-30.png",
-    "assets/imgs/BGs/BGtile-29.png",
+    "assets/imgs/BGs/BGtile-7.png",
+    "assets/imgs/BGs/BGtile-8.png",
+    "assets/imgs/BGs/BGtile-6.png",
+    "assets/imgs/BGs/BGtile-5.png",
+    "assets/imgs/BGs/BGtile-4a.png",
+    "assets/imgs/BGs/BGtile-4.png",
+    "assets/imgs/BGs/BGtile-3.png",
+    "assets/imgs/BGs/BGtile-2.png",
+    "assets/imgs/BGs/BGtile-1.png",
     "assets/imgs/BGs/BGtile-28.png",
-    "assets/imgs/BGs/BGtile-27.png",
-    "assets/imgs/BGs/BGtile-26.png",
-    "assets/imgs/BGs/BGtile-25.png",
-    "assets/imgs/BGs/BGtile-24.png",
-    "assets/imgs/BGs/BGtile-23.png",
-    "assets/imgs/BGs/BGtile-22.png",
-    "assets/imgs/BGs/BGtile-21.png",
-    "assets/imgs/BGs/BGtile-20.png",
+    "assets/imgs/BGs/BGtile-29.png",
     "readme.md",
     "_articles/(Draft) About styles ~ Homer and the Old Testament.md",
     "ring.md",
