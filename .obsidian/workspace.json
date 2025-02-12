@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2025-02-12.md",
+                "file": "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-02-12"
+              "title": "Samgyetang Ginseng Chicken Soup (Korean Style)"
             }
           }
         ],
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2025-02-12.md",
+                "file": "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-02-12"
+              "title": "Backlinks for Samgyetang Ginseng Chicken Soup (Korean Style)"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2025-02-12.md",
+                "file": "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-02-12"
+              "title": "Outgoing links from Samgyetang Ginseng Chicken Soup (Korean Style)"
             }
           },
           {
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2025-02-12.md",
+                "file": "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-02-12"
+              "title": "Outline of Samgyetang Ginseng Chicken Soup (Korean Style)"
             }
           },
           {
@@ -207,10 +207,18 @@
   },
   "active": "57a59de92f23546b",
   "lastOpenFiles": [
+    "_journal/Notes on Remilia's New Internet.md",
+    "_journal/Jade post.md",
+    "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
+    "_journal/2024-05-07.md",
+    "_journal/2024-05 Untitled.md",
+    "_journal/2024-05 Rap Battles.md",
+    "_journal/2024-05 Models.md",
+    "_journal/2024-05 Aristocratic satire.md",
+    "_daily/2025-02-12.md",
     "assets/attachments/147 anime girl figure with drugs.jpg",
     "assets/attachments/147.jpg",
     "_journal/2024-04 BEATING THE ALLEGATIONS 1 RACISMNAZISM.md",
-    "_daily/2025-02-12.md",
     "_journal/Untitled.md",
     "_daily/Promissory.md",
     "_daily/Untitled.md",
@@ -224,16 +232,9 @@
     "_daily/Mortgage.md",
     "_daily/2024-10-05.md",
     "_daily/Arte.md",
-    "_daily/2025-02-12.md",
     "_daily/2024-10-09.md",
     "_daily/2024-09-11.md",
     "_daily/2024-09-09.md",
-    "_daily/2024-08-17.md",
-    "_daily/2024-06-26.md",
-    "_daily/2024-06-18.md",
-    "_daily/2024-06-06.md",
-    "_daily/2024-05-22.md",
-    "_daily/2024-05-30.md",
     "assets/imgs/BGs/BGtile-3.png",
     "assets/imgs/BGs/BGtile-4.png",
     "assets/imgs/BGs/BGtile-4a.png",
@@ -242,7 +243,6 @@
     "assets/imgs/BGs/BGtile-5.png",
     "assets/imgs/BGs/BGtile-6.png",
     "assets/imgs/BGs/BGtile-30.png",
-    "assets/imgs/BGs/BGtile-29.png",
     "assets/attachments/5169.mp4",
     "assets/attachments/The Deer's Cry.mp3",
     "assets/favicon/site.webmanifest",
