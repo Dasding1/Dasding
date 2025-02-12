@@ -3,11 +3,11 @@ layout: home
 title: Home
 ---
 
-![[Pasted image 20240410222151.png]]
+![[509.jpg]]
 
 <div class="notes-entry-container note">
     <div class="content post-content">
 
-<center><i>Pairing the darkness of thought with the clarity of expression</i></center>
+<center><i></i></center>
 </div>
 </div>
