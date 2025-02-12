@@ -25,12 +25,14 @@
             "id": "57a59de92f23546b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/imgs/BGs/BGtile-3.png"
+                "file": "_articles/OTAKU'S GEIST GENESIS.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "BGtile-3"
+              "icon": "lucide-file",
+              "title": "OTAKU'S GEIST GENESIS"
             }
           }
         ],
@@ -117,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/imgs/BGs/BGtile-3.png",
+                "file": "_articles/OTAKU'S GEIST GENESIS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for BGtile-3"
+              "title": "Backlinks for OTAKU'S GEIST GENESIS"
             }
           },
           {
@@ -136,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/imgs/BGs/BGtile-3.png",
+                "file": "_articles/OTAKU'S GEIST GENESIS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from BGtile-3"
+              "title": "Outgoing links from OTAKU'S GEIST GENESIS"
             }
           },
           {
@@ -165,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/imgs/BGs/BGtile-3.png",
+                "file": "_articles/OTAKU'S GEIST GENESIS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of BGtile-3"
+              "title": "Outline of OTAKU'S GEIST GENESIS"
             }
           },
           {
@@ -205,9 +207,9 @@
   },
   "active": "57a59de92f23546b",
   "lastOpenFiles": [
+    "assets/imgs/BGs/BGtile-3.png",
     "assets/imgs/BGs/BGtile-4.png",
     "assets/imgs/BGs/BGtile-4a.png",
-    "assets/imgs/BGs/BGtile-3.png",
     "assets/imgs/BGs/BGtile-2.png",
     "assets/imgs/BGs/BGtile-1.png",
     "assets/imgs/BGs/BGtile-5.png",
