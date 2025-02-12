@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2025-02-12.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-02-12"
+              "title": "readme"
             }
           }
         ],
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2025-02-12.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-02-12"
+              "title": "Backlinks for readme"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2025-02-12.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-02-12"
+              "title": "Outgoing links from readme"
             }
           },
           {
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2025-02-12.md",
+                "file": "readme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-02-12"
+              "title": "Outline of readme"
             }
           },
           {
@@ -207,8 +207,11 @@
   },
   "active": "57a59de92f23546b",
   "lastOpenFiles": [
-    "_daily/2024-10-09.md",
+    "_articles/(Draft) About styles ~ Homer and the Old Testament.md",
+    "readme.md",
+    "ring.md",
     "_daily/2025-02-12.md",
+    "_daily/2024-10-09.md",
     "_daily/Arte.md",
     "_daily/2024-10-05.md",
     "_daily/2024-10-07.md",
@@ -237,9 +240,6 @@
     "_daily/2024-08-10.md",
     "_daily/2024-06-18.md",
     "_journal/2024-04 BEATING THE ALLEGATIONS 1 RACISMNAZISM.md",
-    "_daily/2024-06-19.md",
-    "_daily/2024-06-23.md",
-    "_daily/2024-06-25.md",
     "assets/attachments/221 nightcityneon.jpg",
     "assets/attachments/[221] nightcityneon.jpg",
     "assets/attachments/Idylls_of_the_King.jpg",
