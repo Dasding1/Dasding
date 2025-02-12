@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_journal/2024-05.md",
+                "file": "_daily/Promissory.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2024-05"
+              "title": "Promissory"
             }
           }
         ],
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_journal/2024-05.md",
+                "file": "_daily/Promissory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-05"
+              "title": "Backlinks for Promissory"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_journal/2024-05.md",
+                "file": "_daily/Promissory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-05"
+              "title": "Outgoing links from Promissory"
             }
           },
           {
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_journal/2024-05.md",
+                "file": "_daily/Promissory.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-05"
+              "title": "Outline of Promissory"
             }
           },
           {
@@ -207,13 +207,14 @@
   },
   "active": "57a59de92f23546b",
   "lastOpenFiles": [
+    "_daily/Untitled.md",
+    "_daily/Untitled 2.md",
+    "_journal/2024-05.md",
     "_journal/2024-04 Degenerative eye.md",
     "_journal/2024-04-18 BEATING THE ALLEGATIONS 2 MISOGYNY.md",
     "_journal/2024-04 Telos.md",
     "_journal/2024-04 HxH 19992011.md",
     "_journal/2024-04 BEATING THE ALLEGATIONS 1 RACISMNAZISM.md",
-    "_daily/Untitled 2.md",
-    "_daily/Untitled.md",
     "_daily/Untitled 1.md",
     "_daily/Promissory.md",
     "_daily/Psychopomp.md",
@@ -232,7 +233,6 @@
     "_daily/2024-05-30.md",
     "_daily/2024-05-27.md",
     "_daily/2024-05-17.md",
-    "_daily/2024-05-14.md",
     "assets/imgs/BGs/BGtile-3.png",
     "assets/imgs/BGs/BGtile-4.png",
     "assets/imgs/BGs/BGtile-4a.png",
