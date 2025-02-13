@@ -27,10 +27,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "assets/imgs/karoshipfp3.png"
+                "file": "assets/imgs/Dasding.png"
               },
               "icon": "lucide-image",
-              "title": "karoshipfp3"
+              "title": "Dasding"
             }
           }
         ],
@@ -205,13 +205,13 @@
   },
   "active": "57a59de92f23546b",
   "lastOpenFiles": [
-    "assets/imgs/karoshi2.png",
-    "assets/imgs/karoshi1.png",
     "assets/imgs/karoshipfp.png",
     "assets/imgs/Dasding.png",
+    "assets/imgs/Dasding.png",
+    "assets/imgs/karoshipfp3.png",
+    "assets/imgs/karoshi1.png",
     "assets/imgs/card.png",
     "assets/imgs/IMG_5967.jpg",
-    "assets/imgs/karoshipfp3.png",
     "assets/imgs/pfp.png",
     "assets/imgs/buddhist_swastika.jpeg",
     "_site/assets/imgs/pfp.png",
