@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2025-02-13.md",
+                "file": "ring.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-02-13"
+              "title": "ring"
             }
           }
         ],
@@ -205,9 +205,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57a59de92f23546b",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
+    "assets/imgs/IMG_5967.jpg",
     "index.md",
+    "readme.md",
     "_daily/2025-02-13.md",
     "assets/attachments/279.jpg",
     "assets/attachments/66 connected globe.jpg",
@@ -234,8 +236,6 @@
     "_daily/2024-06-06.md",
     "_daily/2024-06-18.md",
     "_daily/2024-06-26.md",
-    "_daily/2024-08-17.md",
-    "_daily/2024-09-09.md",
     "assets/attachments/147 anime girl figure with drugs.jpg",
     "assets/attachments/147.jpg",
     "assets/imgs/BGs/BGtile-3.png",
