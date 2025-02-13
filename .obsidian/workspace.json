@@ -11,12 +11,14 @@
             "id": "3aa1ea3782e80e19",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "_site/assets/imgs/pfp.png"
+                "file": "_daily/2022-05-11.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "pfp"
+              "icon": "lucide-file",
+              "title": "2022-05-11"
             }
           }
         ]
@@ -190,23 +192,25 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
+    "_daily/2025-02-13.md",
+    "_daily/2022-05-11.md",
+    "assets/imgs/animegirl.png",
+    "_daily/2024-04-28 The Deer's Cry.md",
+    "_daily/2024-04-15.md",
+    "_site/assets/imgs/pfp.png",
     "_site/assets/imgs/chaewon.jpg",
     "_site/assets/imgs/card.png",
     "_site/assets/imgs/bg-yotsuba.gif",
     "_site/assets/imgs/bg-vellum.jpg",
     "_site/assets/imgs/bg-article-vellum.jpg",
-    "_site/assets/imgs/pfp.png",
-    "assets/imgs/animegirl.png",
     "exocore/_templates/_wiki.md",
     "assets/imgs/pfp.png",
     "assets/imgs/Dasding.png",
     "_site/assets/imgs/icons/icon3.gif",
-    "_site/assets/imgs/icons/icon1.gif",
     "_daily/Promissory.md",
     "ring.md",
     "index.md",
     "readme.md",
-    "_daily/2025-02-13.md",
     "_journal/2024-05 Models.md",
     "_journal/2024-05 Aristocratic satire.md",
     "_journal/2024-05 America.md",
@@ -214,12 +218,9 @@
     "_journal/2024-05.md",
     "_journal/2024-04 Degenerative eye.md",
     "_journal/2024-04 BEATING THE ALLEGATIONS 1 RACISMNAZISM.md",
-    "_daily/2024-04-28 The Deer's Cry.md",
     "_daily/2024-04-25.md",
     "_daily/2024-04-16.md",
-    "_daily/2024-04-15.md",
     "_daily/2024-04-13.md",
-    "_daily/2022-05-11.md",
     "_daily/2024-04-29.md",
     "_daily/2024-05-05.md",
     "_daily/2024-05-10.md",
