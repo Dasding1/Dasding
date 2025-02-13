@@ -27,10 +27,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "_site/assets/imgs/pfp.png"
+                "file": "assets/imgs/karoshi.png"
               },
               "icon": "lucide-image",
-              "title": "pfp"
+              "title": "karoshi"
             }
           }
         ],
@@ -203,11 +203,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57a59de92f23546b",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
-    "_site/assets/imgs/karoshi.png",
-    "_site/assets/imgs/chaewon.jpg",
     "_site/assets/imgs/pfp.png",
+    "assets/imgs/karoshi.png",
+    "_site/assets/imgs/chaewon.jpg",
     "_site/assets/imgs/bg-yotsuba.gif",
     "_site/assets/imgs/card.png",
     "ring.md",
