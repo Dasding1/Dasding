@@ -21,3 +21,7 @@ tags: #drugs #religion
 > On the other side of nihilism new formations are emerging, this time exploiting the faultlines in the cultural landscape by slipping through the gaps. Ecstatic dance offers one such line of flight. Dance culture exploits the power of music to build a future on the desolate terrain of the present. 
 > 
 > —Hemment 1996:26
+
+##### Raves
+
+Solipse, Boom Festival (Portugal), Solstice23 (Japan), Exodus Cybertribal Festival, Goa beach parties (India), Moontribe’s Full Moon gatherings (Mojave Desert, USA), electro-salvation, Arcadias, Gaian Mind (Philadelphia), Ministry of Sound (London), Tribal Gathering, Earthdream (Central Australia), technomadic carnival, Detroit techno (Detroit), techno-pagan doofs (held in outdoor locations with ceremonial art installations and revived ancestral rituals), Earthdance (taking place simultaneously in over 100 cities in 70 countries with a synchronized global cyber-cast), Rave Mass (Sheffield), Techno Cosmic Mass (California)
