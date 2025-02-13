@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_journal/2024-05 About a strange dream.md",
+                "file": "_articles/Rave Culture and Religion.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2024-05 About a strange dream"
+              "title": "Rave Culture and Religion"
             }
           }
         ]
@@ -192,8 +192,9 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
-    "_journal/2024-04 Degenerative eye.md",
     "_journal/2024-05 About a strange dream.md",
+    "_articles/Rave Culture and Religion.md",
+    "_journal/2024-04 Degenerative eye.md",
     "index.md",
     "assets/favicon/apple-touch-icon.png.png",
     "assets/favicon/animegirl.png",
