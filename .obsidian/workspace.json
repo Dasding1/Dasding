@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "assets/imgs/Dasding.png"
+                "file": "_site/assets/imgs/Dasding.png"
               },
               "icon": "lucide-image",
               "title": "Dasding"
@@ -188,19 +188,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3aa1ea3782e80e19",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
+    "_site/assets/imgs/pfp.png",
+    "_site/assets/imgs/icons/icon3.gif",
+    "_site/assets/imgs/icons/icon1.gif",
+    "_site/assets/imgs/card.png",
+    "_site/assets/imgs/chaewon.jpg",
+    "_site/assets/imgs/Dasding.png",
     "assets/imgs/pfp.png",
     "_daily/Promissory.md",
     "assets/imgs/karoshipfp.png",
-    "assets/imgs/Dasding.png",
-    "assets/imgs/Dasding.png",
     "assets/imgs/karoshipfp3.png",
     "assets/imgs/karoshi1.png",
     "assets/imgs/card.png",
-    "assets/imgs/IMG_5967.jpg",
-    "assets/imgs/buddhist_swastika.jpeg",
-    "_site/assets/imgs/pfp.png",
     "ring.md",
     "index.md",
     "readme.md",
