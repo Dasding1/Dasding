@@ -11,14 +11,12 @@
             "id": "3aa1ea3782e80e19",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "exocore/_templates/_wiki.md",
-                "mode": "source",
-                "source": true
+                "file": "_site/assets/imgs/pfp.png"
               },
-              "icon": "lucide-file",
-              "title": "_wiki"
+              "icon": "lucide-image",
+              "title": "pfp"
             }
           }
         ]
@@ -190,20 +188,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e509f202f4abd033",
+  "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
+    "_site/assets/imgs/chaewon.jpg",
+    "_site/assets/imgs/card.png",
+    "_site/assets/imgs/bg-yotsuba.gif",
+    "_site/assets/imgs/bg-vellum.jpg",
+    "_site/assets/imgs/bg-article-vellum.jpg",
+    "_site/assets/imgs/pfp.png",
     "assets/imgs/animegirl.png",
+    "exocore/_templates/_wiki.md",
     "assets/imgs/pfp.png",
     "assets/imgs/Dasding.png",
-    "_site/assets/imgs/pfp.png",
     "_site/assets/imgs/icons/icon3.gif",
     "_site/assets/imgs/icons/icon1.gif",
-    "_site/assets/imgs/card.png",
-    "_site/assets/imgs/chaewon.jpg",
     "_daily/Promissory.md",
-    "assets/imgs/karoshipfp.png",
-    "assets/imgs/karoshipfp3.png",
-    "assets/imgs/karoshi1.png",
     "ring.md",
     "index.md",
     "readme.md",
@@ -227,7 +226,6 @@
     "_daily/2024-05-14.md",
     "_daily/2024-05-17.md",
     "_daily/2024-05-22.md",
-    "_daily/2024-06-06.md",
     "assets/attachments/5169.mp4",
     "assets/attachments/The Deer's Cry.mp3",
     "assets/favicon/site.webmanifest",
