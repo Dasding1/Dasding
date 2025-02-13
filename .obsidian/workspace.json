@@ -27,10 +27,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "assets/imgs/karoshipfp.png"
+                "file": "assets/imgs/pfp.png"
               },
               "icon": "lucide-image",
-              "title": "karoshipfp"
+              "title": "pfp"
             }
           }
         ],
@@ -205,14 +205,14 @@
   },
   "active": "57a59de92f23546b",
   "lastOpenFiles": [
+    "assets/imgs/karoshipfp.png",
+    "assets/imgs/pfp.png",
     "assets/imgs/karoshipfp3.png",
     "assets/imgs/Dasding.png",
-    "assets/imgs/karoshipfp.png",
-    "assets/imgs/karoshi.png",
+    "assets/imgs/pfp.png",
     "assets/imgs/IMG_5967.jpg",
     "assets/imgs/card.png",
     "assets/imgs/buddhist_swastika.jpeg",
-    "assets/imgs/pfp.png",
     "_site/assets/imgs/pfp.png",
     "_site/assets/imgs/chaewon.jpg",
     "_site/assets/imgs/bg-yotsuba.gif",
