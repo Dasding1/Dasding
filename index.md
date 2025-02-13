@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-![[66 connected globe.jpg]]
+![[279.jpg]]
 
 <div class="notes-entry-container note">
     <div class="content post-content">
