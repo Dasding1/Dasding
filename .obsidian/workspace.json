@@ -25,14 +25,12 @@
             "id": "57a59de92f23546b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "ring.md",
-                "mode": "source",
-                "source": true
+                "file": "_site/assets/imgs/pfp.png"
               },
-              "icon": "lucide-file",
-              "title": "ring"
+              "icon": "lucide-image",
+              "title": "pfp"
             }
           }
         ],
@@ -205,9 +203,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e509f202f4abd033",
+  "active": "57a59de92f23546b",
   "lastOpenFiles": [
     "_site/assets/imgs/chaewon.jpg",
+    "_site/assets/imgs/pfp.png",
+    "_site/assets/imgs/bg-yotsuba.gif",
+    "_site/assets/imgs/card.png",
+    "ring.md",
     "assets/imgs/IMG_5967.jpg",
     "index.md",
     "readme.md",
@@ -236,13 +238,9 @@
     "_daily/2024-05-22.md",
     "_daily/2024-06-06.md",
     "_daily/2024-06-18.md",
-    "_daily/2024-06-26.md",
     "assets/attachments/147 anime girl figure with drugs.jpg",
     "assets/attachments/147.jpg",
     "assets/imgs/BGs/BGtile-3.png",
-    "assets/imgs/BGs/BGtile-4.png",
-    "assets/imgs/BGs/BGtile-4a.png",
-    "assets/imgs/BGs/BGtile-2.png",
     "assets/attachments/5169.mp4",
     "assets/attachments/The Deer's Cry.mp3",
     "assets/favicon/site.webmanifest",
