@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_daily/2025-02-13.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2025-02-13"
             }
           }
         ],
@@ -207,6 +207,8 @@
   },
   "active": "57a59de92f23546b",
   "lastOpenFiles": [
+    "index.md",
+    "_daily/2025-02-13.md",
     "assets/attachments/279.jpg",
     "assets/attachments/66 connected globe.jpg",
     "assets/attachments/509.jpg",
@@ -234,7 +236,6 @@
     "_daily/2024-06-26.md",
     "_daily/2024-08-17.md",
     "_daily/2024-09-09.md",
-    "_daily/2024-09-11.md",
     "assets/attachments/147 anime girl figure with drugs.jpg",
     "assets/attachments/147.jpg",
     "assets/imgs/BGs/BGtile-3.png",
@@ -242,7 +243,6 @@
     "assets/imgs/BGs/BGtile-4a.png",
     "assets/imgs/BGs/BGtile-2.png",
     "assets/imgs/BGs/BGtile-1.png",
-    "assets/imgs/BGs/BGtile-5.png",
     "assets/attachments/5169.mp4",
     "assets/attachments/The Deer's Cry.mp3",
     "assets/favicon/site.webmanifest",
