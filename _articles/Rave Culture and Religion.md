@@ -22,6 +22,13 @@ tags: #drugs #religion
 > 
 > —Hemment 1996:26
 
-##### Raves
+> A kinaesthetic maelstrom inflected by diverse sonic currents
+
+> Throughout the 1990s rave grew prevalent in the experience of urban youth as vast numbers attached primary significance to raving. With the combined stimulus of electronic musics, psychotropic lighting, chemical alterants and all-night dancing, young novices and experienced habitués transcended the mundane in converted warehouses, wilderness areas, beaches, deserts and streets. Decked out in esoteric accessories, ultra violet (UV)-reactive clothing, personalized icons and an array of assimilated ‘religious’ glossolalia. >
+> 
+> P.18
+
+
+##### Festivals
 
 Solipse, Boom Festival (Portugal), Solstice23 (Japan), Exodus Cybertribal Festival, Goa beach parties (India), Moontribe’s Full Moon gatherings (Mojave Desert, USA), electro-salvation, Arcadias, Gaian Mind (Philadelphia), Ministry of Sound (London), Tribal Gathering, Earthdream (Central Australia), technomadic carnival, Detroit techno (Detroit), techno-pagan doofs (held in outdoor locations with ceremonial art installations and revived ancestral rituals), Earthdance (taking place simultaneously in over 100 cities in 70 countries with a synchronized global cyber-cast), Rave Mass (Sheffield), Techno Cosmic Mass (California)
