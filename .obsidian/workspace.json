@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "_site/assets/imgs/Dasding.png"
+                "file": "assets/imgs/pfp.png"
               },
               "icon": "lucide-image",
-              "title": "Dasding"
+              "title": "pfp"
             }
           }
         ]
@@ -188,14 +188,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e509f202f4abd033",
+  "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
+    "assets/imgs/Dasding.png",
     "_site/assets/imgs/pfp.png",
     "_site/assets/imgs/icons/icon3.gif",
     "_site/assets/imgs/icons/icon1.gif",
     "_site/assets/imgs/card.png",
     "_site/assets/imgs/chaewon.jpg",
-    "_site/assets/imgs/Dasding.png",
     "assets/imgs/pfp.png",
     "_daily/Promissory.md",
     "assets/imgs/karoshipfp.png",
