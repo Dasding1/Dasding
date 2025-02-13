@@ -11,12 +11,14 @@
             "id": "3aa1ea3782e80e19",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/imgs/animegirl.png"
+                "file": "index.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "animegirl"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -190,6 +192,10 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
+    "assets/favicon/apple-touch-icon.png.png",
+    "assets/favicon/animegirl.png",
+    "assets/favicon/favicon-16x16.png.crdownload",
+    "assets/imgs/animegirl.png",
     "_site/assets/imgs/card.png",
     "_site/assets/imgs/animegirl.png",
     "assets/imgs/Card.png",
@@ -198,13 +204,10 @@
     "assets/imgs/card.png",
     "_daily/2022-05-11.md",
     "_daily/2025-02-13.md",
-    "assets/imgs/animegirl.png",
     "_daily/2024-04-28 The Deer's Cry.md",
     "_daily/2024-04-15.md",
     "_site/assets/imgs/pfp.png",
     "_site/assets/imgs/chaewon.jpg",
-    "_site/assets/imgs/bg-yotsuba.gif",
-    "_site/assets/imgs/bg-vellum.jpg",
     "exocore/_templates/_wiki.md",
     "_daily/Promissory.md",
     "ring.md",
