@@ -1,6 +1,6 @@
 ---
 published: true
-topic: Edited by Graham St John
+topic: Graham St John
 date: 2025-02-13
 tags: #drugs #religion
 ---
