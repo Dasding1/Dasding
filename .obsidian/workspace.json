@@ -11,12 +11,14 @@
             "id": "3aa1ea3782e80e19",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/imgs/pfp.png"
+                "file": "exocore/_templates/_wiki.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "pfp"
+              "icon": "lucide-file",
+              "title": "_wiki"
             }
           }
         ]
@@ -51,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "user",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,15 +190,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3aa1ea3782e80e19",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
+    "assets/imgs/pfp.png",
     "assets/imgs/Dasding.png",
     "_site/assets/imgs/pfp.png",
     "_site/assets/imgs/icons/icon3.gif",
     "_site/assets/imgs/icons/icon1.gif",
     "_site/assets/imgs/card.png",
     "_site/assets/imgs/chaewon.jpg",
-    "assets/imgs/pfp.png",
     "_daily/Promissory.md",
     "assets/imgs/karoshipfp.png",
     "assets/imgs/karoshipfp3.png",
