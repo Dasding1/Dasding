@@ -5,7 +5,7 @@ subtitle:
 date: 2025-02-14
 tags: #fashion #raf
 ---
-# Riot Riot Riot
+# Riot! Riot! Riot!
 
 ![[Raf Simons AW 2001-02 Riot Riot Riot.png]]
 
@@ -14,3 +14,5 @@ Eastern youropean boys in oversized patched fishtail trenchcoats and facemasks g
 > At the flea market in Vienna I saw young people from Ukraine or Romania who, because of the cold, simply put layers on top of layers and thus created their own volumes 
 > 
 > —Neue Zürcher Zeitung
+
+![[Pasted image 20250214125518.png]]
