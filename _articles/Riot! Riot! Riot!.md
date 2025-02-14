@@ -37,6 +37,8 @@ but still a threat to wear those now familiar trench coats shortly after the Tre
 > 
 > Raf Simons, somewhere, sometime during his sabbatical year before Riot Riot Riot
 
+Almost all the patches orbit around the theme of teenage rebellion and self-sacrifice for the sake of art.
+
 #### Richey Edwards and Manic Street Preachers
 
 “You’re not a real punk!” someone had the gall to yell at Richey Edwards. 
@@ -83,7 +85,11 @@ Poster for the movie The Man Who Fell to Earth, in which David Bowie played a de
 
 #### Christiane F
 
-![[Pasted image 20250214164541.png]]
+![[Pasted image 20250214182427.png]]
 
-An '81 movie about a 13-year-old girl who is obsessed with David Bowie and ends up becoming addicted to heroin and falling into a self-destructive spiral. Much like Bowie himself, the actress was “playing herself” since she and many other actors in the movie were in fact addicted to heroin at the time it was filmed.
+Movie about a 13-year-old girl who is obsessed with David Bowie and ends up becoming addicted to heroin and falling into a self-destructive spiral. Much like Bowie himself, the actress was “playing herself” since she and many other actors in the movie were in fact addicted to heroin at the time it was filmed.
+
+![[Pasted image 20250214182325.png]]
+
+## Keys and Kufiyyas
 
