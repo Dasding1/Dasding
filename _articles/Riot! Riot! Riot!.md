@@ -13,6 +13,8 @@ _—The collection of eastern youropean boys in oversized patched fishtail trenc
 
 _—Exaclty._
 
+<center>★</center>
+
 > At the flea market in Vienna I saw young people from Ukraine or Romania who, because of the cold, simply put layers on top of layers and thus created their own volumes 
 > 
 > Raf for Neue Zürcher Zeitung
