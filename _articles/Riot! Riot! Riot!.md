@@ -19,4 +19,4 @@ Eastern youropean boys in oversized patched fishtail trenchcoats and facemasks g
 
 Unfamiliarity is a threat.
 
-Wearing trenchcoats shortly after Columbine is certainly a threat.
+but still a threat to wear those familiar trenchcoats shortly after Columbine.
