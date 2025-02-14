@@ -37,8 +37,6 @@ but still a threat to wear those now familiar trench coats shortly after the Tre
 > 
 > Raf Simons, somewhere, sometime during his sabbatical year before Riot Riot Riot
 
-Almost all the patches orbit around the theme of teenage rebellion and self-sacrifice for the sake of art.
-
 #### Richey Edwards and Manic Street Preachers
 
 “You’re not a real punk!” someone had the gall to yell at Richey Edwards. 
@@ -91,5 +89,8 @@ Movie about a 13-year-old girl who is obsessed with David Bowie and ends up beco
 
 ![[Pasted image 20250214182325.png]]
 
-## Keys and Kufiyyas
+Almost all the patches orbit around the theme of teenage rebellion and self-sacrifice for the sake of art.
 
+yet, Raf was unconsciously assimilated by technocapital and now (thanks to archivists) each of his pieces is worth thousands of dollars. 
+
+![[Raf Simons AW 2001 02 riot riot riot.png]]
