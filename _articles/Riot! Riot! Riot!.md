@@ -41,7 +41,7 @@ but still a threat to wear those now familiar trench coats shortly after the Tre
 
 “You’re not a real punk!” someone had the gall to yell at Richey Edwards. 
 
-“What the fuck? I am punk, I’m punk..for real.. see?” _twisted expression_ 
+“What the fuck? I am punk, I’m punk..for real.. see?” (_twisted expression_)
 
 ![[For Real Edwards.jpg]]
 
