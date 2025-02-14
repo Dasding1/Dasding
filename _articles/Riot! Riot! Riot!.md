@@ -37,13 +37,13 @@ but still a threat to wear those now familiar trench coats shortly after the Tre
 > 
 > Raf Simons, somewhere, sometime during his sabbatical year before Riot Riot Riot
 
-#### Richey Edwards and Manic Street Preachers
+### Richey Edwards and Manic Street Preachers
 
 “You’re not a real punk!” someone had the gall to yell at Richey Edwards. 
 
 “What the fuck? I am punk, I’m punk..for real.. see?” _twisted expression_ 
 
-![[For Real Edwards.webp]] 
+![[For Real Edwards.jpg]]
 
 A truly distinguished specimen.
 
@@ -51,7 +51,7 @@ All other Street Preachers patches are newspaper clippings of Richey's disappear
 
 ![[raf simons riot riot riot.png]]
 
-#### Monte Cazazza
+### Monte Cazazza
 
 ![[Monte Cazazza.jpg]]
 
@@ -59,13 +59,13 @@ Amalia Ulman, but gory. He became known for killing cats, pointing guns/throwing
 
 ![[Pasted image 20250214163820.png]]
 
-#### Joy Division
+### Joy Division
 
 ![[Pasted image 20250214140753.png]]
 
 Ian Curtis was known for performing in the midst of epileptic seizures.
 
-#### Mission of Bruma
+### Mission of Bruma
 
 ![[Pasted image 20250214161354.png]]
 
@@ -73,7 +73,7 @@ Despite suffering from tinnitus, Roger Miller continued to play in the band unti
 
 ![[Pasted image 20250214161405.png]]
 
-#### David Bowie
+### David Bowie
 
 ![[Pasted image 20250214163330.png]]
 
@@ -81,7 +81,7 @@ Poster for the movie The Man Who Fell to Earth, in which David Bowie played a de
 
 ![[Pasted image 20250214164133.png]]
 
-#### Christiane F
+### Christiane F
 
 ![[Pasted image 20250214182427.png]]
 
