@@ -35,7 +35,7 @@ but still a threat to wear those now familiar trench coats shortly after the Tre
 
 > What if I stop making nerdy student anglo angst underground punk reference clothing and start making mysterious heavy industrial agressive underground punk references clothing instead?
 > 
-> Raf Simons, somewhere, sometime during his sabbatical year before Riot Riot Riot
+> —Raf Simons, somewhere, sometime during his sabbatical year before Riot Riot Riot
 
 ### Richey Edwards and Manic Street Preachers
 
