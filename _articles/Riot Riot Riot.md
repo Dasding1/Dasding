@@ -3,11 +3,9 @@ published: true
 topic: 
 subtitle: 
 date: 2025-02-14
-tags: 
+tags: #fashion #raf
 ---
-# Raf Simons
-
-## Riot Riot Riot! 
+# Riot Riot Riot
 
 ![[Raf Simons AW 2001-02 Riot Riot Riot.png]]
 
