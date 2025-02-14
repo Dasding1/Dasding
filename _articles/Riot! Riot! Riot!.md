@@ -21,6 +21,8 @@ _—Exaclty._
 
 ![[Pasted image 20250214125518.png]]
 
+<center>★</center>
+
 Unfamiliarity is a threat.
 
 but still a threat to wear those now familiar trench coats shortly after the Trench Coat Mafia incident.
