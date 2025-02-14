@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2024-04-13.md",
+                "file": "_articles/We Only Go Out at Night.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2024-04-13"
+              "title": "We Only Go Out at Night"
             }
           }
         ]
@@ -192,8 +192,8 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
-    "_daily/2025-02-14.md",
     "_daily/2024-04-13.md",
+    "_daily/2025-02-14.md",
     "_daily/2022-05-11.md",
     "_daily/2025-02-12.md",
     "_daily/Mortgage.md",
