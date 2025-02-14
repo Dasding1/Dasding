@@ -21,6 +21,6 @@ _—Exaclty._
 
 Unfamiliarity is a threat.
 
-but still a threat to wear those now familiar trenchcoats shortly after Columbine.
+but still a threat to wear those now familiar trench coats shortly after the Trench Coat Mafia incident.
 
 ![[Raf Simons fishtail trenchcoats Riot Riot Riot.jpg]]
