@@ -33,7 +33,8 @@ but still a threat to wear those now familiar trench coats shortly after the Tre
 
 ![[Raf Simons Rio Riot Riot Patches.png]]
 
-### Joy Division Concert
+#### Joy Division Concert
 
-{:.right}![[Pasted image 20250214140753.png]]
+![[Pasted image 20250214140753.png]]
+
 
