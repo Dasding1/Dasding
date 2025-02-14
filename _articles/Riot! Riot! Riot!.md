@@ -16,4 +16,7 @@ Eastern youropean boys in oversized patched fishtail trenchcoats and facemasks g
 > —Neue Zürcher Zeitung
 
 ![[Pasted image 20250214125518.png]]
-https://www.theguardian.com/lifeandstyle/2001/jul/06/fashion2
+
+Unfamiliarity is a threat.
+
+Wearing trenchcoats shortly after Columbine is certainly a threat.
