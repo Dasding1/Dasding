@@ -91,6 +91,4 @@ Movie about a 13-year-old girl who is obsessed with David Bowie and ends up beco
 
 Almost all the patches orbit around the theme of teenage rebellion and self-sacrifice for the sake of art.
 
-yet, Raf was unconsciously assimilated by technocapital and now (thanks to archivists) each of his pieces is worth thousands of dollars. 
-
 ![[Raf Simons AW 2001 02 riot riot riot.png]]
