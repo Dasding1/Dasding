@@ -17,7 +17,7 @@ _—Exaclty._
 
 > At the flea market in Vienna I saw young people from Ukraine or Romania who, because of the cold, simply put layers on top of layers and thus created their own volumes 
 > 
-> Raf for Neue Zürcher Zeitung
+> Raf Simons for Neue Zürcher Zeitung
 
 ![[Pasted image 20250214125518.png]]
 
