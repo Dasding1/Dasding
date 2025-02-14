@@ -9,7 +9,7 @@ tags: #fashion #raf
 
 ![[Raf Simons AW 2001-02 Riot Riot Riot.png]]
 
-_—The collection of eastern youropean boys in oversized patched fishtail trenchcoats and facemasks going to a Manic Street Preachers, Sonic Youth, or Joy Division cover show and having a nighttime stroll through the cold arteries of recently fractured former satellite republics afterwards?_
+_—The collection of eastern youropean boys in oversized patched fishtail trenchcoats and kufiyyas going to a Manic Street Preachers, Sonic Youth, or Joy Division cover show and having a nighttime stroll through the cold arteries of recently fractured former satellite republics afterwards?_
 
 _—Exaclty._
 
