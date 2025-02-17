@@ -56,6 +56,8 @@ Rave Manifesto:
 
 > Guiding initiates along new paths of self-discovery, DJs are often heralded, or self-identify, as shamanic (Hutson 1999), a status earlier conferred upon disco and house legends like Larry Levan and Frankie Knuckles, or are perhaps more accurately master drummers who, as in Santeria, keep the beat for the dancers while always remaining sober, never possessed (Twist 1999:107). P38
 
+> MDMA is also thought comparable to Nepethe—the mythic drink of the ancient Greek Gods which induced a ‘state of transcendent ecstasy which temporarily dispels our psychic darkness, filling us with the light that heals’ (Eisner 1994:137); P40
+
 ##### Festivals
 
 Solipse, Boom Festival (Portugal), Solstice23 (Japan), Exodus Cybertribal Festival, Goa beach parties (India), Moontribe’s Full Moon gatherings (Mojave Desert, USA), electro-salvation, Arcadias, Gaian Mind (Philadelphia), Ministry of Sound (London), Tribal Gathering, Earthdream (Central Australia), technomadic carnival, Detroit techno (Detroit), techno-pagan doofs (held in outdoor locations with ceremonial art installations and revived ancestral rituals), Earthdance (taking place simultaneously in over 100 cities in 70 countries with a synchronized global cyber-cast), Rave Mass (Sheffield), Techno Cosmic Mass (California)
