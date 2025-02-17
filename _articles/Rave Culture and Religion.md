@@ -28,6 +28,9 @@ tags: #drugs #religion
 > 
 > P.18
 
+> Rudolf Otto named the ‘mysterium tremendum’, the religious experience which he indicated ‘may burst in sudden eruption up from the depths of the soul with spasms and convulsions, or lead to the strongest excitements, to intoxicated frenzy, to transport, and to ecstasy’ (1959:27); P21
+
+> Victor Turner called the realm of the ‘subjunctive mood’—a world of ‘wish, desire, possibility, or hypothesis’ (Turner 1982:83); P22
 
 ##### Festivals
 
