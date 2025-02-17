@@ -34,6 +34,8 @@ tags: #drugs #religion
 
 > An ‘oceanic experience’ (Malbon 1999) or a kind of prolonged youth suicide? Does post-rave more closely approximate a church, Disney World, or a ‘detention camp for youth’ (Reynolds 1998:424)? P23
 
+> The insurrectionary ‘noise’ or chaos of TAZs, uprisings, refusals and epiphanies…will release a hundred blooming flowers, a thousand, a million memes of resistance, of difference, of non-ordinary consciousness—the will to power as ‘strangeness’. (Bey 1995); P33
+
 ##### Festivals
 
 Solipse, Boom Festival (Portugal), Solstice23 (Japan), Exodus Cybertribal Festival, Goa beach parties (India), Moontribe’s Full Moon gatherings (Mojave Desert, USA), electro-salvation, Arcadias, Gaian Mind (Philadelphia), Ministry of Sound (London), Tribal Gathering, Earthdream (Central Australia), technomadic carnival, Detroit techno (Detroit), techno-pagan doofs (held in outdoor locations with ceremonial art installations and revived ancestral rituals), Earthdance (taking place simultaneously in over 100 cities in 70 countries with a synchronized global cyber-cast), Rave Mass (Sheffield), Techno Cosmic Mass (California)
