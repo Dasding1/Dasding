@@ -38,6 +38,12 @@ tags: #drugs #religion
 
 > Rave demonstrates signs of that which Bozeman calls a **‘technological millenarianism’** pervading popular culture which, in nations like the United States, the United Kingdom, Japan, Canada and Australia, boils down to a faith in technological innovation to ‘bring forth a better future beginning here and now’ (1997:155).; P33
 
+> The rave ‘techgnosis’ manifests as a kind of ‘occult mechanics’ capable of liberating the self through esoteric gnosis: ‘a mystical breakthrough of total liberation, an influx of knowing oneself to be part of the genuine godhead, of knowing oneself to be free’ (Davis 1998:94); P35
+
+> I suggest that the flame gutters yet glows in techno-rave, which is often felt to communicate, or potentiate, a profound sense of freedom, of recognition, often glossed as ‘the gnosis’; P35
+
+> Ekstasis has often been considered to rupture gender-identity boundaries by liberating, or ‘disarticulating’, dominant feminine/ masculine subjectivities (Gilbert and Pearson 1999:104–5; see also Pini 2001), or more broadly, attending to Deleuze and Guattari’s ‘micropolitics of desire’, through a sensuous intervention in the regulation of desire (Hemment 1996:26–7; Jordan 1995)—processes which can be tracked through house music’s gay underground (see Apollo 2001) to various post-rave trajectories; P35
+
 ##### Festivals
 
 Solipse, Boom Festival (Portugal), Solstice23 (Japan), Exodus Cybertribal Festival, Goa beach parties (India), Moontribe’s Full Moon gatherings (Mojave Desert, USA), electro-salvation, Arcadias, Gaian Mind (Philadelphia), Ministry of Sound (London), Tribal Gathering, Earthdream (Central Australia), technomadic carnival, Detroit techno (Detroit), techno-pagan doofs (held in outdoor locations with ceremonial art installations and revived ancestral rituals), Earthdance (taking place simultaneously in over 100 cities in 70 countries with a synchronized global cyber-cast), Rave Mass (Sheffield), Techno Cosmic Mass (California)
