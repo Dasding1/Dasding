@@ -52,7 +52,9 @@ Rave Manifesto:
 
 **> ‘in the heat, dampness, and darkness’ of the womb-like party, we came to accept that we are all equal. Not only to the darkness, and to ourselves, but to the very music slamming into us and passing through our souls: we are all equal. And somewhere around 35Hz we could feel the hand of God at our backs, pushing us forward, pushing us to push ourselves to strengthen our minds, our bodies, and our spirits. Pushing us to turn to the person beside us to join hands and uplift them by sharing the uncontrollable joy we felt from creating this magical bubble that can, for one evening, protect us from the horrors, atrocities, and pollution of the outside world. It is in that very instant, with these initial realizations that each of us was truly born.'**
 
-It is also apparent that, if rave speaks, if it reveals information, then it often speaks in tongues evincing bricolage à la carte (Possamai 2002:203), an effusion consistent with its syncretic digestion of existing symbol systems, philosophies and theologies; P36
+> It is also apparent that, if rave speaks, if it reveals information, then it often speaks in tongues evincing bricolage à la carte (Possamai 2002:203), an effusion consistent with its syncretic digestion of existing symbol systems, philosophies and theologies; P36
+
+> Guiding initiates along new paths of self-discovery, DJs are often heralded, or self-identify, as shamanic (Hutson 1999), a status earlier conferred upon disco and house legends like Larry Levan and Frankie Knuckles, or are perhaps more accurately master drummers who, as in Santeria, keep the beat for the dancers while always remaining sober, never possessed (Twist 1999:107). P38
 
 ##### Festivals
 
