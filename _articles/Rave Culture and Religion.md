@@ -44,6 +44,16 @@ tags: #drugs #religion
 
 > Ekstasis has often been considered to rupture gender-identity boundaries by liberating, or ‘disarticulating’, dominant feminine/ masculine subjectivities (Gilbert and Pearson 1999:104–5; see also Pini 2001), or more broadly, attending to Deleuze and Guattari’s ‘micropolitics of desire’, through a sensuous intervention in the regulation of desire (Hemment 1996:26–7; Jordan 1995)—processes which can be tracked through house music’s gay underground (see Apollo 2001) to various post-rave trajectories; P35
 
+> Remember 2001 A Space Odyssey? When a tribe of Neanderthals woke up to the giant monolith planted in their midst? Raves remind me a lot of that scene. When I watch a group of sweaty dancers rest their heads on the metallic grill of a giant, black speaker and attach their trembling chests to the gaping mouth of a pulsating woofer, I instantly remember the same ape, 2 million years ago, touching, sniffing and kissing the unfamiliar and fascinating dark object; (Ramy 1999) (P35)
+
+>rave is made synonymous with the black stone, the ‘prima materia’ or Philosopher’s Stone which, in alchemical lore, is capable of transmuting humankind and which, according to interpretation (see Weidner 2000), inspired Stanley Kubrick’s black monolith in 2001; P36
+
+Rave Manifesto:
+
+**> ‘in the heat, dampness, and darkness’ of the womb-like party, we came to accept that we are all equal. Not only to the darkness, and to ourselves, but to the very music slamming into us and passing through our souls: we are all equal. And somewhere around 35Hz we could feel the hand of God at our backs, pushing us forward, pushing us to push ourselves to strengthen our minds, our bodies, and our spirits. Pushing us to turn to the person beside us to join hands and uplift them by sharing the uncontrollable joy we felt from creating this magical bubble that can, for one evening, protect us from the horrors, atrocities, and pollution of the outside world. It is in that very instant, with these initial realizations that each of us was truly born.'**
+
+It is also apparent that, if rave speaks, if it reveals information, then it often speaks in tongues evincing bricolage à la carte (Possamai 2002:203), an effusion consistent with its syncretic digestion of existing symbol systems, philosophies and theologies; P36
+
 ##### Festivals
 
 Solipse, Boom Festival (Portugal), Solstice23 (Japan), Exodus Cybertribal Festival, Goa beach parties (India), Moontribe’s Full Moon gatherings (Mojave Desert, USA), electro-salvation, Arcadias, Gaian Mind (Philadelphia), Ministry of Sound (London), Tribal Gathering, Earthdream (Central Australia), technomadic carnival, Detroit techno (Detroit), techno-pagan doofs (held in outdoor locations with ceremonial art installations and revived ancestral rituals), Earthdance (taking place simultaneously in over 100 cities in 70 countries with a synchronized global cyber-cast), Rave Mass (Sheffield), Techno Cosmic Mass (California)
