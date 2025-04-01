@@ -25,12 +25,14 @@
             "id": "d5b24e1a92b5fc28",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/imgs/pfp.png"
+                "file": "index.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "pfp"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
@@ -203,11 +205,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5b24e1a92b5fc28",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
+    "assets/favicon/apple-touch-icon.png",
+    "assets/favicon/apple-touch-icon.png.png",
+    "assets/favicon/Banner.png",
+    "assets/favicon/favicon-32x32.png.crdownload",
+    "assets/favicon/favicon-16x16.png.crdownload",
+    "assets/favicon/android-chrome-512x512.png.crdownload",
+    "assets/imgs/Banner.jpg",
+    "assets/imgs/animegirl.png",
+    "assets/imgs/pfp.png",
     "assets/favicon/android-chrome-512x512.png",
     "assets/favicon/android-chrome-192x192.png",
-    "assets/favicon/apple-touch-icon.png.png",
     "_daily/2025-04-01.md",
     "_daily/2025-02-26.md",
     "_daily/2025-02-25.md",
@@ -224,11 +234,6 @@
     "_articles/Riot! Riot! Riot!.md",
     "_daily/2025-02-17.md",
     "assets/attachments/For Real Edwards.jpg",
-    "assets/attachments/Raf Simons AW 2001 02 riot riot riot.png",
-    "assets/attachments/vlcsnap-2025-02-14-11h42m35s295.png",
-    "assets/attachments/Pasted image 20250214182427.png",
-    "assets/attachments/Pasted image 20250214182325.png",
-    "assets/attachments/Pasted image 20250214164541.png",
     "_journal/2024-05 Untitled.md",
     "_journal/2024-05 Rap Battles.md",
     "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
@@ -241,7 +246,6 @@
     "_journal/2024-05 Models.md",
     "_journal/2024-04 BEATING THE ALLEGATIONS 1 RACISMNAZISM.md",
     "_daily/2024-04-13.md",
-    "assets/favicon/favicon-16x16.png.crdownload",
     "assets/attachments/5169.mp4",
     "assets/attachments/The Deer's Cry.mp3",
     "assets/favicon/site.webmanifest",
