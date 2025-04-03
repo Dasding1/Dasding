@@ -8,7 +8,6 @@ title: Home
 <div class="notes-entry-container note">
 <div style="text-align: center;">
 <p style="color: #4b2e36;">
-<center<
 HOT skinny abs terrorist bag
 <br>
 SAMIZDAT 
@@ -18,7 +17,6 @@ SACRED WHORES
 VAMPIRE 
 <br>
 SHENZHEN WEB
-</center>
 </p>
 </div>
     <div class="content post-content">
