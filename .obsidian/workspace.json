@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2025-04-03.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-04-03"
+              "title": "index"
             }
           }
         ],
@@ -207,8 +207,8 @@
   },
   "active": "d5b24e1a92b5fc28",
   "lastOpenFiles": [
-    "images/girl.jpg",
     "_daily/2025-04-03.md",
+    "images/girl.jpg",
     "assets/imgs/Banner.png",
     "images/Banner.png",
     "images/Banner.jpg",
@@ -219,7 +219,6 @@
     "assets/favicon/favicon-16x16.png",
     "assets/favicon/apple-touch-icon.png",
     "assets/favicon/android-chrome-512x512.png",
-    "assets/favicon/android-chrome-192x192.png",
     "index.md",
     "assets/favicon/favicon-32x32.png.crdownload",
     "assets/favicon/favicon-16x16.png.crdownload",
