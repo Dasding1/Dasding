@@ -7,7 +7,13 @@ title: Home
 
 <div class="notes-entry-container note">
 <p style="color: #4b2e36;">
-HOT skinny abs terrorist bag SAMIZDAT VAMPIRE SACRED WHORES SHENZHEN WEB
+<center<
+HOT skinny abs terrorist bag 
+SAMIZDAT 
+SACRED WHORES
+VAMPIRE 
+SHENZHEN WEB
+</center>
 </p>
     <div class="content post-content">
 
