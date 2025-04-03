@@ -25,12 +25,14 @@
             "id": "d5b24e1a92b5fc28",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/girl.jpg"
+                "file": "_daily/2025-04-03.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "girl"
+              "icon": "lucide-file",
+              "title": "2025-04-03"
             }
           }
         ],
@@ -203,8 +205,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e509f202f4abd033",
+  "active": "d5b24e1a92b5fc28",
   "lastOpenFiles": [
+    "images/girl.jpg",
+    "_daily/2025-04-03.md",
     "assets/imgs/Banner.png",
     "images/Banner.png",
     "images/Banner.jpg",
@@ -217,7 +221,6 @@
     "assets/favicon/android-chrome-512x512.png",
     "assets/favicon/android-chrome-192x192.png",
     "index.md",
-    "assets/favicon/apple-touch-icon.png.png",
     "assets/favicon/favicon-32x32.png.crdownload",
     "assets/favicon/favicon-16x16.png.crdownload",
     "assets/favicon/android-chrome-512x512.png.crdownload",
@@ -243,7 +246,6 @@
     "_journal/2024-05.md",
     "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
     "_journal/2024-05-07.md",
-    "_journal/2024-05 Models.md",
     "assets/attachments/5169.mp4",
     "assets/attachments/The Deer's Cry.mp3",
     "assets/favicon/site.webmanifest",
