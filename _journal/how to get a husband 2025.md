@@ -13,10 +13,11 @@ You will have heard the story that it was modesty that made woman adopt the fig 
 
 It is apparent that changes in men's attire are brought about by the striving of the great majority to (at least) appear distinguished. Through this imitation they devalue the original distinguished styles and force the true arbiters of elegance - or those considered such by the people - to look for another style. The changes in women's clothing styles, however, are simply dictated by fluctuations in sensuality.
 
-And nowadays the Playboy Bunny aesthetic is over. Oversexualization is over. The serious, corporate woman is also over. But girlshy inocence is back. Barrison Sisters renaissance through kpop. 2025 is the year when you need to look like a sexualized but innocent porcelain doll to get a husband. I didn't make the rules, baby—men are all pedophiles! And if you are over 25, you'd better start praying. Adjust to the Lolita meta or become a nun already!
+And nowadays the Playboy Bunny aesthetic is over. Oversexualization is over. The serious, corporate woman is also over. But girlshy inocence is back. Barrison Sisters renaissance through kpop. 2025 is the year when you need to look like a sexualized but innocent porcelain doll to get a husband. I didn't make the rules, baby—men are by nature all pedophiles! And if you are over 25, you'd better start praying. *Girls are made for a striking effect, a few years with a richness of beauty and fulness of charm at the expense of the rest of their lives; so that they may during these years ensnare the fantasy of a man to such a degree as to make him rush into taking the honourable care of them, in some kind of form, for a lifetime*. Adjust to the Lolita meta or become a nun already!
 
-Don't wear clothes that show off your curves too much—stick to dresses. Smile, be gentle, act a little clueless. Embarrass yourself in front of him. Wear pastel colors, mix them up. Soft and cute, soft and cute, repeat after me: soft and cute, soft and cute oooommmmmmmm…
+**DONT** wear clothes that show off your curves too much—stick to dresses. Smile, be gentle, act a little clueless. Embarrass yourself in front of him. Wear pastel colors, mix them up. Soft and cute, soft and cute, repeat after me: soft and cute, soft and cute oooommmmmmmm…
+
+and always remember: *the unripe fruit has exerted more appeal than the ripened fruit*. Until there’s a ring on your finger, keep him interested in your juicy carrot like a minecraft pig.
 
 ![[Pasted image 20250403150926.png]]
 
-and always remember: *the unripe fruit has exerted more appeal than the ripened fruit*. Until there’s a ring on your finger, keep him interested in your juicy carrot like a minecraft pig.
