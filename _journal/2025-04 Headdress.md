@@ -15,4 +15,4 @@ The question is somewhat more extensive. It actually was: How do you explain the
 
 Actually, the question contains the answer in itself. For it is not a question, but rather a very perceptive observation, that has been obvious for quite some time. The question of headdress is pointless the instant it is not reserved for a special class. Anyone can wear a top hat today, however not a tiara. We must keep in mind that headdress, like the coat of arms, was reserved for the free man and that the slave had to do without it. However, since it was necessary for him to shield himself from sun and rain it was tolerated that he cover himself, but only under the condition that he remove it in reverence should he encounter a free man in the street. Even today this servile practice is still prevalent in our country. Only the English and the North Americans no longer employ this custom.
 
-*Why a Man Should be Well Dressed - Adolf Loos. P.82
+*Why a Man Should be Well Dressed - Adolf Loos. P.82*

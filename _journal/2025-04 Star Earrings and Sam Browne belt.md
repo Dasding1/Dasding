@@ -20,6 +20,6 @@ In regard to the Sam Browne one can already see by the position of the leather b
 
 The Austrian does not use a hook or attempt to feign order with a fake button. He is a straightforward fellow and wears the Sam Browne belt as it falls. Which means askew. And he is quite priggish about it – because it looks good.
 
-*Why a Man Should be Well Dressed - Adolf Loos. P.79
+*Why a Man Should be Well Dressed - Adolf Loos. P.79*
 
 ![[Pasted image 20250404131338.png]]
