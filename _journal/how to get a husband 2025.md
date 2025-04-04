@@ -2,7 +2,7 @@
 published: true
 subtitle: 
 date: 2025-04-03
-tags: 
+tags: #fashion #relationships
 ---
 
 # how to get a husband 2025
