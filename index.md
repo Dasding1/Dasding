@@ -17,6 +17,9 @@ SACRED WHORES
 VAMPIRE 
 <br>
 SHENZHEN WEB
+
+![[Pasted image 20250404194218.png]]
+
 </p>
 </div>
     <div class="content post-content">
