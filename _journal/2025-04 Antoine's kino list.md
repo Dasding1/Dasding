@@ -5,7 +5,7 @@ date: 2025-04-06
 tags: 
 ---
 
-# 2025-04 Antoine's Favorites
+# 2025-04 Antoine's kino list
 
 ## Halo CE
 
@@ -121,4 +121,66 @@ What an aesthetically bold game. Actually about youth and the contemporary bleed
 
 I love this whole series to death, but like Halo this is a game I _grew_ with. Started too young to play this thing, let alone comprehend it. I've been going back for over 20 years and I am still finding more to be impressed about. Nintendo's ability to create novel formal elements to frame such bizarre original premises is so incredible. They never seem to get the credit they deserve as writers or as ambitious artfags. Maybe it's the 'Nintendo' brand obscuring the human elements. I do it myself, of course.
 
+## The Legend of Zelda: Breath of the Wild
+
+It was inevitable that Nintendo would make this game, yet people managed to be surprised. Superficially there's some Ubisoft influence, but mostly the trends behind this are Japanese, and even mostly Nintendo, with Monolith next most important.  
+  
+The fascination with naturalistic systems and logic has existed in these games from the start. The abstract puzzle-boxes of "dungeons" were always a concession to the difficulty of realising compelling natural problems in a video game. No longer. This game does not have four dungeons. The entire game is a dungeon. "Which way is the enemy base?"  
+  
+"DOWN!"
+
 ## Drakengard
+
+The meeting between Caim and Angelus is perhaps my favourite cutscene in the history of video games. This whole game is so _eerie_ and unconventional. But not at all bad, don't let anybody tell you that. I actually quite enjoyed how it played too. The scale and rhythm of the violence was quite striking. And not in an unpleasant way. The music is ominous, but very memorable and beautiful. This game can make quite a lasting impression. Did on me.
+
+## NieR
+
+This game pulled me out of a very low place and reminded me what video games could make me feel, a kind of beautiful, mysterious, draw I hadn't felt in a long time. A friend of mine has noted that the japanese have a propensity for quiet apocalypse stories. NieR is an incredibly serene game, in which the world is dying. The highly saturated daytime visuals, the flat open expanses of grass, the protagonist's effortless sprinting movements and easygoing nature. The severity and stakes of the primary narrative and the mundane downtime. This game aspired to show you _a life_ under such alien and extreme circumstances. I was so engrossed. There are so many beautiful pieces to this we can point out, but perhaps so much more to it that we can't.
+
+## Angola '86
+
+Johan Nagel is an incredible man. He wasn't satisfied with the experiences of war offered by existing games so he became his own desired market niche. Angola '86 I suspect is in many ways one of the most authentic _War_ games ever made. What are the dynamics of a war playing out? Probably if you're any kind of officer, a lot of ambiguity, tracking, organisation, moving parts, and getting things in the right place for something to occasionally get blown to hell by the right organised elements.  
+  
+I find this far more engrossing than clicking on my tac-marines to flank into heavy cover.
+
+## Warhammer 40,000: Dawn of War - Dark Crusade
+
+My favourite conventional "RTS". It feels most deliberately built around realising what they all were to me. It's the living toybox game. The campaign finally shakes off stiffly arranged scenarios in favour of free-form play bolstered by speeches in which every player in the world of Warhammer just gets to go to 100 and hit you with all of their pomp and self-centredness. It's beautiful.  
+  
+I still love skirmishing in Dawn of War just to look at the game work. Games with more polygons have been made since. But they don't feel like playing with living toys, do they?
+
+## Myth: The Fallen Lords
+
+I salute Bungie's ambition. They were always trying more than they got credit for, and getting credit for things they probably weren't trying too hard at.  
+  
+People call this a baseless "RTS" with Black Company elements. I call it an experiment in creating a uniquely physical and reactive scenario-based war-game system. It came out at an unfortunate stage of tech development. It'll never feel great to play, or truly three dimensional, but in some ways it's still at the bleeding edge despite that. The way things fly, bounce, and impact in this game, how many other games give such a rich sense of stuff _being there?_ This game is Halo's father, not Quake.
+
+## Armored Core 4
+
+Absolutely beautiful game. I enjoy it fine as a game of course, but like Evergrace to me it endures as more of a vision, an aesthetic experience. The key visuals of this game are so powerful, and _again_ Kota Hoshino has made a soundtrack so powerful I believe it can be interpreted as the primary element of the work, _and_ this time there's also a clear and lucid narrative to follow. From are nailing every element they attempt at this point, but they still produce such abnormally strong results on what are conventionally secondary elements that their work can still be interpreted in this lopsided way if you please. Is Armored Core 4 an incredible action game, another of Miyazaki's mediations on violence, agency, and fate, visions of light breaking through overcast clouds to distorted chanting rock lyrics that feel like they're trying to pull you into the realm of religious experience? It's all of course. And when you're a team of aces why declare one thing _the point?_
+
+## Armored Core: For Answer
+
+If the base game didn't make it obvious yet, these games are about Eternally Predaceous Loneliness. Maybe to make it more obvious they should have called the engine's byproducts 'Hitler Particles'.  
+  
+We are more clearly in the realm of the religious now. But what is religion? Well, if you're good enough at piloting an Armoured Core you're basically God. Maybe you decide. The World is waiting For Answer.
+
+## Beyond Citadel
+
+"FPS" is so goddamn boring now. Renegade artfag triumphs over all. Effortless victory. It could only go this way. Conventions and formal elements are acknowledged, often even respected, but one man with this much in his head he has to get out can't help but make it all new again.
+
+## FarCry 2
+
+Clint Hocking started and ended the new biggest form in gaming first try. Then he got discarded by the industry and they kept making pointless, heartless clones without him. What a genuine tragedy.  
+  
+Every element of the "open world shooter" or "farcryvaniabornelike" was at its most deliberate and purposeful in Farcry2. An almost completely aesthetically justified game. Most of what people take as technical or design problems with it are actually disagreements with the deliberate artistic premise. We call that getting "filtered".
+
+## Mount & Blade: Warband
+
+Those poor Turks are never surpassing this. Warband is lightning in a bottle. Some kind of perfect video game form and system spawned by some miracle of passion and chance.  
+  
+So vicious, so grounded, so personal, so engrossing. Shirtless guys throwing rocks at each other as they close over an open field. They tapped into something primal here. Like Open-Xcom the mods should be taken as this game's glory rather than a sign of shortcoming. The form is so perfect it can bear worlds more than it contains.
+
+
+
+
