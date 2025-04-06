@@ -31,3 +31,50 @@ This game feels like something that could have been made in a world where no oth
 
 Evergrace is a very weak video game. Far from being a fundamental issue, I simply shift my perception. The video game is not a fundamental element of Evergrace. It's a multimedia work centered around a few pieces of key visual art and Kota Hoshino's beautiful "indigenous" soundtrack.
 
+## Forever Kingdom
+
+This game's title screen may have moved me to tears. The title-theme being a more complex and layered iteration of motifs from the first game feels so perfect. This is what sequels to video games aspired to be around this time. Some big recognisable conceptual leap. Evergrace 2 is still a terrible game. But it's an absolutely stunning aesthetic leap ahead of what is already one of the most beautiful video games ever made. That From produced both of these games in a row feels miraculous.
+
+## Super Mario 64
+
+One of the most brilliant _game_ systems of all time. Three dimensional movement that feels tactile and perfect. A complete form on the first try. They could have made a hundred games on this foundation. But they kept going because they're Nintendo. Another game so perfect its nature feels _inevitable_.
+
+## Death Stranding
+
+Possibly the only justified use of photorealism in rendering human faces in video games. And a remarkable collection of lateral leaps in game construction in an era where games felt disappointingly _solved_ and narrow. In an age where the term "walking sim" had become a term of popular disparagement, Hideo Kojima made THE walking sim. And it's beautiful. A game about watching your feet and moving from A to B. And the photoreal faces, it's a game about connecting to people. And I felt it. I cared about Norman Reedus and the Funky Fetus. Hideo Kojima pulled it off.
+
+## Metal Gear Solid
+
+Amazing, leaping ambition to every part of this thing. The spirit of a Japanese PC game rather than an evolution of the Super Nintendo. Japanese pop sci-fi tropes, but heavy pop sci-fi (so heavy many westerners mindkill upon contact with the premise) realised through open, novel consideration of what the PS1 made possible. Still impressive to this day. Liquid did nothing wrong, and it's still impressive to see what they decided was possible with the forms and tools at their disposal.
+
+## Metal Gear Solid 2
+
+In an age of leaps this was one of THE leaps. Hideo Kojima wanted to give you an insane future-shock experience, again. And what a success. Still feels like a technical wonder because sheer machine-power alone doesn't deliver this kind of wizardry. You have to think it to build it.
+
+## Metal Gear Solid 4: Guns of the Patriots
+
+Future-shock in its time. Future-shock today. A game so conceptually advanced it was showing us a world of what video games could be, as its own complete and playable game. And then the rest of the industry went another way rather than catching up. So this game is still as unique as it was in its prime. Like a vision of a AAA game from another dimension. And the Japanese sci-fi dream of the mid-2000s died not long after this, and wasn't realised visually too many times. Still a stunningly unique premise and world.  
+  
+This game might never get old. At least it hasn't yet.
+
+## Metal Gear Solid: The Phantom Pain
+
+Just about the last word in three dimensional third-person action games.  
+  
+Metal Gear Solid up to 4 was comfortably _formal_. Built on an understanding that limitations create possibilities as they close them off. But with V the fancy gloves came off and the ultra-loose and accommodating standards of western action games were, not embraced, but wrestled down, broken, and rendered formal. Beautiful. With their first try these guys _ended_ western style third person action games.
+
+## Sekiro: Shadows Die Twice
+
+Another beautiful From game. Slick and refined as a _game_, you can play this thing if you just like beating your head against contrived virtual challenges for the hell of it. And for the more discerning among us this is another fascinating iteration on what became the central From themes and premises. Especially after Miyazaki's entry onto the scene as a creative leader. More human and contained than Armored Core and Souls. From can write lucid and down to earth, when they care to.
+
+## Resonance of Fate
+
+John Galliano tells sexy jacket man and his sexy teenage wards to take their sexy European handguns and submachine guns to go kill goblins in the poor people section of their immortal steampunk Second Life liminal post-apocalypse clocktower fortress city.  
+  
+Awesome. And you can spend all of the money John Galliano gives you on gucci loafers instead of JRPG items you need to not die. This might be the best JRPG ever. Not that I've played a lot.
+
+## Star Wars: Jedi Knight - Jedi Academy
+
+I think this is the peak of _old fps formality_. And the game isn't even primarily an fps. But it's about hard blocky three dimensional worlds which feel more like representative and symbolic constructions made using formal _video game_ elements rather than simply _the thing inside a video game_.  
+  
+The game is physical, violent, free, monumental in scale, eerily distant and empty at times. "Monumental" is the word, rather than liminal. Like being in an empty cathedral rather than a ballpit.
