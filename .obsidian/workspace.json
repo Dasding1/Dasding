@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_daily/2025-04-06.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2025-04-06"
             }
           }
         ],
@@ -207,6 +207,8 @@
   },
   "active": "d5b24e1a92b5fc28",
   "lastOpenFiles": [
+    "index.md",
+    "_daily/2025-04-06.md",
     "assets/attachments/Pasted image 20250404194218.png",
     "_journal/how to get a husband 2025.md",
     "_journal/2025-04 Clothing and Occupation.md",
@@ -224,7 +226,6 @@
     "_daily/2024-05.md",
     "_daily/2025-04-03.md",
     "assets/attachments/Pasted image 20250403150926.png",
-    "index.md",
     "assets/attachments/20D50807-C0DC-4595-BD07-BF2944080A06.png",
     "_daily/2022-05-11.md",
     "_daily/2024-04-13.md",
@@ -242,7 +243,6 @@
     "images/Banner.png",
     "images/Banner.jpg",
     "assets/imgs/Banner.jpg",
-    "assets/imgs/animegirl.png",
     "assets/favicon/favicon-32x32.png.crdownload",
     "assets/favicon/favicon-16x16.png.crdownload",
     "assets/favicon/android-chrome-512x512.png.crdownload",
