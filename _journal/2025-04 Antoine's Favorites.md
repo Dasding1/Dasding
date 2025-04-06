@@ -78,3 +78,10 @@ Awesome. And you can spend all of the money John Galliano gives you on gucci loa
 I think this is the peak of _old fps formality_. And the game isn't even primarily an fps. But it's about hard blocky three dimensional worlds which feel more like representative and symbolic constructions made using formal _video game_ elements rather than simply _the thing inside a video game_.  
   
 The game is physical, violent, free, monumental in scale, eerily distant and empty at times. "Monumental" is the word, rather than liminal. Like being in an empty cathedral rather than a ballpit.
+
+## Rome: Total War
+
+Total War was a game that felt BIG. Big multiplied by tactility to feel unreal. A world full of 3D figures who would move like they were physically marching together, hitting each other, falling over dead. The older games might have had tighter AI and presented a more rounded challenge, the newer games might be faster and contain more novel systems, but this is the one that felt like a crazy new kind of hard bloody war could take place on your computer. Some unquantifiable balance of physics, AI, graphics, it never came together this well again if you ask me. I can hardly play the new ones for an hour.
+
+## Vampire Panic
+
