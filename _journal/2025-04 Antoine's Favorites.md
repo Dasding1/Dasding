@@ -15,6 +15,10 @@ Most of the things this game does well are so subtle and so unique that much of 
 
 The games Nintendo made for the Gamecube themselves were all seriously ambitious conceptual leaps, overlooked for their cute simplicity which disguised their elegance. They work so well we take the utterly original premises and systems for granted. The premise of a game like Pikmin works so well that it feels _inevitable_.
 
+## Pikmin 2
+
+Everything Pikmin did right done again. But weirder, bigger, more reflective. By turns mundane and mythical. We're on the job and the job is dueling the Minotaur. Keep up Louie, you lazy shit.
+
 ## Deadrising 
 
 Stunning game. Heavy, tactile, responsive, formal and new. Video game tradition and contemporary popular culture played so straight but made into something so strikingly original. Like Halo it's a game that should become more impressive the more you think about it. Even all these years later few have taken it seriously enough to see what's really going on.
@@ -85,3 +89,36 @@ Total War was a game that felt BIG. Big multiplied by tactility to feel unreal. 
 
 ## Vampire Panic
 
+What a beautiful surprise this one. It's a short and simple game, but doesn't feel lacking on any level. Everything small or limited about it is justifiable as an element of form. It's so elegant. Every part of it feels _finished_. This was how it was meant to be. And to think, never released in the west, in Japan is remembered as the game that had the PS2 Berserk game demo.  
+  
+The game's incorporation of AI actors as a central game element is still highly impressive and ambitious. NPCs are hard to do, so even all this time later so few have tried, even to this limited extent. Still a deeply novel and even bleeding edge game system. Such a fine achievement that even today it still feels elegant and even _ambitious_.
+
+## Shadow of Rome
+
+Dead Rising's older brother. Another deeply formal work trying to do something very new with mostly recognisable parts. Very pretty game. Very elegant and complete systems. Beautifully tactile and violent combat system. With a surprising amount going on beyond tearing people to pieces with swords. A game that aspired to be an experience of Rome, rather than a fighting game wearing a Coliseum skin.
+
+## Silent Hill
+
+Beautiful game. Critical mass of artfags somehow concentrated on one Konami project out of nowhere. No one slave-driving unifying auteur here. Artfag collective action somehow taking on a final character that feels perfectly cohesive. Dare I say, _Inevitable_.
+
+## Silent Hill 3
+
+What a beautiful sequel. Silent Hill 1 is such a fine and complete work to me. Opening up such a nicely closed premise is risky. After 2 I was ready to be disappointed. I don't know if low expectations for a video game have ever been blown higher away. This game is beautiful, contains original aesthetic elements I consider as good as those of SH1, and conceptually is a perfectly coherent and natural expansion of the first game's premise and themes into a new settled ending which again feels complete, incorporating all elements of each game into a new whole. Silent Hill 1+3 make one greater experience. They pulled it off.
+
+## Hotline Miami: Wrong Number
+
+I'm so glad this got made. 1 was so easy to take for what it isn't. 'Wrong Number' is so utterly _what it is_ there are no mistakes possible. This game is not for the weak, looking for affirmations of gay pop-psych about PTSD and male fantasy. This is a weirdo artfag end of the world fantasy. No way home. None of this matters.
+
+## God Hand
+
+Shinji Mikami was obviously dissatisfied with the state of 3D action games. I don't know if he worked this out on paper, refined it to rules, or what. But this feels like a perfect 3D physical contact fighting game system. A game which like Mario 64 can be mastered to completion. To the point where it's all on you. The game has no flaws which will rob you of agency or deny you an opportunity to express yourself through skilled manipulations. Again, they could have made 100 of these. And aesthetically, again, the intention is successfully realised. A revival of the fun formal elements of arcade with the possibilities of 3D. Incredible.
+
+## Jet Set Radio Future
+
+What an aesthetically bold game. Actually about youth and the contemporary bleeding edge. Or at least as close as a video game can hope to get. The game is great. But less of a game than Jet Grind Radio. We aren't doing Tony Hawk arcade challenges anymore. The _game_ is a frame and platform for the aesthetic experience. Which is being a cool young person immersed in this crazy bleeding edge street culture. Is being in a rush more authentic than your own pace? Who can say. I appreciate the freedom, personally.
+
+## The Legend of Zelda: Majora's Mask
+
+I love this whole series to death, but like Halo this is a game I _grew_ with. Started too young to play this thing, let alone comprehend it. I've been going back for over 20 years and I am still finding more to be impressed about. Nintendo's ability to create novel formal elements to frame such bizarre original premises is so incredible. They never seem to get the credit they deserve as writers or as ambitious artfags. Maybe it's the 'Nintendo' brand obscuring the human elements. I do it myself, of course.
+
+## Drakengard
