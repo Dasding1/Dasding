@@ -5,7 +5,7 @@ date: 2025-04-06
 tags: 
 ---
 
-# 2025-04 Videogame kino list
+# 2025-04 Videogame kino list - Antoine - Icycalm - Others
 
 ## Halo CE
 
@@ -180,6 +180,8 @@ Every element of the "open world shooter" or "farcryvaniabornelike" was at its m
 Those poor Turks are never surpassing this. Warband is lightning in a bottle. Some kind of perfect video game form and system spawned by some miracle of passion and chance.  
   
 So vicious, so grounded, so personal, so engrossing. Shirtless guys throwing rocks at each other as they close over an open field. They tapped into something primal here. Like Open-Xcom the mods should be taken as this game's glory rather than a sign of shortcoming. The form is so perfect it can bear worlds more than it contains.
+
+## Resident Evil – Code: Veronica
 
 
 
