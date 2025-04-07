@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2025-04-07.md",
+                "file": "_journal/Regression of the Games Industry.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-04-07"
+              "title": "Regression of the Games Industry"
             }
           }
         ],
@@ -205,9 +205,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5b24e1a92b5fc28",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
     "_articles/2025-04 Videogame kino list - Antoine - Icycalm - Others.md",
+    "_journal/Regression of the Games Industry.md",
     "_daily/2025-04-07.md",
     "assets/attachments/Pasted image 20250406184617.png",
     "assets/attachments/Pasted image 20250406184524.png",
@@ -242,7 +243,6 @@
     "_daily/2024-04-28 The Deer's Cry.md",
     "_daily/2024-04-29.md",
     "_daily/2024-05-05.md",
-    "_daily/2024-05-10.md",
     "assets/favicon/favicon-32x32.png.crdownload",
     "assets/favicon/favicon-16x16.png.crdownload",
     "assets/favicon/android-chrome-512x512.png.crdownload",
