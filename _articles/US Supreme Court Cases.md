@@ -44,3 +44,8 @@ Decision later rejected by McLaughlin v. Florida (1964) and Loving v. Virginia (
 ## Bates v. State Bar of Arizona (1977)
 
 Two lawyers were disciplined for placing a newspaper ad offering routine legal services at fixed prices, which violated Arizona's ban on lawyer advertising. The Supreme Court ruled that this ban violated the First Amendment's protection of commercial speech. The Court reasoned that truthful advertising about legal services helps consumers make informed choices and is especially important for people who cannot afford expensive legal help. It concluded that states cannot completely ban lawyer advertising, though misleading or false ads can still be regulated.
+
+## Plessy v. Ferguson (1896)
+
+Homer Plessy, who was seven-eighths white and one-eighth Black, was arrested for sitting in a “whites-only” train car in Louisiana, violating the state’s segregation law. He argued that the law violated the Equal Protection Clause of the 14th Amendment. The Supreme Court rejected his claim, ruling that racial segregation was constitutional as long as the separate facilities were “equal.” This established the “separate but equal” doctrine, which legitimized racial segregation for over half a century. The decision was eventually overruled by **Brown v. Board of Education (1954)**, which held that segregated schools were inherently unequal and unconstitutional.
+
