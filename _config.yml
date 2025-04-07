@@ -3,7 +3,7 @@
 ##############################
 
 title: WuWae
-description: To be cringe, and post it anyway
+description: 
 url: https://wuwae.netlify.app/
 repository: Dasding1/Dasding
 
@@ -71,7 +71,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/imgs/card.png
+      image: /assets/imgs/Card.png
   - scope:
       path: ""
       type: "articles"

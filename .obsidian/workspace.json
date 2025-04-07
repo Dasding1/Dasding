@@ -25,12 +25,14 @@
             "id": "d5b24e1a92b5fc28",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/imgs/Card.png"
+                "file": "_articles/Untitled.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "Card"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -203,10 +205,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e509f202f4abd033",
+  "active": "d5b24e1a92b5fc28",
   "lastOpenFiles": [
     "assets/imgs/Card.png",
-    "assets/imgs/Card.png",
+    "_articles/Untitled.md",
     "assets/imgs/icons/pp,840x830-pad,1000x1000,f8f8f8.png",
     "assets/imgs/icons/journal.png",
     "assets/imgs/icons/icon3.gif",
@@ -215,7 +217,6 @@
     "assets/imgs/icons/EXbPsHAWkAAR69e copy 3.png",
     "assets/imgs/icons/EXbPsHAWkAAR69e copy.png",
     "assets/imgs/icons/daily.png",
-    "assets/imgs/icons/daily.gif",
     "_journal/Regression of the Games Industry.md",
     "_articles/2025-04 Videogame kino list - Antoine - Icycalm - Others.md",
     "_daily/2025-04-07.md",
@@ -240,7 +241,6 @@
     "_daily/2024-04-16.md",
     "_daily/2024-04-25.md",
     "_daily/2024-04-28 The Deer's Cry.md",
-    "_daily/2024-04-29.md",
     "assets/favicon/favicon-32x32.png.crdownload",
     "assets/favicon/favicon-16x16.png.crdownload",
     "assets/favicon/android-chrome-512x512.png.crdownload",
