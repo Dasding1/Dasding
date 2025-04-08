@@ -136,7 +136,7 @@ tags:
 [Man-computer symbiosis](https://wuwae.netlify.app/library/man-computer%20symbiosis.pdf)  
 [Minecraft as Web 2.0](https://wuwae.netlify.app/library/minecraft%20as%20web%202.pdf)  
 [The most famous image in the early history of computing](https://wuwae.netlify.app/library/the%20most%20famous%20image%20in%20the%20early%20history%20of%20computing.pdf)  
-Neo-writing and AI treasure hunting  
+[Neo-writing and AI treasure hunting](https://wuwae.netlify.app/library/reMERZ%20neo-writing%20&%20ai%20treasure%20hunting%20(1).pdf)
 [Programming a computer for playing chess](https://wuwae.netlify.app/library/programming%20a%20computer%20for%20playing%20chess.pdf)  
 [The question concerning technology](https://wuwae.netlify.app/library/the%20question%20concerning%20technology.pdf)
 

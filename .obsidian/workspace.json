@@ -25,12 +25,14 @@
             "id": "d5b24e1a92b5fc28",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "library/reMERZ neo-writing & ai treasure hunting (1).pdf"
+                "file": "_articles/Short Essays, Articles, & Blogposts About Play.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-file-text",
-              "title": "reMERZ neo-writing & ai treasure hunting (1)"
+              "icon": "lucide-file",
+              "title": "Short Essays, Articles, & Blogposts About Play"
             }
           }
         ],
@@ -203,11 +205,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e509f202f4abd033",
+  "active": "d5b24e1a92b5fc28",
   "lastOpenFiles": [
+    "_articles/Videogame kino list - Antoine - Icycalm - Others.md",
     "_articles/Short Essays, Articles, & Blogposts About Play.md",
-    "library/#reMERZ neo-writing & ai treasure hunting.pdf",
     "library/reMERZ neo-writing & ai treasure hunting (1).pdf",
+    "library/#reMERZ neo-writing & ai treasure hunting.pdf",
     "_daily/2022-05-11.md",
     "library/building an antilibrary - the power of unread books.pdf",
     "library/children's lore in 'finnegans wake'.pdf",
@@ -232,7 +235,6 @@
     "assets/imgs/icons/EXbPsHAWkAAR69e copy.png",
     "assets/imgs/icons/daily.png",
     "_journal/Regression of the Games Industry.md",
-    "_articles/2025-04 Videogame kino list - Antoine - Icycalm - Others.md",
     "_daily/2025-04-07.md",
     "index.md",
     "_daily/2025-04-06.md",
