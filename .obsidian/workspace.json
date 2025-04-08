@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2024-05-24.md",
+                "file": "_articles/Untitled.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2024-05-24"
+              "title": "Untitled"
             }
           }
         ],
@@ -207,19 +207,20 @@
   },
   "active": "e509f202f4abd033",
   "lastOpenFiles": [
-    "library/Brian Upton - The Aesthetic of Play.pdf",
-    "library/Braxton Soderman - Against Flow - Video Games and the Flowing Subject.pdf",
-    "library/Ian Bogost - Unit Operations - An Approach to Videogame Criticism.pdf",
-    "library/the anarchy of paidia.pdf",
-    "library/the benefits of playing video games.pdf",
-    "library/The Complexity of Ludus.pdf",
-    "library/Donkeyspace.pdf",
-    "library/the end of childhood play.pdf",
-    "library/the forms & fluidity of game play.pdf",
-    "library/how not to play.pdf",
-    "library/is the homo ludens cheerful and serious at the same time.pdf",
-    "_articles/Short Essays, Articles, & Blogposts about Play.md",
+    "library/an analysis of the role-impact of the magic circle in video games.pdf",
+    "library/assessing interactivity in video game design.pdf",
+    "library/bullet hell - the globalized growth of danmaku.pdf",
+    "library/the fictional incompleteness of digital gameworlds.pdf",
+    "library/From masher to master.pdf",
+    "library/i have no words & i must design - toward a critical vocabulary for games.pdf",
+    "library/oldest culture, newest medium - what emerges from the clash.pdf",
+    "library/philosophical games.pdf",
+    "library/play on display - the exhibition of videogames.pdf",
+    "library/the role of gaming platforms in young males trajectories of technical expertise.pdf",
+    "library/The Tao of Hadouken - What Bruce Lee Can Teach Us About Improving At Fighting Games.pdf",
     "_daily/2024-05-24.md",
+    "_articles/Untitled.md",
+    "_articles/Short Essays, Articles, & Blogposts about Play.md",
     "_daily/2025-04-08.md",
     "_daily/Untitled.md",
     "_articles/US Supreme Court Cases.md",
@@ -250,7 +251,6 @@
     "_journal/Jade post.md",
     "_daily/2024-05.md",
     "_daily/2025-04-03.md",
-    "_daily/2022-05-11.md",
-    "_daily/2024-04-13.md"
+    "_daily/2022-05-11.md"
   ]
 }
