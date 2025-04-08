@@ -9,180 +9,178 @@ tags:
 
 ## Play
 
-📑 [The anarchy of paidia](https://wuwae.netlify.app/library/the%20anarchy%20of%20paidia.pdf)  
-📑 [The benefits of playing video games](https://wuwae.netlify.app/library/the%20benefits%20of%20playing%20video%20games.pdf)  
-📑 [The complexity of ludus](https://wuwae.netlify.app/library/The%20Complexity%20of%20Ludus.pdf)  
-📑 [Donkeyspace](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
-📑 [The end of childhood play](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
-📑 [The forms & fluidity of game play](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
-📑 [How not to play](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
-📑 [Is the homo ludens cheerful & serious at the same time](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
-📑 [Liberating play - an interview with anna anthropy & miguel sicart](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
-📑 [Manifesto for a ludic century](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
-📑 [Play as a foundation for hunter-gatherer social existence](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
-📑 [Playing together & ritualisation in online games](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
-📑 [A single game as a lifelong hobby](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
-📑 [There is no magic circle](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
-📑 [Tourism as play](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
-📑 [What’s the point if we can’t have fun?](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)
+[[The anarchy of paidia]](https://wuwae.netlify.app/library/the%20anarchy%20of%20paidia.pdf)  
+[[The benefits of playing video games]](https://wuwae.netlify.app/library/the%20benefits%20of%20playing%20video%20games.pdf)  
+[[The complexity of ludus]](https://wuwae.netlify.app/library/The%20Complexity%20of%20Ludus.pdf)  
+[[Donkeyspace]](https://wuwae.netlify.app/library/Donkeyspace.pdf)  
+[[The end of childhood play]](https://wuwae.netlify.app/library/the%20end%20of%20childhood%20play.pdf)  
+[[The forms & fluidity of game play]](https://wuwae.netlify.app/library/the%20forms%20&%20fluidity%20of%20game%20play.pdf)  
+[[How not to play]](https://wuwae.netlify.app/library/how%20not%20to%20play.pdf)  
+[[Liberating play - an interview with anna anthropy & miguel sicart]](https://wuwae.netlify.app/library/liberating%20play%20-%20an%20interview%20with%20anna%20anthropy%20and%20miguel%20sicart.pdf)  
+[[Manifesto for a ludic century]](https://wuwae.netlify.app/library/manifesto%20for%20a%20ludic%20century.pdf)  
+[[Play as a foundation for hunter-gatherer social existence]](https://wuwae.netlify.app/library/play%20as%20a%20foundation%20for%20hunter-gatherer%20social%20existence.pdf)  
+[[Playing together & ritualisation in online games]](https://wuwae.netlify.app/library/playing%20together%20and%20ritualisation%20in%20online%20games.pdf)  
+[[A single game as a lifelong hobby]](https://wuwae.netlify.app/library/A%20single%20game%20as%20a%20lifelong%20hobby.pdf)  
+[[There is no magic circle]](https://wuwae.netlify.app/library/there%20is%20no%20magic%20circle.pdf)  
+[[Tourism as play]](https://wuwae.netlify.app/library/tourism%20as%20play.pdf)  
+[[What’s the point if we can’t have fun?]](https://wuwae.netlify.app/library/what's%20the%20point%20if%20we%20can't%20have%20fun.pdf)
 
 ## Videogames
 
-📑 [The aesthetics of the aesthetics of the aesthetics of video games](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
-📑 [An analysis of the role/impact of the magic circle in video games](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
-📑 [Assessing interactivity in video game design](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
-📑 [Bullet hell - the globalized growth of danmaku](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
-📑 [The fictional incompleteness of digital gameworlds](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
-📑 [From masher to master - the educated video game enthusiast’s fight](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
-📑 [I have no words & I must design - toward a critical vocabulary for games](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
-📑 [Oldest culture, newest medium - what emerges from the clash?](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
-📑 [Philosophical games](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
-📑 [Play on display - the exhibition of videogames](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
-📑 [The role of gaming platforms in young males’ trajectories of technology](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
-📑 [The tao of hadouken - what Bruce Lee can teach us about improving games](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
-📑 [“Twere well it were done quickly” - what belongs in a glitchless game](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
-📑 [Video games as myth reconstructions](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
-📑 [Video games as objects and vehicles of nostalgia](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
-📑 [Videogame art & the legitimation of videogames by the art world](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
-📑 [Video games can develop graduate skills in higher education students](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
-📑 [Video games exceptionalism vs. media specificity](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)
-
+[[The aesthetics of the aesthetics of the aesthetics of video games]](https://wuwae.netlify.app/library/the%20aesthetics%20of%20the%20aesthetics%20of%20the%20aesthetics%20of%20video%20games%20\(1\).pdf)  
+[[An analysis of the role/impact of the magic circle in video games]](https://wuwae.netlify.app/library/an%20analysis%20of%20the%20role-impact%20of%20the%20magic%20circle%20in%20video%20games.pdf)  
+[[Assessing interactivity in video game design]](https://wuwae.netlify.app/library/assessing%20interactivity%20in%20video%20game%20design.pdf)  
+[[Bullet hell - the globalized growth of danmaku]](https://wuwae.netlify.app/library/bullet%20hell%20-%20the%20globalized%20growth%20of%20danmaku.pdf)  
+[[The fictional incompleteness of digital gameworlds]](https://wuwae.netlify.app/library/the%20fictional%20incompleteness%20of%20digital%20gameworlds.pdf)  
+[[From masher to master - the educated video game enthusiast’s fight]](https://wuwae.netlify.app/library/From%20masher%20to%20master.pdf)  
+[[I have no words & I must design - toward a critical vocabulary for games]](https://wuwae.netlify.app/library/i%20have%20no%20words%20&%20i%20must%20design%20-%20toward%20a%20critical%20vocabulary%20for%20games.pdf)  
+[[Oldest culture, newest medium - what emerges from the clash?]](https://wuwae.netlify.app/library/oldest%20culture,%20newest%20medium%20-%20what%20emerges%20from%20the%20clash.pdf)  
+[[Philosophical games]](https://wuwae.netlify.app/library/philosophical%20games.pdf)  
+[[Play on display - the exhibition of videogames]](https://wuwae.netlify.app/library/play%20on%20display%20-%20the%20exhibition%20of%20videogames.pdf)  
+[[The role of gaming platforms in young males’ trajectories of technology]](https://wuwae.netlify.app/library/the%20role%20of%20gaming%20platforms%20in%20young%20males%20trajectories%20of%20technical%20expertise.pdf)  
+[[The tao of hadouken - what Bruce Lee can teach us about improving games]](https://wuwae.netlify.app/library/The%20Tao%20of%20Hadouken%20-%20What%20Bruce%20Lee%20Can%20Teach%20Us%20About%20Improving%20At%20Fighting%20Games.pdf)  
+[[“Twere well it were done quickly” - what belongs in a glitchless game]](https://wuwae.netlify.app/library/%E2%80%9Ctwere%20well%20it%20were%20done%20quickly%E2%80%9D%20-%20what%20belongs%20in%20a%20glitchless%20speedrun.pdf)  
+[[Video games as myth reconstructions]](https://wuwae.netlify.app/library/video%20games%20as%20myth%20reconstructions.pdf)  
+[[Video games as objects and vehicles of nostalgia]](https://wuwae.netlify.app/library/video%20games%20as%20objects%20and%20vehicles%20of%20nostalgia.pdf)  
+[[Videogame art & the legitimation of videogames by the art world]](https://wuwae.netlify.app/library/videogame%20art%20and%20the%20legitimation%20of%20videogames%20by%20the%20art%20world.pdf)  
+[[Video games can develop graduate skills in higher education students]](https://wuwae.netlify.app/library/Video%20games%20can%20develop%20graduate%20skills%20in%20higher%20education.pdf)  
+[[Video games exceptionalism vs. media specificity]](https://wuwae.netlify.app/library/Video%20games%20exceptionalism%20vs.%20media%20specificity.pdf)
 
 ## Theory
 
-📑 Actual play & the laws of media  
-📑 Dionysiac machines - videogames and the triumph of the simulacra  
-📑 Emissaries guide to worlding - a brief history of infinite games  
-📑 Games & family resemblances  
-📑 Gaming & entailment  
-📑 The gamework  
-📑 Intro to ludic ecologonomy  
-📑 Life in the anti-environment  
-📑 Manifest detection of death-lot in banking games  
-📑 Modes of play - a frame analytic account of video game play  
-📑 On toy aesthetics - Wittgenstein’s pinball machine (part 1)  
-📑 Philosophy & the play of life  
-📑 The play of the platonic dialogues (review)  
-📑 Playable media & textual instruments  
-📑 The psychological weight of history  
-📑 The role of play in the philosophy of Plato  
-📑 Rubble jumping - from Paul Virilio’s techno-dromology to video games  
-📑 Rules  
-📑 The semiotics of the game controller  
-📑 Starcraft as statecraft  
-📑 Structure, sign, & play in the discourse of the human sciences  
-📑 Unwritten rules  
-📑 The use of free time
+[[Actual play & the laws of media]](https://wuwae.netlify.app/library/actual%20play%20and%20the%20laws%20of%20media.pdf)  
+[[Dionysiac machines - videogames and the triumph of the simulacra]](https://wuwae.netlify.app/library/dionysiac%20machines%20-%20videogames%20and%20the%20triumph%20of%20the%20simulacra.pdf)  
+[[Emissaries guide to worlding - a brief history of infinite games]](https://wuwae.netlify.app/library/emissaries%20guide%20to%20worlding%20-%20a%20brief%20history%20of%20infinite%20games%20\(and%20worlds\).pdf)  
+[[Games & family resemblances]](https://wuwae.netlify.app/library/games%20and%20family%20resemblances.pdf)  
+[[Gaming & entailment]](https://wuwae.netlify.app/library/Gaming%20&%20entailment.pdf)  
+[[The gamework]](https://wuwae.netlify.app/library/the%20gamework.pdf)  
+[[Intro to ludic ecologonomy]](https://wuwae.netlify.app/library/intro%20to%20ludic%20ecologonomy.pdf)  
+[[Life in the anti-environment]](https://wuwae.netlify.app/library/life%20in%20the%20anti-environment.pdf)  
+[[Manifest detection of death-lot in banking games]](https://wuwae.netlify.app/library/manifest%20detection%20of%20death-lot%20in%20banking%20games.pdf)  
+[[Modes of play - a frame analytic account of video game play]](https://wuwae.netlify.app/library/modes%20of%20play%20-%20a%20frame%20analytic%20account%20of%20video%20game%20play%20\(dissertation\).pdf)  
+[[On toy aesthetics - Wittgenstein’s pinball machine (part 1)]](https://wuwae.netlify.app/library/on%20toy%20aesthetics%20-%20wittgenstein%E2%80%99s%20pinball%20machine%20\(part%201\).pdf)  
+[[Philosophy & the play of life]](https://wuwae.netlify.app/library/philosophy%20and%20the%20play%20of%20life.pdf)  
+[[The play of the platonic dialogues (review)]](https://wuwae.netlify.app/library/the%20play%20of%20the%20platonic%20dialogues%20\(review\).pdf)  
+[[Playable media & textual instruments]](https://wuwae.netlify.app/library/Playable%20media%20and%20textual%20instruments.pdf)  
+[[The psychological weight of history]](https://wuwae.netlify.app/library/the%20psychological%20weight%20of%20history.pdf)  
+[[The role of play in the philosophy of Plato]](https://wuwae.netlify.app/library/the%20role%20of%20play%20in%20the%20philosophy%20of%20plato.pdf)  
+[[Rubble jumping - from Paul Virilio’s techno-dromology to video games]](https://wuwae.netlify.app/library/rubble%20jumping%20-%20from%20paul%20virilio%E2%80%99s%20techno%E2%80%90dromology%20to%20video%20games%20and%20distributed%20agency.pdf)  
+[[Rules]](https://wuwae.netlify.app/library/rules.pdf)  
+[[The semiotics of the game controller]](https://wuwae.netlify.app/library/The%20semiotics%20of%20the%20game%20controller.pdf)  
+[[Starcraft as statecraft]](https://wuwae.netlify.app/library/StarCraft%20as%20Statecraft.pdf)  
+[[Structure, sign, & play in the discourse of the human sciences]](https://wuwae.netlify.app/library/structure,%20sign,%20&%20play%20in%20the%20discourse%20of%20the%20human%20sciences.pdf)  
+[[Unwritten rules]](https://wuwae.netlify.app/library/unwritten%20rules.pdf)  
+[[The use of free time]](https://wuwae.netlify.app/library/the%20use%20of%20free%20time.pdf)
 
 ## Historical
 
-📑 Games pilgrims play  
-📑 Gaming with Odin - myth, context and reconstruction of hnefatafl  
-📑 God, games, & national glory  
-📑 Go in ancient China  
-📑 Interactive media & imperial subjects - excavating the cinematic past  
-📑 Internyet - why the Soviet Union did not build a nationwide computer network  
-📑 Is it ritual? Or is it children? - distinguishing consequences of play  
-📑 The minister who invented camping in America  
-📑 On American lot-games as evidence of Asiatic intercourse before the land bridge  
-📑 One giant leap for go  
-📑 Origin & history of the word ‘sport’  
-📑 Pixels in print (parts 1 & 2)  
-📑 Progress in play - board games & the meaning of history  
-📑 Surfing in ancient Hawaii  
-📑 Timeline of Scottish golf history
+[[Games pilgrims play]](https://wuwae.netlify.app/library/games%20pilgrims%20play.pdf)  
+[[Gaming with Odin - myth, context and reconstruction of hnefatafl]](https://wuwae.netlify.app/library/gaming%20with%20odin.pdf)  
+[[God, games, & national glory]](https://wuwae.netlify.app/library/god,%20games,%20and%20national%20glory.pdf)  
+[[Go in ancient China]](https://wuwae.netlify.app/library/go%20in%20ancient%20china.pdf)  
+[[Interactive media & imperial subjects - excavating the cinematic past]](https://wuwae.netlify.app/library/interactive%20media%20and%20imperial%20subjects%20-%20excavating%20the%20cinematic%20shooting%20gallery.pdf)  
+[[Internyet - why the Soviet Union did not build a nationwide computer network]](https://wuwae.netlify.app/library/internyet%20-%20why%20the%20soviet%20union%20did%20not%20build%20a%20nationwide%20computer%20network.pdf)  
+[[Is it ritual? Or is it children? - distinguishing consequences of play]](https://wuwae.netlify.app/library/is%20it%20ritual%20or%20is%20it%20children%20-%20distinguishing%20consequences%20of%20play%20from%20ritual%20actions%20in%20the%20prehistoric%20archaeological%20record.pdf)  
+[[The minister who invented camping in America]](https://wuwae.netlify.app/library/the%20minister%20who%20invented%20camping%20in%20america.pdf)  
+[[On American lot-games as evidence of Asiatic intercourse before the land bridge]](https://wuwae.netlify.app/library/on%20american%20lot-games%20as%20evidence%20of%20asiatic%20intercourse%20before%20the%20time%20of%20columbus.pdf)  
+[[One giant leap for go]](https://wuwae.netlify.app/library/one%20giant%20leap%20for%20go,%20or%20astronauts%20find%20life%20in%20space.pdf)  
+[[Origin & history of the word ‘sport’]](https://wuwae.netlify.app/library/origin%20and%20history%20of%20the%20word%20%E2%80%98sport%E2%80%99.pdf)  
+[[Pixels in print (parts 1 & 2)]](https://wuwae.netlify.app/library/pixel%20in%20print.pdf)  
+[[Progress in play - board games & the meaning of history]](https://wuwae.netlify.app/library/progress%20in%20play%20-%20board%20games%20and%20the%20meaning%20of%20history.pdf)  
+[[Surfing in ancient Hawaii]](https://wuwae.netlify.app/library/surfing%20in%20ancient%20hawaii.pdf)  
+[[Timeline of Scottish golf history]](https://wuwae.netlify.app/library/timeline%20of%20scottish%20golf%20history.pdf)
 
 ## Research Meta
 
-📑 A blunt critique of game criticism  
-📑 A clash between game & narrative  
-📑 Against game studies  
-📑 Computer game studies, year one  
-📑 Ludologists love stories, too - notes from a debate that never took place  
-📑 Ludology meets narratology  
-📑 Notes on Eric Zimmerman’s manifesto for a ludic century  
-📑 An open field - informal & antiformal approaches to videogame art  
-📑 Our immiscible future  
-📑 Play studies - a brief history  
-📑 The pyrrhic victory of game studies - assessing the past, present & future  
-📑 Reconsidering The Grasshopper - on the reception of Bernard Suits  
-📑 Refining & redefining game studies  
-📑 Three genres of game research - design toolbox  
-📑 Why a game canon for game studies is wrong  
-📑 Why games criticism never went mainstream
+[[A blunt critique of game criticism]](https://wuwae.netlify.app/library/A%20blunt%20critique%20of%20game%20criticism.pdf)  
+[[A clash between game & narrative]](https://wuwae.netlify.app/library/a%20clash%20between%20game%20and%20narrative.pdf)  
+[[Against game studies]](https://wuwae.netlify.app/library/against%20game%20studies.pdf)  
+[[Computer game studies, year one]](https://wuwae.netlify.app/library/computer%20game%20studies,%20year%20one.pdf)  
+[[Ludologists love stories, too - notes from a debate that never took place]](https://wuwae.netlify.app/library/ludologists%20love%20stories,%20too%20-%20notes%20from%20a%20debate%20that%20never%20took%20place.pdf)  
+[[Ludology meets narratology]](https://wuwae.netlify.app/library/ludology.pdf)  
+[[Notes on Eric Zimmerman’s manifesto for a ludic century]](https://wuwae.netlify.app/library/notes%20on%20eric%20zimmerman's%20manifesto%20for%20a%20ludic%20century.pdf)  
+[[An open field - informal & antiformal approaches to videogame art]](https://wuwae.netlify.app/library/an%20open%20field%20-%20informal%20and%20anti-formal%20approaches%20to%20videogame%20art%20history.pdf)  
+[[Our immiscible future]](https://wuwae.netlify.app/library/our%20immiscible%20future.pdf)  
+[[Play studies - a brief history]](https://wuwae.netlify.app/library/play%20studies%20-%20a%20brief%20history.pdf)  
+[[The pyrrhic victory of game studies - assessing the past, present & future]](https://wuwae.netlify.app/library/the%20pyrrhic%20victory%20of%20game%20studies%20-%20assessing%20the%20past,%20present,%20and%20future%20of%20interdisciplinary%20game%20research.pdf)  
+[[Reconsidering The Grasshopper - on the reception of Bernard Suits]](https://wuwae.netlify.app/library/reconsidering%20the%20grasshopper%20-%20on%20the%20reception%20of%20bernard%20suits%20in%20game%20studies.pdf)  
+[[Refining & redefining game studies]](https://wuwae.netlify.app/library/refining%20and%20redefining%20game%20studies.pdf)  
+[[Three genres of game research - design toolbox]](https://wuwae.netlify.app/library/three%20genres%20of%20game%20research%20-%20design%20toolbox.pdf)  
+[[Why a game canon for game studies is wrong]](https://wuwae.netlify.app/library/why%20a%20game%20studies%20canon%20is%20wrong.pdf)  
+[[Why games criticism never went mainstream]](https://wuwae.netlify.app/library/why%20gamescriticism%20never%20went%20mainstream.pdf)
 
-## Spiritual 
+## Spiritual
 
-📑 _Before eternity – an adventure game inspired by sufi mysticism_  
-📑 _Christian revelation & the cruel game of courtly love in Troilus …_  
-📑 _Christianity – a religion of joy_  
-📑 _Grasshopper theology – games, play, and the ideal of existence_  
-📑 _The hidden face of Christ – Chesterton & the concealment of divin…_  
-📑 _The parable of the children's game_  
-📑 _Played meaning (concerning the spiritual in games)_  
-📑 _The relaxations permitted to the Christian_  
-📑 _Sri Aurobindo's lila – the nature of divine play according to int…_  
-📑 _Video games – a medium after God’s own heart_  
-📑 _Why are Christian video games so bad?_
+[[_Before eternity – an adventure game inspired by sufi mysticism_]](https://wuwae.netlify.app/library/before%20eternity%20-%20an%20adventure%20game%20inspired%20by%20sufi%20mysticism.pdf)  
+[[_Christian revelation & the cruel game of courtly love in Troilus …_]](https://wuwae.netlify.app/library/christian%20revelation%20and%20the%20cruel%20game%20of%20courtly%20love%20in%20troilus%20and%20criseyde.pdf)  
+[[_Christianity – a religion of joy_]](https://wuwae.netlify.app/library/christianity%20-%20a%20religion%20of%20joy.pdf)  
+[[_Grasshopper theology – games, play, and the ideal of existence_]](https://wuwae.netlify.app/library/grasshopper%20theology%20-%20games,%20play,%20and%20the%20ideal%20of%20existence.pdf)  
+[[_The hidden face of Christ – Chesterton & the concealment of divin…_]](https://wuwae.netlify.app/library/the%20hidden%20face%20of%20christ%20chesterton%20and%20the%20concealment%20of%20divine%20mirth.pdf)  
+[[_The parable of the children's game_]](https://wuwae.netlify.app/library/the%20parable%20of%20the%20children's%20game.pdf)  
+[[_Played meaning (concerning the spiritual in games)_]](https://wuwae.netlify.app/library/played%20meaning%20\(concerning%20the%20spiritual%20in%20games\).pdf)  
+[[_The relaxations permitted to the Christian_]](https://wuwae.netlify.app/library/The%20relaxations%20permitted%20to%AAACchristian.pdf)  
+[[_Sri Aurobindo's lila – the nature of divine play according to int…_]](https://wuwae.netlify.app/library/sri%20aurobindo's%20lila%20-%20the%20nature%20of%20divine%20play%20according%20to%20integral%20advaita.pdf)  
+[[_Video games – a medium after God’s own heart_]](https://wuwae.netlify.app/library/video%20games%20a%20medium%20after%20gods%20own%20heart.pdf)  
+[[_Why are Christian video games so bad?_]](https://wuwae.netlify.app/library/why%20are%20christian%20video%20game%20so%20bad.pdf)
 
-## Computer 
+## Computer
 
-📑 _The dark forest theory of the internet_  
-📑 _Evaluating mixed-initiative creative interfaces_  
-📑 _Experimental writing in its moment of digital technization_  
-📑 _Glitch sorting – Minecraft, curation & the post-digital_  
-📑 _Gods in and of the machine – morality, divination and meaning in …_  
-📑 _How Aristotle created the computer_  
-📑 _Inside the digital sensorium_  
-📑 _Magic: The Gathering is Turing complete_  
-📑 _Man-computer symbiosis_  
-📑 _Minecraft as Web 2.0_  
-📑 _The most famous image in the early history of computing_  
-📑 _Neo-writing & AI treasure hunting_  
-📑 _Programming a computer for playing chess_  
-📑 _The question concerning technology_
+[[_The dark forest theory of the internet_]](https://wuwae.netlify.app/library/the%20dark%20forest%20theory%20of%20the%20internet.pdf)  
+[[_Evaluating mixed-initiative creative interfaces_]](https://wuwae.netlify.app/library/evaluating%20mixed-initiative%20creative%20interfaces.pdf)  
+[[_Experimental writing in its moment of digital technization_]](https://wuwae.netlify.app/library/experimental%20writing%20in%20its%20moment%20of%20digital%20technization.pdf)  
+[[_Glitch sorting – Minecraft, curation & the post-digital_]](https://wuwae.netlify.app/library/glitch%20sorting%20-%20minecraft,%20curation%20and%20the%20post-digital.pdf)  
+[[_Gods in and of the machine – morality, divination and meaning in …_]](https://wuwae.netlify.app/library/gods%20in%20and%20of%20the%20machine%20-%20morality,%20divination%20and%20meaning%20in%20digital%20religion%20and%20games.pdf)  
+[[_How Aristotle created the computer_]](https://wuwae.netlify.app/library/How%20Aristotle%20Created%20the%20Computer.pdf)  
+[[_Inside the digital sensorium_]](https://wuwae.netlify.app/library/Inside%20the%20digital%20sensorium.pdf)  
+[[_Magic: The Gathering is Turing complete_]](https://wuwae.netlify.app/library/magic%20the%20gathering%20is%20turing%20complete.pdf)  
+[[_Man-computer symbiosis_]](https://wuwae.netlify.app/library/man-computer%20symbiosis.pdf)  
+[[_Minecraft as Web 2.0_]](https://wuwae.netlify.app/library/minecraft%20as%20web%202.pdf)  
+[[_The most famous image in the early history of computing_]](https://wuwae.netlify.app/library/the%20most%20famous%20image%20in%20the%20early%20history%20of%20computing.pdf)  
+[_Neo-writing & AI treasure hunting_]  
+[[_Programming a computer for playing chess_]](https://wuwae.netlify.app/library/programming%20a%20computer%20for%20playing%20chess.pdf)  
+[[_The question concerning technology_]](https://wuwae.netlify.app/library/the%20question%20concerning%20technology.pdf)
 
-## Misc. 
+## Misc.
 
-📑 The aesthetics of rock climbing  
-📑 An appalachian trail - a project in regional planning  
-📑 Costuming the imagination - origins of anime & manga cosplay  
-📑 David Kanaga interview with ‘gamefeel forever’  
-📑 Divest from the video games industry  
-📑 Game designer as host  
-📑 Hypertext narrative & baseball  
-📑 Learning through collaboration - video game wikis  
-📑 The leisurely manifesto  
-📑 Ma yong, scholar & poet  
-📑 No obstacles - navigating the world by leaps and bounds  
-📑 Point & shoot - remediating photography in gamespace  
-📑 The potential for modding communities in cultural heritage  
-📑 Queer as in f*ck me - a design manifesto  
-📑 The quest for the solar-powered gaming console  
-📑 Researchers are using artificial intelligence to reconstruct anci…  
-📑 The scandalizing of religion, fanaticism, & modern sport  
-📑 Towards a gerontoludic manifesto  
-📑 Toward narrative instruments  
-📑 A typo created a 212-story monolith  
-📑 Stone skipping is a lost art - kurt steiner wants the world to fi…  
-📑 What has technology done to soccer?  
-📑 Your buddy, the grandmaster - repurposing the game-playing ai sur…
+[[The aesthetics of rock climbing]](https://wuwae.netlify.app/library/the%20aesthetics%20of%20rock%20climbing.pdf)  
+[[An appalachian trail - a project in regional planning]](https://wuwae.netlify.app/library/an%20appalachian%20trail%20-%20a%20project%20in%20regional%20planning.pdf)  
+[[Costuming the imagination - origins of anime & manga cosplay]](https://wuwae.netlify.app/library/costuming%20the%20imagination%20-%20origins%20of%20anime%20and%20manga%20cosplay.pdf)  
+[[David Kanaga interview with ‘gamefeel forever’]](https://wuwae.netlify.app/library/gurngroup%20interview%20with%20david%20kanaga.pdf)  
+[[Divest from the video games industry]](https://wuwae.netlify.app/library/divest%20from%20the%20video%20games%20industry.pdf)  
+[[Game designer as host]](https://wuwae.netlify.app/library/game%20designer%20as%20host.pdf)  
+[[Hypertext narrative & baseball]](https://wuwae.netlify.app/library/hypertext%20narrative%20and%20baseball.pdf)  
+[[Learning through collaboration - video game wikis]](https://wuwae.netlify.app/library/learning%20through%20collaboration%20-%20video%20game%20wikis.pdf)  
+[[The leisurely manifesto]](https://wuwae.netlify.app/library/the%20leisurely%20manifesto.pdf)  
+[[Ma yong, scholar & poet]](https://wuwae.netlify.app/library/ma%20yong,%20scholar%20and%20poet.pdf)  
+[[No obstacles - navigating the world by leaps and bounds]](https://wuwae.netlify.app/library/no%20obstacles.pdf)  
+[[Point & shoot - remediating photography in gamespace]](https://wuwae.netlify.app/library/point%20&%20shoot%20-%20remediating%20photography%20in%20gamespace.pdf)  
+[[The potential for modding communities in cultural heritage]](https://wuwae.netlify.app/library/the%20potential%20for%20modding%20communities%20in%20cultural%20heritage.pdf)  
+[[Queer as in f*ck me - a design manifesto]](https://wuwae.netlify.app/library/queer%20as%20in%20fuck%20me%20-%20a%20design%20manifesto.pdf)  
+[[The quest for the solar-powered gaming console]](https://wuwae.netlify.app/library/the%20quest%20for%20the%20solar-powered%20gaming%20console.pdf)  
+[[Researchers are using artificial intelligence to reconstruct anci…]](https://wuwae.netlify.app/library/Researchers%20Are%20Using%20Artificial%20Intelligence%20to%20Reconstruct%20Ancient%20Games.pdf)  
+[[The scandalizing of religion, fanaticism, & modern sport]](https://wuwae.netlify.app/library/the%20scandalizing%20of%20religion,%20fanaticism,%20and%20modern%20sport.pdf)  
+[[Towards a gerontoludic manifesto]](https://wuwae.netlify.app/library/towards%20a%20gerontoludic%20manifesto.pdf)  
+[[Toward narrative instruments]](https://wuwae.netlify.app/library/toward%20narrative%20instruments.pdf)  
+[[A typo created a 212-story monolith]](https://wuwae.netlify.app/library/a%20typo%20created%20a%20212-story%20monolith.pdf)  
+[[Stone skipping is a lost art - kurt steiner wants the world to fi…]](https://wuwae.netlify.app/library/stone%20skipping%20is%20a%20lost%20art%20-%20kurt%20steiner%20wants%20the%20world%20to%20find%20it.pdf)  
+[[What has technology done to soccer?]](https://wuwae.netlify.app/library/what%20has%20technology%20done%20to%20soccer.pdf)  
+[[Your buddy, the grandmaster - repurposing the game-playing ai sur…]](https://wuwae.netlify.app/library/your%20buddy,%20the%20grandmaster%20-%20repurposing%20the%20gameplaying%20ai%20surplus%20for%20inclusivity.pdf)
 
-## Relata [16]
+## Relata
 
-📑 Acid-free bits - recommendations for long-lasting electronic lite…  
-📑 Building an antilibrary - the power of unread books  
-📑 Children's lore in ‘finnegans wake’  
-📑 The concrete poem as a sign (ping pong)  
-📑 Folk interfaces  
-📑 Genrecore - the smooth hell at the end of music  
-📑 Humor in ancient chinese philosophy  
-📑 Intertubes - a study of the us long-haul fiber-optic infrastructu…  
-📑 Language after the writing machine  
-📑 Media as ritual  
-📑 Plants talk to each other using an internet of fungus  
-📑 Source of the force  
-📑 Theodor lipps on the concept of einfühlung (empathy)  
-📑 What is autonomous art? what is kunstfreiheit (artistic freedom)?  
-📑 Wordcaves not word-hoards - on robert macfarlane's landmarks  
-📑 The work of art in the age of its technological reproducibility
+[[Acid-free bits - recommendations for long-lasting electronic lite…]](https://wuwae.netlify.app/library/acid-free%20bits%20-%20recommendations%20for%20long-lasting%20electronic%20literature.pdf)  
+[[Building an antilibrary - the power of unread books]](https://wuwae.netlify.app/library/building%20an%20antilibrary%20-%20the%20power%20of%20unread%20books.pdf)  
+[[Children's lore in ‘finnegans wake’]](https://wuwae.netlify.app/library/children's%20lore%20in%20'finnegans%20wake'.pdf)  
+[[The concrete poem as a sign (ping pong)]](https://wuwae.netlify.app/library/the%20concrete%20poem%20as%20a%20sign%20\(ping%20pong\).pdf)  
+[[Folk interfaces]](https://wuwae.netlify.app/library/folk%20interfaces.pdf)  
+[[Genrecore - the smooth hell at the end of music]](https://wuwae.netlify.app/library/genrecore%20-%20the%20smooth%20hell%20at%20the%20end%20of%20music.pdf)  
+[[Humor in ancient chinese philosophy]](https://wuwae.netlify.app/library/humor%20in%20ancient%20chinese%20philosophy.pdf)  
+[[Intertubes - a study of the us long-haul fiber-optic infrastructu…]](https://wuwae.netlify.app/library/intertubes%20-%20a%20study%20of%20the%20us%20long-haul%20fiber-optic%20infrastructure.pdf)  
+[[Language after the writing machine]](https://wuwae.netlify.app/library/language%20after%20the%20writing%20machine.pdf)  
+[[Media as ritual]](https://wuwae.netlify.app/library/media%20as%20ritual.pdf)  
+[[Plants talk to each other using an internet of fungus]](https://wuwae.netlify.app/library/plants%20talk%20to%20each%20other%20using%20an%20internet%20of%20fungus.pdf)  
+[[Source of the force]](https://wuwae.netlify.app/library/source%20of%20the%20force.pdf)  
+[[Theodor lipps on the concept of einfühlung (empathy)]](https://wuwae.netlify.app/library/theodor%20lipps%20on%20the%20concept%20of%20einf%C3%BChlung%20\(empathy\).pdf)  
+[[What is autonomous art? what is kunstfreiheit (artistic freedom)?]](https://wuwae.netlify.app/library/what%20is%20autonomous%20art,%20what%20is%20kunstfreiheit%20\(artistic%20freedom\).pdf)  
+[[Wordcaves not word-hoards - on robert macfarlane's landmarks]](https://wuwae.netlify.app/library/wordcaves%20not%20word-hoards%20-%20on%20robert%20macfarlane's%20landmarks.pdf)  
+[[The work of art in the age of its technological reproducibility]](https://wuwae.netlify.app/library/the%20work%20of%20art%20in%20the%20age%20of%20its%20technological%20reproducibility.pdf)
