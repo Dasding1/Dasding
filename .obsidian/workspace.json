@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2025-04-08.md",
+                "file": "_articles/Short Essays, Articles, & Blogposts about Play.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-04-08"
+              "title": "Short Essays, Articles, & Blogposts about Play"
             }
           }
         ],
@@ -207,8 +207,22 @@
   },
   "active": "d5b24e1a92b5fc28",
   "lastOpenFiles": [
-    "_articles/US Supreme Court Cases.md",
+    "assets/attachments/what's the point if we can't have fun.pdf",
+    "assets/attachments/tourism as play.pdf",
+    "assets/attachments/there is no magic circle.pdf",
+    "assets/attachments/A single game as a lifelong hobby.pdf",
+    "assets/attachments/playing together and ritualisation in online games.pdf",
+    "assets/attachments/play as a foundation for hunter-gatherer social existence.pdf",
+    "assets/attachments/manifesto for a ludic century.pdf",
+    "assets/attachments/liberating play - an interview with anna anthropy and miguel sicart.pdf",
+    "assets/attachments/is the homo ludens cheerful and serious at the same time.pdf",
+    "assets/attachments/how not to play.pdf",
+    "assets/attachments/the forms & fluidity of game play.pdf",
+    "_daily/Untitled 2.md",
+    "_articles/Short Essays, Articles, & Blogposts about Play.md",
     "_daily/2025-04-08.md",
+    "_daily/Untitled.md",
+    "_articles/US Supreme Court Cases.md",
     "assets/imgs/Card.png",
     "assets/imgs/icons/pp,840x830-pad,1000x1000,f8f8f8.png",
     "assets/imgs/icons/journal.png",
@@ -237,20 +251,6 @@
     "_daily/2024-05.md",
     "_daily/2025-04-03.md",
     "_daily/2022-05-11.md",
-    "_daily/2024-04-13.md",
-    "_daily/2024-04-15.md",
-    "_daily/2024-04-16.md",
-    "_daily/2024-04-25.md",
-    "_daily/2024-04-28 The Deer's Cry.md",
-    "assets/favicon/favicon-32x32.png.crdownload",
-    "assets/favicon/favicon-16x16.png.crdownload",
-    "assets/favicon/android-chrome-512x512.png.crdownload",
-    "assets/attachments/5169.mp4",
-    "assets/attachments/The Deer's Cry.mp3",
-    "assets/favicon/site.webmanifest",
-    "assets/favicon/Dasding.ico",
-    "assets/favicon/favicon.ico",
-    "assets/favicon/apple-touch-icon.png.crdownload",
-    "styles.css.scss"
+    "_daily/2024-04-13.md"
   ]
 }
