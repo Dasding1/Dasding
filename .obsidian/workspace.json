@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/US Supreme Court Cases.md",
+                "file": "_daily/2025-04-08.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "US Supreme Court Cases"
+              "title": "2025-04-08"
             }
           }
         ],
@@ -207,8 +207,9 @@
   },
   "active": "d5b24e1a92b5fc28",
   "lastOpenFiles": [
-    "assets/imgs/Card.png",
     "_articles/US Supreme Court Cases.md",
+    "_daily/2025-04-08.md",
+    "assets/imgs/Card.png",
     "assets/imgs/icons/pp,840x830-pad,1000x1000,f8f8f8.png",
     "assets/imgs/icons/journal.png",
     "assets/imgs/icons/icon3.gif",
