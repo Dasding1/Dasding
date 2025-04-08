@@ -7,45 +7,46 @@ tags:
 ---
 # Untitled
 
-## Play 
+## Play
 
-📑 [The anarchy of paidia]()
-📑 The benefits of playing video games  
-📑 The complexity of ludus  
-📑 Donkeyspace  
-📑 The end of childhood play  
-📑 The forms & fluidity of game play  
-📑 How not to play  
-📑 Is the homo ludens cheerful & serious at the same time  
-📑 Liberating play - an interview with anna anthropy & miguel sicart  
-📑 Manifesto for a ludic century  
-📑 Play as a foundation for hunter-gatherer social existence  
-📑 Playing together & ritualisation in online games  
-📑 A single game as a lifelong hobby  
-📑 There is no magic circle  
-📑 Tourism as play  
-📑 What’s the point if we can’t have fun?
+📑 [The anarchy of paidia](https://wuwae.netlify.app/library/the%20anarchy%20of%20paidia.pdf)  
+📑 [The benefits of playing video games](https://wuwae.netlify.app/library/the%20benefits%20of%20playing%20video%20games.pdf)  
+📑 [The complexity of ludus](https://wuwae.netlify.app/library/The%20Complexity%20of%20Ludus.pdf)  
+📑 [Donkeyspace](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
+📑 [The end of childhood play](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
+📑 [The forms & fluidity of game play](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
+📑 [How not to play](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
+📑 [Is the homo ludens cheerful & serious at the same time](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
+📑 [Liberating play - an interview with anna anthropy & miguel sicart](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
+📑 [Manifesto for a ludic century](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
+📑 [Play as a foundation for hunter-gatherer social existence](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
+📑 [Playing together & ritualisation in online games](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
+📑 [A single game as a lifelong hobby](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
+📑 [There is no magic circle](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
+📑 [Tourism as play](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
+📑 [What’s the point if we can’t have fun?](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)
 
 ## Videogames
 
-📑 The aesthetics of the aesthetics of the aesthetics of video games  
-📑 An analysis of the role/impact of the magic circle in video games  
-📑 Assessing interactivity in video game design  
-📑 Bullet hell - the globalized growth of danmaku  
-📑 The fictional incompleteness of digital gameworlds  
-📑 From masher to master - the educated video game enthusiast’s fight  
-📑 I have no words & I must design - toward a critical vocabulary for games  
-📑 Oldest culture, newest medium - what emerges from the clash?  
-📑 Philosophical games  
-📑 Play on display - the exhibition of videogames  
-📑 The role of gaming platforms in young males’ trajectories of technology  
-📑 The tao of hadouken - what Bruce Lee can teach us about improving games  
-📑 “Twere well it were done quickly” - what belongs in a glitchless game  
-📑 Video games as myth reconstructions  
-📑 Video games as objects and vehicles of nostalgia  
-📑 Videogame art & the legitimation of videogames by the art world  
-📑 Video games can develop graduate skills in higher education students  
-📑 Video games exceptionalism vs. media specificity
+📑 [The aesthetics of the aesthetics of the aesthetics of video games](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
+📑 [An analysis of the role/impact of the magic circle in video games](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
+📑 [Assessing interactivity in video game design](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
+📑 [Bullet hell - the globalized growth of danmaku](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
+📑 [The fictional incompleteness of digital gameworlds](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
+📑 [From masher to master - the educated video game enthusiast’s fight](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
+📑 [I have no words & I must design - toward a critical vocabulary for games](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
+📑 [Oldest culture, newest medium - what emerges from the clash?](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
+📑 [Philosophical games](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
+📑 [Play on display - the exhibition of videogames](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
+📑 [The role of gaming platforms in young males’ trajectories of technology](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
+📑 [The tao of hadouken - what Bruce Lee can teach us about improving games](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
+📑 [“Twere well it were done quickly” - what belongs in a glitchless game](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
+📑 [Video games as myth reconstructions](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
+📑 [Video games as objects and vehicles of nostalgia](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
+📑 [Videogame art & the legitimation of videogames by the art world](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
+📑 [Video games can develop graduate skills in higher education students](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)  
+📑 [Video games exceptionalism vs. media specificity](https://chatgpt.com/c/67f5840a-ec1c-8012-8c61-0a8112499902)
+
 
 ## Theory
 
@@ -110,7 +111,7 @@ tags:
 📑 Why a game canon for game studies is wrong  
 📑 Why games criticism never went mainstream
 
-### Spiritual 
+## Spiritual 
 
 📑 _Before eternity – an adventure game inspired by sufi mysticism_  
 📑 _Christian revelation & the cruel game of courtly love in Troilus …_  
@@ -124,7 +125,7 @@ tags:
 📑 _Video games – a medium after God’s own heart_  
 📑 _Why are Christian video games so bad?_
 
-### Computer 
+## Computer 
 
 📑 _The dark forest theory of the internet_  
 📑 _Evaluating mixed-initiative creative interfaces_  
