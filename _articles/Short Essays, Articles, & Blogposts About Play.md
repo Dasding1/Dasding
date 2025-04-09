@@ -27,7 +27,7 @@ tags:
 
 ## Videogames
 
-[The aesthetics of the aesthetics of the aesthetics of video games](https://wuwae.netlify.app/library/the%20aesthetics%20of%20the%20aesthetics%20of%20the%20aesthetics%20of%20video%20games%20\(1\).pdf)  
+[The aesthetics of the aesthetics of the aesthetics of video games](https://wuwae.netlify.app/library/the%20aesthetics%20of%20the%20aesthetics%20of%20the%20aesthetics%20of%20video%20games.pdf)  
 [An analysis of the role/impact of the magic circle in video games](https://wuwae.netlify.app/library/an%20analysis%20of%20the%20role-impact%20of%20the%20magic%20circle%20in%20video%20games.pdf)  
 [Assessing interactivity in video game design](https://wuwae.netlify.app/library/assessing%20interactivity%20in%20video%20game%20design.pdf)  
 [Bullet hell - the globalized growth of danmaku](https://wuwae.netlify.app/library/bullet%20hell%20-%20the%20globalized%20growth%20of%20danmaku.pdf)  
