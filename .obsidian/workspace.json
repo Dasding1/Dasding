@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/FEMME GAMES.md",
+                "file": "_articles/Good Games, bad games.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "FEMME GAMES"
+              "title": "Good Games, bad games"
             }
           }
         ],
@@ -207,7 +207,8 @@
   },
   "active": "d5b24e1a92b5fc28",
   "lastOpenFiles": [
-    "_articles/FEMME GAMES.md",
+    "assets/attachments/273.jpg",
+    "_articles/Good Games, bad games.md",
     "_articles/Short Essays, Articles, & Blogposts About Play.md",
     "_daily/2025-04-10.md",
     "_daily/2025-04-09.md",
@@ -250,7 +251,6 @@
     "_journal/2025-03 Suits.md",
     "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
     "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
-    "_journal/Notes on Remilia's New Internet.md",
-    "_journal/Jade post.md"
+    "_journal/Notes on Remilia's New Internet.md"
   ]
 }
