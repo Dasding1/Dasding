@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/Short Essays, Articles, & Blogposts About Play.md",
+                "file": "_daily/2025-04-10.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Short Essays, Articles, & Blogposts About Play"
+              "title": "2025-04-10"
             }
           }
         ],
@@ -205,10 +205,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e509f202f4abd033",
+  "active": "d5b24e1a92b5fc28",
   "lastOpenFiles": [
-    "_daily/2025-04-09.md",
     "_articles/Short Essays, Articles, & Blogposts About Play.md",
+    "_daily/2025-04-10.md",
+    "_daily/2025-04-09.md",
     "_articles/Videogame kino list - Antoine - Icycalm - Others.md",
     "library/reMERZ neo-writing & ai treasure hunting (1).pdf",
     "library/#reMERZ neo-writing & ai treasure hunting.pdf",
@@ -250,7 +251,6 @@
     "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
     "_journal/Notes on Remilia's New Internet.md",
     "_journal/Jade post.md",
-    "_daily/2024-05.md",
-    "_daily/2025-04-03.md"
+    "_daily/2024-05.md"
   ]
 }
