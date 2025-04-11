@@ -13,7 +13,7 @@ Talvez aqui resida o mérito mais discreto - e por isso, menos celebrado - de HA
 
 ![[273.jpg]]
 
-Bons videogames são femininos. Eles não permitem aos jogadores ascender a esse nível utilitário e manipular seus sistemas de cara. Eles não permitem a sua própria "gameficação", mas abrem margem para toda a vagueza, ambiguidade e estranheza dos seus mundos - porque é justamente isso que faz o nosso tão indefinidamente interessante.
+Bons videogames são femininos. Eles não permitem aos jogadores ascender a esse nível utilitário e manipular seus sistemas de cara. Eles não permitem a sua própria "gameficação", mas abrem margem para toda a vagueza, ambiguidade e estranheza dos seus mundos, seduzindo não pelo que servem mas pelo que são.
 
 Eles são essencialmente simulações da realidade, com todos os seus elementos de mistério, ignorância e desvelamentos fugidios. O programador precisa dar um jeito de fazer o perpétuo desconhecido emergir do limitado/conhecido, criando uma imagem do indefinido cósmico, uma blockula, da qual só conhece as arestas que ele mesmo delimitou; ele precisa gerar indefinidas combinações entre assets procedurais, _"biomas complexos, vida selvagem, sistemas climáticos que interagem com elegância algorítimica, não uma mera aleatoriedade bruta"_ que aos poucos manifestem em formas não uma simples intenção utilitária, mas um centro oculto de vontades contraditórias. 
 
