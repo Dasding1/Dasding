@@ -25,6 +25,8 @@ tags: miya
 
 > 4 - Female masturbation is intensive, & usually targets specifically the clitoris. This dulls clitoral sensitivity, making it harder for the man to pleasure her, and produces a self-fetishization which targets the specifically efficient attraction point over a holistic experience.
 
+![[Pasted image 20250419154009.png]]
+
 > 5 - Overmasturbatory men might have noted similar: that women cannot pleasure them as efficiently as they pleasure themselves, and a dulling of their sensation from their aggressive masturbation. But masturbation is far insidious in women, remolding their sensitive psyches totally
 
 > 6 - The blame is often on male masturbation, and the psychological effects of porn & the dulling of sexual pleasure. This is bad and worth cutting, but ultimately a distraction. More important is it teaches men to think of sex as masturbation, an act purely aimed at ejaculation.
