@@ -3,9 +3,9 @@ published: true
 topic: 
 subtitle: 
 date: 2025-04-19
-tags: 
+tags: miya
 ---
-# Untitled
+# Physiosexological factors responsible for the failure of modern relationships
 
 > 0 - Well known that modern relationships experiencing dramatic failure to sustain themselves in the long-term. The reason is densely layered, but this thread will exclusively focus on the fundamental physical conditions, that is: the hormonal factors of love, and their disruption.
 
