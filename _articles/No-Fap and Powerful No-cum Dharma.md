@@ -7,6 +7,8 @@ tags: miya
 ---
 # No-Fap and Powerful No-cum Dharma
 
+![[Pasted image 20250419153325.png]]
+
 > 1 - Nofap's broscience has partially converged on many truths known to eternal tradition, great precedence in power gains of sexual meditation. However, it misses two key aspects the ancients knew: semen retention, and SEX!
 
 > 2 - It is only abstinence of ejaculation, and abstinence of lust, which will lead you towards immortality. Your sexual energy must either be cultivated and internalized, or entirely redirected entirely away in a true celibacy. Simple restraint from acting on lust is not enough.
