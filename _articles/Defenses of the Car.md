@@ -52,3 +52,5 @@ tags:
 > 20 - They live their lives railroaded, and find it comfortable, safe, reliable, and so wish to push this onto you. Ah, the freedom from the worry of freedom. Slaves, they’re threatened by any who are not intimidated, who relish in freedoms they cannot. Resentful of mastery.
 
 > 21 - Their best criticism of the car is pointing to it trapped in city traffic, its power castrated, brought down close to level of foot peasant. Not being allowed out of the city, they forget there is still an outside in which the car is freed, while they remain castrated.
+
+![[Pasted image 20250419172221.png]]
