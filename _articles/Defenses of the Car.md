@@ -5,7 +5,7 @@ subtitle:
 date: 2025-04-19
 tags: 
 ---
-# Cars
+# Defenses of the Car
 
 ![[Pasted image 20250419165829.png]]
 
