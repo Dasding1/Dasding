@@ -7,6 +7,8 @@ tags:
 ---
 # Post-Continuity
 
+> those moments in modern film that transcend all bodies and sets, all grounding even artificial in a physical reality, sublimation into senseless baroque lightshow, carry the fullest aspect of contemporaneity. this is cinema's purpose.
+
 In my 2010 book _Post-Cinematic Affect_, I coined the term “post-continuity.” I used this term to describe a style of filmmaking that has become quite common in action films of the past decade or so. In what I call the post-continuity style, “a preoccupation with immediate effects trumps any concern for broader continuity — whether on the immediate shot-by-shot level, or on that of the overall narrative.”
 
 In recent action blockbusters by the likes of Michael Bay and Tony Scott, there no longer seems to be any concern for delineating the geography of action, by clearly anchoring it in time and space. Instead, gunfights, martial arts battles, and car chases are rendered through sequences involving shaky handheld cameras, extreme or even impossible camera angles, and much composited digital material — all stiched together with rapid cuts, frequently involving deliberately mismatched shots. The sequence becomes a jagged collage of fragments of explosions, crashes, physical lunges, and violently accelerated motions. There is no sense of spatiotemporal continuity; all that matters is delivering a continual series of shocks to the audience.
