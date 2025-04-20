@@ -65,3 +65,5 @@ tags:
 > 56. I shall teach you the Second Recipe: Closed lid dutch-oven on grill - Heat on low perpetually - Add meat, bones & vegetable scraps - Fill with water + splash of salt and/or raw ACV - Pour out broth for soup when needed - Refill water & add more scraps when needed
 > 57. This is the perpetual broth. The broth is a black hole whose gravity draws out all nutrients. Everyone should maintain in their home, for all food scraps. Discard hollowed materials & continuously refill. Never turn off or clean. I have supped from a broth aged 680 years yet.
 > 58. Grilling is the right hand path of cooking, baking the left hand path. Be very wary of the pastry's dark allure; not to mention the cake, which through black arts somehow disappears precious eggs.
+> 59. Most of you already know this, but good diet is the exact opposite what is taught by government institutions: Fat is good. Meat good. Salt good. Grains bad. Processed Sugar evil. Vegetables, carbs are okay at best. Calories don't matter.
+> 60. 
