@@ -205,10 +205,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5b24e1a92b5fc28",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
-    "index.md",
+    "_articles/null.md",
     "_articles/Post-Continuity.md",
+    "index.md",
     "_articles/Diet Tips.md",
     "_articles/Shampoo = Eggs.md",
     "assets/attachments/Pasted image 20250420153956.png",
@@ -251,7 +252,6 @@
     "_daily/2025-04-08.md",
     "_daily/Untitled.md",
     "_articles/US Supreme Court Cases.md",
-    "_journal/Regression of the Games Industry.md",
-    "_daily/2025-04-07.md"
+    "_journal/Regression of the Games Industry.md"
   ]
 }
