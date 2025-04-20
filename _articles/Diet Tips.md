@@ -42,7 +42,7 @@ tags:
 > 33. the 5 most essential versatile herbs you MUST keep stocked in your medicinal drawer: ginger, cayenne, cloves, chaparral, peppermint. I will give U one secret remedy: put cayenne pepper in open cut, it will seal overnight! This is not a troll, it doesn't burn, trust me!
 > 34. Cayenne pepper is a god spice, but cooking it burns its remedial properties. It should be ground in at the end of all cooking, or better yet - keep it on the table along with your salt and pepper.
 > 35. Plantstuff vegetables, nuts etc. are naturally toxic, to prevent being damaged by animals. Should be avoided. Fruits, however, are designed to be nutritious, and are accordingly delectable, so their seeds are spread, and roots aren't toxic as they're hard to reach by animals.
-> 36. [no poo](https://x.com/neltnin/status/1215377256618627072?s=20)
+> 36. [no poo](https://wuwae.netlify.app/articles/shampoo-eggs)
 > 37. for beautiful skin, as far as cosmetics are concerned, shower with grapeseed oil and scrub, hard, with exfoliating bath cloth. use vitamin C serum on the face and tan with coconut oil.
 > 38. The most important aspect thing weight lifting does for your looks is improves posture. The second most important thing is it strengthens the neck and jaw. Commercial gyms are a meme, just buy kettle bells and a pullup bar. Calisthenics & swimming also valid, but nothing else
 > 39. Dish soap is unnecessary, ruins the taste of foods and keeps your immunity weak. Just rinse and scrub. Cast-iron equipment will teach you to be comfortable with this truth, as well as the depths of flavor available to uncleaned utensils.
