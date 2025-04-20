@@ -10,10 +10,6 @@ title: Home
 <p style="color: #4b2e36;">
 HOT skinny abs terrorist bag
 <br>
-SAMIZDAT 
-<br>
-SACRED WHORES
-<br>
 VAMPIRE 
 <br>
 SHENZHEN WEB
