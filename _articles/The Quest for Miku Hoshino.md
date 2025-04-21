@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 topic: 
 subtitle: 
 date: 2025-04-21
@@ -261,11 +261,11 @@ From what I observed, I think she's just Korean French who speaks fluent Japanes
 
 ![[Pasted image 20250421183317.png]]
 
-{{<youtube OE88NcdRT1c>}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OE88NcdRT1c" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/embed/lo9HavxV4-M
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lo9HavxV4-M" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/embed/iB7Uy_FlKKQ
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iB7Uy_FlKKQ" frameborder="0" allowfullscreen></iframe>
 
 While I was attracted to her at the time, I really just wanted her to join the outsiders.  
 Whenever I see a woman who looks like a perfect fit, I try to introduce them to that world.  
@@ -474,7 +474,7 @@ Yet for some reason, all of these different branches of Christian, gets labeled 
   
 This girl is a right leaning Satanist. (Which is ironic I know, since most self proclaimed Right wingers would reject her just for being Satanist. Thulian is connected to the Thule Society though, and I'll let you figure out the rest for yourself.)
 
-https://www.youtube.com/embed/9M396RBeIWc
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9M396RBeIWc" frameborder="0" allowfullscreen></iframe>
   
 In the music scene, rarely anyone treats you like you're crazy if you talk about weird esoteric shit, or the illuminati, freemasons, satanists etc. because that's just known as a common everyday reality within the industry.  It just comes with the territory of the music biz.  You bring this shit up in the gaming scene though?  They call you Qanon, or a qtard or conspiracy theorist.  
 
