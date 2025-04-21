@@ -509,7 +509,7 @@ Every single hobby has been taken over somewhat by Corpos and their wokie religi
 
 I honestly thought that I was going to get Metoo'd since I was one of those guys who would just walk up to a hot woman and lick her face (back in the day as late as early 2014, you used to actually be able to show sexual affection towards women, unlike now where we're forced to act as asexual & show no interest, otherwise you risk an online jealous hate mob ruining your life.) and they'd lick you back, but I never got cancelled from them and I thought that was the most likely groups to have a beef with me. (Hey if it even happened to Johnny Depp, and Amber Heard is fine as fuck.
 
-https://www.youtube.com/embed/3rD4ylD53V0
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3rD4ylD53V0" frameborder="0" allowfullscreen></iframe>
 
 That could've happened to any of us, because few straight men could resist her back when she looked like that.
 
