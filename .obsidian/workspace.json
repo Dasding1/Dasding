@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/Post-Continuity.md",
+                "file": "_daily/2025-04-21.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Post-Continuity"
+              "title": "2025-04-21"
             }
           }
         ],
@@ -205,10 +205,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e509f202f4abd033",
+  "active": "d5b24e1a92b5fc28",
   "lastOpenFiles": [
-    "_articles/null.md",
     "_articles/Post-Continuity.md",
+    "_daily/2025-04-21.md",
+    "_articles/null.md",
     "index.md",
     "_articles/Diet Tips.md",
     "_articles/Shampoo = Eggs.md",
@@ -251,7 +252,6 @@
     "_articles/Short Essays, Articles, & Blogposts about Play.md",
     "_daily/2025-04-08.md",
     "_daily/Untitled.md",
-    "_articles/US Supreme Court Cases.md",
-    "_journal/Regression of the Games Industry.md"
+    "_articles/US Supreme Court Cases.md"
   ]
 }
