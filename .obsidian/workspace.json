@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/The Quest for Miku Hoshino.md",
+                "file": "_daily/2025-04-22.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Quest for Miku Hoshino"
+              "title": "2025-04-22"
             }
           }
         ],
@@ -207,9 +207,10 @@
   },
   "active": "d5b24e1a92b5fc28",
   "lastOpenFiles": [
+    "_articles/The Quest for Miku Hoshino.md",
+    "_daily/2025-04-22.md",
     "_site/readme.md",
     "readme.md",
-    "_articles/The Quest for Miku Hoshino.md",
     "assets/attachments/Inoki-Shoot.gif",
     "assets/attachments/2169anmitsuki.gif",
     "assets/attachments/Pasted image 20250421184011.png",
@@ -251,7 +252,6 @@
     "library/humor in ancient chinese philosophy.pdf",
     "library/intertubes - a study of the us long-haul fiber-optic infrastructure.pdf",
     "library/language after the writing machine.pdf",
-    "_daily/2024-05-24.md",
-    "_articles/Short Essays, Articles, & Blogposts about Play.md"
+    "_daily/2024-05-24.md"
   ]
 }
