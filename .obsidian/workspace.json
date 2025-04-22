@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/The Quest for Miku Hoshino.md",
+                "file": "_articles/Semen Retention.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Quest for Miku Hoshino"
+              "title": "Semen Retention"
             }
           }
         ],
@@ -207,8 +207,10 @@
   },
   "active": "d5b24e1a92b5fc28",
   "lastOpenFiles": [
-    "_daily/2025-04-22.md",
+    "assets/attachments/Pasted image 20250422174422.png",
     "_articles/The Quest for Miku Hoshino.md",
+    "_articles/Semen Retention.md",
+    "_daily/2025-04-22.md",
     "_site/readme.md",
     "readme.md",
     "assets/attachments/Inoki-Shoot.gif",
@@ -243,7 +245,6 @@
     "_articles/Videogame kino list - Antoine - Icycalm - Others.md",
     "library/reMERZ neo-writing & ai treasure hunting (1).pdf",
     "library/#reMERZ neo-writing & ai treasure hunting.pdf",
-    "_daily/2022-05-11.md",
     "library/building an antilibrary - the power of unread books.pdf",
     "library/children's lore in 'finnegans wake'.pdf",
     "library/the concrete poem as a sign (ping pong).pdf",
@@ -251,7 +252,6 @@
     "library/genrecore - the smooth hell at the end of music.pdf",
     "library/humor in ancient chinese philosophy.pdf",
     "library/intertubes - a study of the us long-haul fiber-optic infrastructure.pdf",
-    "library/language after the writing machine.pdf",
-    "_daily/2024-05-24.md"
+    "library/language after the writing machine.pdf"
   ]
 }
