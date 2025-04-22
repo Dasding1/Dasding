@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2025-04-22.md",
+                "file": "_articles/The Quest for Miku Hoshino.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-04-22"
+              "title": "The Quest for Miku Hoshino"
             }
           }
         ],
@@ -207,8 +207,8 @@
   },
   "active": "d5b24e1a92b5fc28",
   "lastOpenFiles": [
-    "_articles/The Quest for Miku Hoshino.md",
     "_daily/2025-04-22.md",
+    "_articles/The Quest for Miku Hoshino.md",
     "_site/readme.md",
     "readme.md",
     "assets/attachments/Inoki-Shoot.gif",
