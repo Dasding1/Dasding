@@ -38,8 +38,8 @@ Though I shouldn't throw too much shade at Mexicans, since it's not Mexicans com
   
 **It's usually just White people (mostly self-proclaimed Liberals.) doing that. That's their way of insulting Japanese culture, and showing off how inferior they think we are.  
   
-This is the real reason why I always get offended when I see Westerners (mostly White people) constantly whining about sexuality in video games (100% of those games are made in Japan.). I view it as White people sneakily trying to assert their racist opinions as fact while trying to come off as not racist at all.  
-Just look at how only Japanese games get censored on PS4. Metro Exodus didn't get censored and that has strippers & full frontal nudity. Only Devil May Cry 5 got censored and that was just a mere buttcrack.**  
+**This is the real reason why I always get offended when I see Westerners (mostly White people) constantly whining about sexuality in video games (100% of those games are made in Japan.). I view it as White people sneakily trying to assert their racist opinions as fact while trying to come off as not racist at all.  
+Just look at how only Japanese games get censored on PS4. Metro Exodus didn't get censored and that has strippers & full frontal nudity. Only Devil May Cry 5 got censored and that was just a mere buttcrack.
 
 > p.s. these were my main arsenals for missions. Guess they are pretty shit for post-game/coop content
 
