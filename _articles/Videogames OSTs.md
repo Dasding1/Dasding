@@ -7,8 +7,8 @@ tags:
 ---
 # Videogames OSTs
 
-![[StandAloneComplex 2.DnBsanodgmix.jpeg]]
+![[StandAloneComplex 2.DnBsanodgmix.png]]
 
-![[GhostInThe Shell _ StandAloneComplex-TohokuAutonomousAreaOffice Block.mp3]]
+<center><audio controls><source src="https://files.catbox.moe/03jkvj.mp3" type="audio/mpeg">Your browser does not support the audio tag.</audio></center>
 
-<center><audio controls><source src="https://files.catbox.moe/n55f6i.mp3" type="audio/mpeg">Your browser does not support the audio tag.</audio></center>
+<center><audio controls><source src="https://files.catbox.moe/toxg21.mp3" type="audio/mpeg">Your browser does not support the audio tag.</audio></center>
