@@ -183,8 +183,7 @@ So vicious, so grounded, so personal, so engrossing. Shirtless guys throwing roc
 
 ## Resident Evil – Code: Veronica
 
-Moving slowly, yet efficiently; conserving resources, avoiding combat; exploring a remote nowhere, back and forth through a vast daedalian gothic mansion, paranoiacally laced with secret passages and underground biolabs. Saveroom comfyness. The controls feel a bit too stiff by today’s standards; the characters are so simple, so cartoony, that the story might actually benefit from replacing the few bits of dialogue with plain text — and still, so _resident-evilesque_.
-
+Moving slowly, yet efficiently; conserving resources, avoiding combat; exploring a remote nowhere, dreamlike back and forth through a vast daedalian gothic mansion, paranoiacally laced with secret passages and underground biolabs. Saveroom comfyness. The controls feel a bit too stiff by today’s standards; the characters are so simple, so cartoony, that the story might actually benefit from replacing the few bits of dialogue with plain text — but I wouldn't like that cause the 1st wave of Resident Evils has one of the few examples of genuinely funny games. let me have a few laughs, man
 
 
 
