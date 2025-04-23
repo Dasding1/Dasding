@@ -13,7 +13,7 @@ Maybe it's coz I have Japanese-sensibilities, but I don't even notice it. Americ
 
 ![[Pasted image 20250423170108.png]]
 
-I personaly prefer swimsuit Mythra over Pyra but that's coz Pyra dresses like Brittney Spears and **has some weird hiphop fashion-sense going on. **
+I personaly prefer swimsuit Mythra over Pyra but that's coz Pyra dresses like Brittney Spears and **has some weird hiphop fashion-sense going on.**
 
 ![[Pasted image 20250423170127.png]]
 
