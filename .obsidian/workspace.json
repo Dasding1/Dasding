@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/Videogame kino list - Antoine - Icycalm - Others.md",
+                "file": "_articles/Videogames OSTs.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Videogame kino list - Antoine - Icycalm - Others"
-            }
-          },
-          {
-            "id": "e24b3f8f44086845",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_daily/2025-04-23.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-23"
+              "title": "Videogames OSTs"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,8 +205,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e24b3f8f44086845",
+  "active": "d5b24e1a92b5fc28",
   "lastOpenFiles": [
+    "assets/attachments/Ghost In The Shell _ Stand Alone Complex - Tohoku Autonomous Area Office Block.mp3",
+    "_daily/2024-04-28 The Deer's Cry.md",
+    "_articles/Videogames OSTs.md",
+    "assets/attachments/Stand Alone Complex 2.DnB sanodg mix.jpeg",
+    "_daily/Untitled.md",
     "_daily/2025-04-23.md",
     "_articles/Semen Retention.md",
     "assets/attachments/Pasted image 20250422174422.png",
@@ -236,7 +227,6 @@
     "assets/attachments/Pasted image 20250421183941.png",
     "assets/attachments/Pasted image 20250421183921.png",
     "assets/attachments/Hana-Dancing.gif",
-    "assets/attachments/Pasted image 20250421183317.png",
     "_articles/Post-Continuity.md",
     "_daily/2025-04-21.md",
     "_articles/null.md",
@@ -253,10 +243,6 @@
     "_daily/2025-04-19.md",
     "_journal/how to get a husband 2025.md",
     "_articles/Good Games, bad games.md",
-    "_daily/2025-04-12.md",
-    "_daily/2025-04-10.md",
-    "_daily/2025-04-09.md",
-    "_articles/Videogame kino list - Antoine - Icycalm - Others.md",
     "library/reMERZ neo-writing & ai treasure hunting (1).pdf",
     "library/#reMERZ neo-writing & ai treasure hunting.pdf",
     "library/building an antilibrary - the power of unread books.pdf",
