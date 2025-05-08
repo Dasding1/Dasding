@@ -18214,7 +18214,7 @@ French Article on Demon Style Subculture (NSFW):**
 
 ### [Wayback Machine](https://web.archive.org/web/20240615000000*/http://www.kauntakaru.com/2024/03/blog-post.html)
 
- ![web.archive.org](https://web-static.archive.org/_static/images/archive.ico)web.archive.org
+ ![web.archive.org](https://web-static.archive.org/_static/images/archive.ico)
 
   
 **Click a blue circle on the calendar to view an archived version of the webpage. I don't want to directly link to it since for some reason, Google Images associates links from this thread to images related to Varishangout, and I don't really like the idea of photos of people being stabbed. or dead babies with medical conditions between panes of glass, being intermixed with mostly anime and manga illustrations. I think the article is interesting, but don't look if you're squeamish. If you've read a fair number of Guro-manga, then the contents should be somewhat tame in comparison.  
