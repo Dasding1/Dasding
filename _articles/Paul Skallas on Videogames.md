@@ -3,7 +3,7 @@ published: true
 topic: 
 subtitle: 
 date: 2025-05-08
-tags: 
+tags: videogames
 ---
 # Paul Skallas on Videogames
 
